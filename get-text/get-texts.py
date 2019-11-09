@@ -74,7 +74,7 @@ def get_responces(url):
     how_we_built_it: str = ""
     challenges_we_ran_into: str = ""
     acomplishments_we_are_proud_of: str = ""
-    with urlopen('https://devpost.com/software/police-scanner') as response:
+    with urlopen(url) as response:
         html = response.read()
 
     soup = BeautifulSoup(html, 'html.parser')
