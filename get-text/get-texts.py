@@ -8,7 +8,7 @@ import csv
 def main():
 
     # Doing: 0 - 50
-    all_projects = []
+    all_projects = ["title", "tagline", "responses", "tech", "is_winner", "like_count", "members", "photo_url", "has_video", "comment_count"]
     data = []
     num_pages_executed = 50 # 6 elements per page
     root_url = "https://devpost.com/software/search?page="
@@ -116,6 +116,7 @@ def get_data_between_two_headers(infile, start, end, alt_start, alt_end) -> str:
             continue
         if copy:
             data += line
-    return data
+
+    return data + '\n'
 
 main()
