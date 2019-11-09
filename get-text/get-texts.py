@@ -7,11 +7,12 @@ import csv
 
 def main():
 
-    all_projects = []
+    # Doing: 0 - 50
+    all_projects = ["title", "tagline", "responses", "tech", "is_winner", "like_count", "members", "photo_url", "has_video", "comment_count"]
     data = []
-    num_pages_executed = 4 # 6 elements per page
+    num_pages_executed = 50 # 6 elements per page
     root_url = "https://devpost.com/software/search?page="
-    for i in range(1, num_pages_executed, 1):
+    for i in range(0, num_pages_executed, 1):
         req = Request(root_url + str(i))
         req.add_header('Accept', 'application/json')
         # urllib.request.urlopen(root_url + str(i))
@@ -115,6 +116,7 @@ def get_data_between_two_headers(infile, start, end, alt_start, alt_end) -> str:
             continue
         if copy:
             data += line
-    return data
+
+    return data + '\n'
 
 main()
