@@ -1,0 +1,1 @@
+name, tagline, list of responces[Inspiration, What it does, How I build it, Challenges I ran into, Accomplishments that I am proud of, What I learned, What is next for], List of technologies, is a winner, like count, member list, url to photo, has video, comment count
