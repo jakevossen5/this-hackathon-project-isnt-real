@@ -1,0 +1,4 @@
++ list of tech used			(scrape)
++ number of photos			(scrape)
++ number of videos			(scrape)
++ length of each section 	(training)
