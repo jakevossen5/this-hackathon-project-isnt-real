@@ -41,7 +41,7 @@ plt.style.use('ggplot')
 outDir = "outputs"
 inDir = "resource"
 
-all_photos = []
+all_photos = ['https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/770/181/datas/gallery.jpg']
 
 def generate_text(fileInput, fileOutput, lines):
     textgen = textgenrnn()
