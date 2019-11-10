@@ -41,6 +41,8 @@ plt.style.use('ggplot')
 outDir = "outputs"
 inDir = "resource"
 
+all_photos = ['https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/770/181/datas/gallery.jpg']
+
 def generate_text(fileInput, fileOutput, lines):
     textgen = textgenrnn()
     # train the model
@@ -51,36 +53,29 @@ def generate_text(fileInput, fileOutput, lines):
     return textgen.generate(n=lines)
 
 
-
-# acomplishments = generate_text(inDir+"/accomplishments.txt", outDir+"/accomplishments/accomplishments.txt", 50)
-# how_we_build = generate_text(inDir+"/built.txt", outDir+"/how_we_build/built.txt", 50)
-# challenges = generate_text(inDir+"/challenges.txt", outDir+"/challenges/challenges.txt", 50)
-# what_it_does = generate_text(inDir+"/does.txt", outDir+"/what_it_does/does.txt", 50)
-# insp = generate_text(inDir+"/inspiration.txt", outDir+"/insp/inspiration.txt", 50)
-# what_learned = generate_text(inDir+"/learned.txt", outDir+"/what_learned/learned.txt", 50)
-# whats_next = "lots of things are next" #generate_text(inDir+"/next.txt", outDir+"/next.txt", 50)
-# sub_title = generate_text(inDir+"/subtitles.txt", outDir+"/subtitles.txt", 1)
-# title = generate_text(inDir+"/titles.txt", outDir+"/titles.txt", 1)
-
 def get_generic(folder):
     # print(random.choice(os.listdir(outDir + folder)))
     with open (outDir + '/' + folder + '/' + random.choice(os.listdir(outDir + "/" + folder))) as a:
         return a.read()
 
+def get_random_url():
+    return random.choice(all_photos)
 
-acomplishments = get_generic('accomplishments') # generate_text(inDir+"/accomplishments.txt", outDir+"/accomplishments/accomplishments.txt", 50)
-print(acomplishments)
-how_we_build = get_generic('how_we_build') #generate_text(inDir+"/built.txt", outDir+"/how_we_build/built.txt", 50)
-challenges = get_generic('challenges') #generate_text(inDir+"/challenges.txt", outDir+"/challenges/challenges.txt", 50)
-what_it_does = get_generic('what_it_does') #generate_text(inDir+"/does.txt", outDir+"/what_it_does/does.txt", 50)
-insp = get_generic('insp') # generate_text(inDir+"/inspiration.txt", outDir+"/insp/inspiration.txt", 50)
-what_learned = get_generic('what_learned')#generate_text(inDir+"/learned.txt", outDir+"/what_learned/learned.txt", 50)
-whats_next = get_generic('whats_next')# "lots of things are next" #generate_text(inDir+"/next.txt", outDir+"/next.txt", 50)
-sub_title = get_generic('sub_title') #generate_text(inDir+"/subtitles.txt", outDir+"/subtitles.txt", 1)
-title = get_generic('title') # generate_text(inDir+"/titles.txt", outDir+"/titles.txt", 1)
+@app.route('/')
+def hello_world():
+    acomplishments = get_generic('accomplishments') # generate_text(inDir+"/accomplishments.txt", outDir+"/accomplishments/accomplishments.txt", 50)
+    how_we_build = get_generic('how_we_build') #generate_text(inDir+"/built.txt", outDir+"/how_we_build/built.txt", 50)
+    challenges = get_generic('challenges') #generate_text(inDir+"/challenges.txt", outDir+"/challenges/challenges.txt", 50)
+    what_it_does = get_generic('what_it_does') #generate_text(inDir+"/does.txt", outDir+"/what_it_does/does.txt", 50)
+    insp = get_generic('insp') # generate_text(inDir+"/inspiration.txt", outDir+"/insp/inspiration.txt", 50)
+    what_learned = get_generic('what_learned')#generate_text(inDir+"/learned.txt", outDir+"/what_learned/learned.txt", 50)
+    whats_next = get_generic('whats_next')# "lots of things are next" #generate_text(inDir+"/next.txt", outDir+"/next.txt", 50)
+    sub_title = get_generic('sub_title') #generate_text(inDir+"/subtitles.txt", outDir+"/subtitles.txt", 1)
+    title = get_generic('title') # generate_text(inDir+"/titles.txt", outDir+"/titles.txt", 1)
 
+    photo_url = get_random_url()
 
-the_site = '''
+    the_site = '''
 <!DOCTYPE html>
 <!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7 lte-ie9"> <![endif]-->
 <!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8 lte-ie9"> <![endif]-->
@@ -385,15 +380,6 @@ the_site = '''
 
           <li class="text-center">
     <img alt="Cookie Injection but with Real Cookies – screenshot 1" class="software_photo_image image-replacement" onerror="this.onerror=null;this.src=&#39;https://devpost-challengepost.netdna-ssl.com/assets/defaults/thumbnail-placeholder-42bcab8d8178b413922ae2877d8b0868.gif&#39;;" src="//challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/770/181/datas/gallery.jpg" />
-    <p>
-      <i></i>
-    </p>
-</li>  <li class="text-center">
-    <img alt="Cookie Injection but with Real Cookies – screenshot 2" class="software_photo_image image-replacement" onerror="this.onerror=null;this.src=&#39;https://devpost-challengepost.netdna-ssl.com/assets/defaults/thumbnail-placeholder-42bcab8d8178b413922ae2877d8b0868.gif&#39;;" src="//challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/770/183/datas/gallery.jpg" />
-    <p>
-      <i></i>
-    </p>
-</li>
 </ul>    </div>
 
 
@@ -951,8 +937,7 @@ the_site = '''
 <script type='text/javascript'>try {mixpanel.track("Logged In Pageview", {"time":1573351907,"ip":" 172.31.74.84","distinct_id":"950598","page_name":"home/softwares#show","orgs":[]});} catch(err) {};</script></body></html>
 '''
 
-@app.route('/')
-def hello_world():
+
     return the_site
 
 
@@ -1026,6 +1011,8 @@ def get_prediction_from_proj(proj):
 
             # Add has photo status
             data.append(project['photo'])
+            if len(project['photo']) > 0:
+                all_photos.append(project['photo'])
 
             # Add has video
             data.append(project['has_video'])
