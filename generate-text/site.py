@@ -375,13 +375,6 @@ def hello_world():
   <div class="row">
     <div class="large-9 columns" id="app-details-left">
 
-    <div id="gallery">
-      <ul data-orbit="true" data-options="animation_speed:0;slide_number:false;timer:false" class="no-bullet">
-
-          <li class="text-center">
-    <img alt="Cookie Injection but with Real Cookies – screenshot 1" class="software_photo_image image-replacement" onerror="this.onerror=null;this.src=&#39;https://devpost-challengepost.netdna-ssl.com/assets/defaults/thumbnail-placeholder-42bcab8d8178b413922ae2877d8b0868.gif&#39;;" src="''' + photo_url + ''' " />
-</ul>    </div>
-
 
 
       <div>
