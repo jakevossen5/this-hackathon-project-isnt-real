@@ -128,7 +128,6 @@ def generate_result(csvTrain, csvTest):
     train_df = create_df(csvTrain) #"../data/data.csv"
     test_df = create_df(csvTest)#"sampletest.csv"
     good_techs = create_tech_list(train_df)
-    tech_visualization(good_techs)
     good_keys = generate_feature_labels(good_techs)
     new_df_train = transform_df(train_df, good_keys)
     new_df_test = transform_df(test_df, good_keys)
