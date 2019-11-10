@@ -96,29 +96,6 @@ the_site = '''
 
 
 
-    <div class="alert-box newsletter-alert" data-newsletter-alert="base">
-  <div class="row">
-    <div class="small-12 columns">
-      <div class="clearfix">
-        <img alt="✉" class="left newsletter-alert-icon" src="https://devpost-challengepost.netdna-ssl.com/assets/shared/newsletter-promo-banner-email-e8dbc554d75cdf189b3574ae5f918949.png" />
-
-        <div class="left newsletter-alert-message">
-          <h4>You're missing out!</h4>
-
-          <p>
-            Sign up for our weekly newsletter to learn about hackathons, community updates, and awesome projects.
-          </p>
-        </div>
-
-        <p class="left">
-          <a class="button radius newsletter-alert-cta-button" rel="nofollow" data-method="post" href="/newsletters/subscribe?flow%5Bname%5D=subscribe_to_newsletter">Sign me up</a>
-        </p>
-
-        <a href="#" class="close" data-newsletter-alert="close">&times;</a>
-      </div>
-    </div>
-  </div>
-</div>
 
 
 
@@ -309,26 +286,6 @@ the_site = '''
     </div>
   </div>
 
-  <div class="row">
-    <div class="small-12 columns">
-      <div class="software-likes">
-  <div data-like="base">
-      <a class="like-button button radius secondary" data-like="like-button" rel="nofollow" data-method="post" href="/software/cookie-injection-but-with-real-cookies/likes">
-  <span class="ss-icon ss-heart"></span>
-  Like
-</a>
-</div>
-
-</div>
-
-      <a id="software-comment-button" class="button radius comment-button" href="/software/cookie-injection-but-with-real-cookies#updates">
-  <span class="ss-icon ss-quote"></span>
-  Comment
-    <span class="side-count">3</span>
-</a>
-
-    </div>
-  </div>
 </header>
 
 
@@ -410,10 +367,7 @@ the_site = '''
 </div>
 
         <div id="built-with" class="">
-    <h2>Built With</h2>
-
-    <ul class="no-bullet inline-list"><li><span class="cp-tag">godot</span></li></ul>
-  </div>
+    </div>
 
 
     </div>
@@ -431,18 +385,18 @@ the_site = '''
     <ul class="software-list-with-thumbnail">
         <li>
     <figure class="software-list-thumbnail challenge_avatar">
-      <a href="https://hackcuv.devpost.com/"><img alt="image" class="thumbnail_image image-replacement" onerror="this.onerror=null;this.src=&#39;https://devpost-challengepost.netdna-ssl.com/assets/defaults/no-avatar-100-17cf519ce6f8e4e0e83758ea09fc5eb3.png&#39;;" src="//challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_thumbnails/000/742/297/datas/medium.png" /></a>
+      <a href="https://hackcuv.devpost.com/"><img alt="image" class="thumbnail_image image-replacement" onerror="this.onerror=null;this.src=&#39;https://devpost-challengepost.netdna-ssl.com/assets/defaults/no-avatar-100-17cf519ce6f8e4e0e83758ea09fc5eb3.png&#39;;" src="http://www.scriptmag.com/wp-content/uploads/kermit-the-frog-with-props-FINAL.jpg" /></a>
     </figure>
 
     <div class="software-list-content">
       <p>
-        <a href="https://hackcuv.devpost.com/">HackCU Episode V</a>
+        <a href="https://hackcuv.devpost.com/">Shmackathon Episode 1</a>
       </p>
 
           <ul class="no-bullet">
               <li>
                 <span class="winner label radius small all-caps">Winner</span>
-                Most RANDOM hack
+                Swim to France
               </li>
           </ul>
 
@@ -452,95 +406,6 @@ the_site = '''
   </li>
 
     </ul>
-  </div>
-
-      <section id="app-team">
-  <h4 class="clearfix">
-    Created by
-  </h4>
-
-  <ul class="no-bullet">
-
-<li class="software-team-member" itemprop="member">
-    <div class="bubble">
-    <div data-contribution="editable-contribution">
-
-      <div class="contribution">
-
-        <div data-contribution="contribution">
-            <p>Learned a ton about game design and co wrote the Whitepaper.</p>
-        </div>
-
-        <a class="" data-contribution="edit" href="/software/cookie-injection-but-with-real-cookies/members/414459/edit">edit</a>
-
-      </div>
-
-      <form class="simple_form hide" id="contribution-form" data-contribution="form" novalidate="novalidate" action="/software/cookie-injection-but-with-real-cookies/members/414459" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="_method" value="patch" /><input type="hidden" name="authenticity_token" value="Bzi9WIJoi6WYz/aQRw5GrBFb42KfjXwMT18+d2Y6IRRZhMtK++ciIeNBUIAnpqAzjGwynovx7y5MsxPz7H/+PA==" />
-  <div class="input text optional software_member_contribution"><label class="text optional control-label" for="software_member_contribution">Describe your contribution</label><textarea class="text optional" placeholder="Ex: I worked on the back-end. It was my first time using Node, which was a little intimidating, but I learned a lot." name="software_member[contribution]" id="software_member_contribution">
-Learned a ton about game design and co wrote the Whitepaper.</textarea></div>
-  <input type="submit" name="commit" value="Save" class="button primary radius small" />
-  <small>
-    <a class="button-size" data-contribution="cancel" href="/software/cookie-injection-but-with-real-cookies">Cancel</a>
-  </small>
-</form>
-    </div>
-  </div>
-
-  <div class="row">
-    <div class="small-2 large-4 columns">
-      <figure>
-        <a class="user-profile-link" href="https://devpost.com/jakevossen"><img alt="Jacob Vossen" class="software-member-photo user-photo gravatar_image image-replacement" title="Jacob Vossen" onerror="this.onerror=null;this.src=&#39;https://devpost-challengepost.netdna-ssl.com/assets/defaults/no-avatar-100-17cf519ce6f8e4e0e83758ea09fc5eb3.png&#39;;" src="https://www.gravatar.com/avatar/b6cfd75473ae34088eaad669c442988e?d=https%3A%2F%2Fdevpost-challengepost.netdna-ssl.com%2Fassets%2Fdefaults%2Fno-avatar-180.png&amp;s=180" /></a>
-      </figure>
-    </div>
-
-    <div class="small-10 large-8 columns">
-      <a class="user-profile-link" href="https://devpost.com/jakevossen">Jacob Vossen</a>
-      <span class="follow-button-wrapper" data-context="software-detail" data-layout="condensed" data-follow-through-id="414459"></span>
-
-        <br>
-        <small></small>
-    </div>
-  </div>
-</li>
-
-<li class="software-team-member" itemprop="member">
-
-  <div class="row">
-    <div class="small-2 large-4 columns">
-      <figure>
-        <a class="user-profile-link" href="https://devpost.com/fisherdarling"><img alt="Fisher Darling" class="software-member-photo user-photo facebook_avatar_image image-replacement" title="Fisher Darling" onerror="this.onerror=null;this.src=&#39;https://devpost-challengepost.netdna-ssl.com/assets/defaults/no-avatar-100-17cf519ce6f8e4e0e83758ea09fc5eb3.png&#39;;" src="https://avatars1.githubusercontent.com/u/14206675?v=4?height=180&amp;width=180" /></a>
-      </figure>
-    </div>
-
-    <div class="small-10 large-8 columns">
-      <a class="user-profile-link" href="https://devpost.com/fisherdarling">Fisher Darling</a>
-      <span class="follow-button-wrapper" data-context="software-detail" data-layout="condensed" data-follow-through-id="414460"></span>
-
-        <br>
-        <small></small>
-    </div>
-  </div>
-</li>
-
-  </ul>
-
-    <p class="software-add-team-members">
-      <a href="/software/cookie-injection-but-with-real-cookies/edit#members">+ add team members</a>
-    </p>
-</section>
-
-
-        <div class="section">
-    <a id="flag" href="/software/cookie-injection-but-with-real-cookies/flags/new">
-      <span class="ss-icon ss-flag small"></span>
-      <small>Report inappropriate content</small>
-</a>  </div>
-
-        <div id="hide-delete">
-    <a class="grey" rel="nofollow" data-method="put" href="https://devpost.com/software/cookie-injection-but-with-real-cookies/members/414459/toggle_visibility">
-      <span class="ss-icon ss-view small"></span>
-      <small>Hide project from my portfolio</small>
-</a>
   </div>
 
     </aside>
