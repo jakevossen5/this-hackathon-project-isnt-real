@@ -23,14 +23,16 @@ def train_data (inputFile, outputDir):
         model_name=model_name,
         run_name=inputFile,
         steps=10)   # steps is max number of training steps 
-     
     # generate 50 examples
     for x in range(0,15):
         print("here")
         #tf.get_variable_scope().reuse_variables()
         gpt2.load_gpt2(sess)
-        output = str(gpt2.generate(sess))
-        gen_to_file(outputDir, output) 
+#        t = gpt2.generate(sess)
+        gpt2.generate_to_file(sess, destination_path="newoutputs/" +outputDir+str(uuid.uuid4())+".txt")
+#        print (type(t))
+#        output = str(gpt2.generate(sess))
+#        gen_to_file(outputDir, output) 
         tf.get_variable_scope().reuse_variables()
 #    os.rename("checkpoint
     
