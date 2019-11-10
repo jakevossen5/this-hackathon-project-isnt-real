@@ -971,7 +971,9 @@ def hello():
     if form.validate():
         result = get_prediction_from_proj(name.replace(' ', '+'))
         print(result)
+        print(type(result))
         if result == 1:
+            print("in winner case")
             flash('Predicted status: you will be a winner!')
         else:
             flash('Predicted status: you will be a failure')

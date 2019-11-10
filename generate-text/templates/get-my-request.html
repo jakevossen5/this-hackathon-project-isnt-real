@@ -29,7 +29,7 @@
   {{ message[1] }}</div>
 {% endif %}
 
-{% if "failure" not in message[1]: %}
+{% if "winner" in message[1]: %}
 <div class="alert alert-success">
                 <strong>Congrats!: </strong> {{ message[1] }}</div>
 {% endif %}
