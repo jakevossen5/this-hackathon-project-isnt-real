@@ -6,7 +6,8 @@ inDir = "resource"
 def generate_text(fileInput, fileOutput, lines):
     textgen = textgenrnn()
     # train the model
-    textgen.train_from_file(fileInput, new_model=True, max_length=8, num_epochs=6, gen_epochs=5, word_level=True)
+    textgen.train_from_file(fileInput, new_model=True, max_length=5, num_epochs=5, gen_epochs=3, word_level=True)
+    # generate to file
     textgen.generate_to_file(fileOutput, n=lines)
 
 

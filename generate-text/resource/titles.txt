@@ -1,300 +1,1036 @@
-Connect
-Safeify
-GetOffTheRoad
-Offensive Language Convolution Neural Network
-NittanyChain
-CITIZENS' REPORT
-PillTime
-Insta Care
-Sage
-Heads Up Disaster
-EME
-SonAurras
-Voice Dentures Help
-Mini Weather Forecast (light-weight-clothes-matching)
-EmpowerUp
-Smart Lots
-HackathonProject
-Vibe
-Expirology
-CarHOP
-MediQR
-EtherHoops/SneakrCred
-Weather API
-Shodor Website Redesign
-Smart mobilization system
-Window2
-On The Move
-HandUp
-mrtunnel's lonely hearts computing club
-Terrain Mapping for Advanced Virtual Training
-GREEENSCORE
-GreenUp
-DinoSoar
-CodeNation-Team24
-Eathos Sustainable Food App
-Wasu
-Vanguard-Finesse Your Finance
-CODAxplorer
-Higsians
-ConnectMe
-Flight-Engine-heff
-MoreMoneyForU
-BeyondTwitter
-When Will I Retire?
-Flight-Tracker
-SkyFare
-Mathter Chefs (Video In Description!!)
-honeypot
-OhThatsABaseball
-The Not Real Game
-Regen Network - ReDAOMint
-Mole Scan
-buttons
-ReadyWeather
-Waves OnRoll
-NameTrack
-Notebook
-Ising Model: Simulation and Machine Learning
-Squink
-SLADE
-Spiro
-Spare
-WXRP prototype
-Green Start Recycling App
-DinoSoar
-Solar System Creator
-Ficient
-ThreadJS
-study_mode
-hay-vote!
-Sprig
-Birdie
-TB
-Neutrino Swaps
-MoneyMarkets
-Vanguard-Finesse Your Finance
-mediScan
-#TrashTag Social
-Carbon
-positive.ly
-ARo-cloud
-IntelliVest
-CryptoExchange
-Code For Trees
-Helping Hands
-FIND (FitBit in Natural Disasters)
-Water Level Sensor for houses 
-AskLive
-ConnectMe
-Ecolocation
-Don't Panic!
-FinVisor
-GroupYou
-Disease Disaster Relief
-Monterey Bay Bot
-Brownian Motion: From Finance to Pollock
-InstaPool
-Wonder Womxn - SF Service Match
-Crisis Kit
-Disaster-Recovery-App
-DSWAP
-Payme Bear
-Delta Protocol
-Change
-Something from nothing. Information &amp; Quantum Channels.
-Riize
-Gravitational Lensing: A Simple Simulation
-The Alito Index
-Volo!
-The Curator
-Dataroom
-taxTeens
-VResume
-Raindrop.App
-Burning Bitcoin
-SpeakEz
-Checc News
-Blender-Training.
-Learnville
-Geo-based Disaster Relief Calculator
-ParkX
-Secure Your Flight
-random walks
---
-TweetTrees
-Ace of Trades
-Everett: Reloaded
-Ailee
-Time-dependent Hamiltonian Neural Networks 
-Neural-Agent Dogfighting Flight Simulator
-Monowallet
-Bounded Chaos
-WikiMeme
-Protect the Pangolin!
-Go Dark: Competitive Energy Savings
-Duke Tutor
-Probus: Crypto Made For Crowdsourced Content Regulation
-Form
-About That
-Kevin
-boidZ
-Phoby
-PyPhonon
-Code For Fun
-N-tuple Pendulum Dampening with ML-Agents
-Agoric in MetaMask in Agoric
-The Tokenization of Property
-Unravel
-Rainbolt
-AI Exo-plorer
-Boiling Point
-Silent Help
-Bump
-Cosmic Ray Shower Simulation
-CloutFit
-AirBuddies!
-Four-ward-Motion
-Volunteering in Boston
-Furniture Friend
-RemindMe
-Firewatch
-Hurricane Hero
-S.O.S.
-Grow a Tree
-Spiral Galaxy in an Oven
-Pangolin Quiz
-Space Invaders n-body
-Jaywalk VR
-Tinypost
-Mermin-GHZ game
-Click Bait or Not
-Crime Route Navigating
-JukeCloud
-Hospital Recommendation Application
-Full House
-Chladni Plates: Simulation vs. Reality
-Anderson's Game of Electrons
-Break the glass ceiling
-Waitlist of Lucidity
-Particle Collision Simulation
-Gravity Assist Simulator
-Big Brother... or Big Mother?
-Hack-Test
-What's the Stats
-WBDT Costume Armory
-Moral Investment
-Subscription Card
-cAR
-TreeVR
-Quantum Computer Simulation
-Noah's Ark
-feels
-RescueBeacon 
-TideCode
-Numerical Orbital Path Optimization
-HandOff
-PavePath
-Quantum Sandbox
-Test
-U Better
-QuickReport
-CycleIt
-Vanguard Finances
-Insights into General Public Sentiment and Disaster Relief
-Song recommender
-Treeler - Table 46
-Flare
-DrinkSafely
-AdaptChat
-Quantum Entanglement and Quantum Superposition Video Game
-Survival Mode
-Global temperature prediction with backpropagation algorithm
-Storm Breaker
-AAWESOME
-Visualization of Temperature Flow Through a Window
-Stutterless
-Shodor Redesign 
-WeatherHere
-patiodesign.space
-The Green Path
-Runnr
-Teeter Toddler
+TRAVIS-Traffic Realtime Assistant Via Internet Service
+Class Diagrams for Bitbucket
+ParkKing
+Lucidchart OnPrem for Confluence Server
+Cronforce Time Tracking for Jira
+CoTaxi
+TRAVIS-Traffic Realtime Assistant Via Internet Service
+Class Diagrams for Bitbucket
+ParkKing
+Lucidchart OnPrem for Confluence Server
+Cronforce Time Tracking for Jira
+CoTaxi
+Maasto-101
+Breast cancer detection
+Indra
+Stock price movement
+Spark App
+StepShot Image Editor / Annotator for Confluence
+ChedliTaxi
+KnowFish
+Curie Wireless Sensor Network 
+bl
+DocSynk
+SoMoClo
+FiB
+ThermalImagingFlir
+Call Serena Button
+TrafFeed
+Hexa Survivor
+Cycle Control
+Traffico
+Email Notifications Digest
+Drive Safe – It’s in your Hands!
+SQL Reporter for JIRA
+Open Mind
+Make &amp; Get Jobs
+Network management console panel
+Konami code
+4G Traffic Transformer
+Taxi Share
+Machine learning models
+HYFY Screen Recorder
+Imprompt.io
+IssueTypeChangeReport
+IRIS
+My Indore Traffic App
+ARTIK Smart Water Meter
+StepShot for Confluence
+HeyTaxi
+Downloading Attachment from Email
+PredictiveModeling on CartoDB data
+Metropia: The Rewards of a Faster Hsuehshan Tunnel
+Elderly Vibrations
+My Office Cellphone
+Native and Scanned PDF Segregation
+Jarvis
+Human 2 Human
+PLASMO-D
+Kambling
+Touch Wizards
+MuseFind Redesign Webpage
+Unofficial Google Analytics
+Memora Health
+Warp Post
+Proper Park
+Life and Interaction Through Technology (LITT)
+Lo-Kate
+Bear: The Classroom Bot
+Dogfight Elite VR
+sober.AI
+Interactive 360
+Plantify
+NetDoc+
+Hyper
+Marauder mApp V2
+Holla!
+Slapstick
+Math on the go
+060 - iTrash
+PlainDoc
+Lumos
+abc
+YourHealthy.City
+GrocMan - An IoT based grocery management system
+emoCam
+Vector Calc Sandbox
+David
+SMART WELL MONITORING SYSTEM for Villages
+Exploratory Testing for JIRA
+Ride Mexico
+IoT Fridge Saver
+stratejos
+Cityscope
+Hootchat
+PowAgri
+Maxi lander
+Dekh K Bhiyo
+TrumpScript
+Snapse
+CodeCorrect
+park.AI
+DeepAffects
+ExcelPost
+Updated Issues Basket
+U@Work
+HootSuite Extractor
+My Ride - Short and Safe Trips!
+HeartCare
+Ripples
+Explore Montreal
+UiPrime SAP Activities Package
+AI Powered Hot Car Death Prevention
+UPTEAMIST
+Blood Alcohol Meter
+Obnoxious Scheme to Convince All to Recycle (OSCAR)
+REST2DDP
+TheFriendZone
+ModSense
+The Night Cafe - An immersive tribute to Vincent van Gogh
+Wastewater reuse with Blockchain &amp; ML Models   
+Dawn
+HoaxSpot
+Study+
+Unsafe Area Mapping
+Min-Mins
+Red Brick
+Montreal Coin
+Kanoah CRM
+Recycle.io
+ThriftFly
+VAIS - Visualized Agriculture Information System
+Wheels
+Creating SNOW ticket
+Book Le - Book De
+TeamDocs
+Glare
+BUSSI
+BANANA viva Yilan
+SafeEats.AI
+Igloo Car
+Intelligent Recruitment Process
+ByteCard
+Technical Interviewer
+Plant Floor Visibility
+borne
+Travel Agent Connector
+Image Editor
+Fuji
+Kickback
+iBite
+Access Granted
+EDDI - ElectroDialysis Desalinator for Irrigation
+Suretify
+Molecula for Outlook
+APP+Website台灣雪隧疏流
+SafeWatch
+CCSBusTracker
+Mood Buddy
+Spell Script
+breveo
+Valencia Lunch UX
+FeelsChat
+Voedsel
+SyForms - UiPath Forms Designer
+Terra
+Chat Translator
+Team Secrets
+SMILEY
+Mystery of Malfaxus
+Gab
+DelveClassifier
+TeamFlowApp
+Penyusuar by  Penyu Ranger
+CARE
+Yoogle
+codeForCleanWater
+BX - The Scarlet Record
+Savvy Insights
+PicTalk
+Sticky Mail 
+NeoS: The Universe
+The Bouncinators
+Boolah
+Pray It Forward
+GazePay
+Dataless
+Social Strata [My Green Space]
+nofoodwasted
+MTLMural
+Criziz
+Pocket Med
+Intelligent Birdhouse
+Shiplly
+040 - Cloudpaper
+Planning Poker for Trello
+Unagi
+Project Almuerzo
+#331 - Pong2.0
+MIRЯOR
+Domates
+ShooterMax
+Growing Gardens Together | Team 11
+Curamobi
+Trellogram
+EQ-WiOpen
+UrbanFlow
+beClosing
+Bazaar
+Sharemail
+Sahara
+HandyML: Machine learning for non-datascientists
+Pneuma - Pedobarographic Mapping for Neuropathy
+Distributed Estimation
+Unmute
+Hermes Managed Tire Services - an ioT enabled business
+Lily Pad
+Trip Planner
+081 - Hi-Pi: Your Home Lifeguard
+I Laugh You 
+KnowUs
+Fetch
+DocAssist
+Creativite
+Polytunes
+Lazzo 
+Lecture Buddy
+docuflow
+PezCaleta
+First Days
+Fireflies
+Voice Job Search
+Smart Drainage Blockage Detecting System
+ChatOps for Heroku
+Sing Me A Dress
+monopoly-მენეჯერი
+File Viewer for Bitbucket Cloud
+Omegabase
+Innovation
+Guardian Angel AI
+Tweetimental
+Mexico City Taxi
+Mx-City Carpology
+Project Save California
+DRIFT
+Every 5 minutes
+ Elite Safety 
+Presenter for Confluence
+Natural Network App
+Meteor Icon (icon.meteor.com)
+AppLetic
+What's Up Gov?
+Imagine: VR Painting
+Logibot
+Scan My Cart
+Touch
+Brand Analysis for product Search
+AVGS (Active Vision Guiding System)
+NaviHome
+HomeScan
+Cosmos Browser
+PeriodPeace
+Outlook task manager
+RAMEAR
+Node Local Relationship Indexes
+iWisps
+Whispir Andriod App
+MiFi
+TravAlarm
+ALM Task for Bamboo
+wake
+Neo4j Jmeter load testing
+MLHorrors
+MemoryEye
+DDAI
+Agro Companion
+Convergely
+SentryAI
+PedSafety
+Feux Verts
+OHAI .
+Snippet for RDP process
+Ecopet
+Locate My Restaurant
+Hack My Ride Milpitas
+HN - frenly
+JasiRide
+j-085-cleanify
+FisHarmony
+Hootsuite for JIRA Service Desk
+ZOI
+ship
+Fing'R Mote
+Task Tracker
+Purrpurino
+Traffic Congestion with  Smarter Signal Lights
+Save A Life
+Captain Clark Adventures
+DeFiZap
+Hackathon Simulator
+Voice-over
+Selfiesh
+Sincerely
+094 - Dabao
+meteor-run
+UnStoppable 
+Water Wizard
+ColorMe
+Preventing Distracted Driving with IoT
+Make Me Kanye
+Self-Driving Car Simulation (New kids)
+Wing Beatz
+Guardian
+ReleaseIQ
+GPS Aware Road Profiling Using Gyroscope
+Motivator
+Nagios Jira Integration
+alexa mapquest
+DocuSign for Confluence
+Project Dumpster 1.01
+Butler for Trello
+Thunkfluence
+Twile
+PROFTY
+Get Excel Data from Citrix
+Analytic guided operations assistance
+Unbottlr
+Finding
+Tactera
+ma taxi
+eBuddy by SalmaTech
+PaliPalette
+Kwagric
+Travel Ride Bid Bot - TRBB
+PhoenixJourney
+CrowdFarming
+Swordfish Essential
+EthOptions
+Let'sCook
+Athena
+Taxi Driver
+TaxiGO
+patentability
+My Perfect Weather
+DogLog - Track your dog's activities
+P-Bot (Pregnancy Chat Bot)
+Team Lunchbox - School Lunch Mobile-Responsive Web App
+Addicaid
+Snap Spin Tap
+Modified Dijkstra algorithm for optimal navigation 
+ProxiChats
+Raw Manga Translator (3A)
+Ecopet
+Silence
+Wayfarer
+Androids Dream
+PhoneAR
+Air Guitar 2 Sound Converter
+IMVU PhotoReal
+Millennial Money Madness
+If-Found-Lost
+TECHNOLUST: THOUGHT CRIMES
+OnTransit
+GoforCar
+PJ - CommitCoin
+Hey Purple
+WatchTower - One board for multiple JIRAs
+River Game
+Scrum Poker for JIRA
+Build Meister
+My.SnapGlass.es
+OrchestrAI
+The Meteor Train
+SSH over SMS
+TeXscribe
+AlexaPlays
+Google reCAPTCHA 'Breaker' - Powered by Clarifai
+water reuse system using AI
+AI-909
+SoundScribe
+Meteor Wars
+Aquareness
+Crowd sourced corpus generation
+Slope Ninja
+LunchLine
+BrainBud
+Outpour – Go Find the Beauty in People, and Tell Them
+Limbr Reports for JIRA Cloud
+Project LunchBox
+Projet web
+Tandem Medical
+Recycleme
+conf.io
+iot_correlations
+Ayo Banyuwangi
+VirtualScrumMaster
+Faceboxx
+AxiomZen - Mastermind by KrevTeam (Challenges 1 and 2)
+Mission Mars 2
+YearBook
+Alexa JARVIS
+PurchaseMate
+TourUs
+Spoofify
+Record
+HootChat
+Overboard
+Popular Online Indigenous Crafts 
+PyEmbeo
+faceband
+Pick at School
+TraceIT
+NurseNet
+SpiceworksHelpDeskSurvey
+Customer reports for JIRA Service Desk.
+Scorched Battalion
+მტრედი
+AJ - The Chosen One - Multi-Agent Reinforcement Learning
+May Contain Seeds
+food4students
+099 - SuperSianGoWhere
+the S.T.A.T.U.S. Train Network
+SmartLyfe
+LifeLong Playlist
+Context.IO for Drupal &amp; Maildispenser.com
+iGofer
+Transeaze
+asdfghjkl
+sizeOf
+Peepa
+XLTools Suite for Excel
+Automation for JIRA
+Smart FlashCards
+AgriWave: Transforming the Agricultural and Data World
+V-Control
+changemymind.io
+Empathy Match
+neomap
+DevScout
+Karigar App and Kiosk(کاریگر)
+Nimbus
+Muvall
+HackRice2016-Menuer-Swift
+Found
+DoubleCheck
+Dragon Story ! 
+Snö By GingerPonyPatlettes
+M-059-Hajj_EVAC
+QReceipt
+Mother's Tongue
+Ultradrone
+regulator dashboard
+Path
+Taxicabs Mobility Challenge
+CubeBot 
+SPD - SharePoint Do
+Internet of Thingies (IoThingies)
+ThermaMatch
+SteamCrew VR
+CyberCow
+Live Web Chat for Microsoft Teams
+ShortStock
+Sustainable Badger
+Pallette
+Skrillex
+BiCity Social Cyclist Map &amp; Alerts
+Medinfi
+FriendFugees
+Graybot
+Tampering Water
+Road Safety
+Helpies - volunteering platform
+planet.AR.y
+Planet Ally: Travel Agents of Change
+008 - Skinalytics
+ADWEAR
+UiPath PDF to Excel Extractor
+farm
+Positivity Pack
+Free Feet
+MONA
+Brain Squared
+Great Lakes Savior
+Mobility Map
+Quizzes for Confluence
+MRI Scan VR with AWS Sumerian
+ECOTECH
+LineOne
+RoboCop
+iFramed
+Smartify
+Office 365 Groups SPFx
+best ethereum wallet ever
+The Land Below (Google Cardboard)
+Interactions
+Voice Assistant for Microsoft Identity Manager 
+LightSwipe
+Muerteor
+TinCam
+Integrated Symbiotics - Tadpole AMAS
+Project Switcher for JIRA
+EDI Connector
+:emoji: and @mention support on Devpost
+Elision - Dịch vụ sức khoẻ tâm lí
+Fyber Exchange
+Magik Pill
+Comawake
+Komdo
+WearShare
+Smart Crops
+Polo
+Polldentify
+Real Time Lead Detector for Water Supply
+Course Land
+Humanoid
+Indore Traffic Friend
+Bad Flamingo
+youme.world
+Saviour
+Glucose Check
+Ovulation &amp; Menstral Cycle(A Multi-Billion Dollar App)
+Blood Pressure Monitor
+Breast Cancer Drainage
+Smart Life Jacket
+Name that Animal
+Raydar
+Reader for Confluence
+ARK (Archery Record Keeper)
+Tweety Wallet
+Happious
+Fundação Cafu - Real Solidarity [ Axiom-Zen]
+Money Match
+Acc!dont
+DashboardComponent
+TeXTFLIX
+PointShop.Space - Point to shop and discover companies
+SympMD
+Safety App
 WHACKER
-Donation Tracker
-BitWise
-CHIP-8 Interpreter
-Home Depot Simulator
-Local Circle
+027 - iTrack
+Stop calling me pls
+Mobievent
+ReMap
+BaymaxBuddies
+Hospital Adventure
+FLYDOC
+Liveview
+School Lunch UX
+ac-unsubscribr
+"Teach me Tables" - an Alexa Skill
+mARk
+Emocean
+BY - Data Transmission using Whatsapp
+Follow the White Rabbit a VR Mystery
+Comala Approvals for Confluence Cloud
+Intelligent Medicine Dispensary System
+DreamForce
+Witness
+Meggie
+Plugin generator from Atlassian Connect to JIRA Server
+nusSync
+get[f]it
+Project Oliver
+Airport Assist
+ProBot
+Paper Piano
+AirBnBro
+FireNode - Wardriving as a Service
+Kind
+EmergencyChain
+Ronald McDonald Mobile Care Unit Mobile App
+Axiom Zen - AxiomMind - Challenge 1, 2, and 3.
+AskMeteor
+TripGo in Mexico City
+NECO
+No internet, but find me!
+ECG + HTM
+Athelas
+Flight Monitoring System
+Relations for JIRA
+Cash Pay Today for Access Corrections
+EdgePay
+iFitFarm
+Rally
+Project Air
+Aux
+CS - Smart Water Bottle + App
+Airena
+Distance Calculator
+Test Management for JIRA Cloud
+Procedural Music Generator
+Lexus
+ContactNow for Jira Service Desk (Beta)
+Profiler
+OpenDoor
+Android for All
+Work Safety Management (WSM)
+Chitthi
+Smart Fridge
+Closed Captions Extension for Twitch Streams
+WannaDrink
+Hackathon Table Numbers
+Tana Pura
+Castle VRuin
+Crashland Reborn
+Pipe Crawler
+Smarter Bike Light
+AWS Cost Manager
+Tobii Ghost - Eye Tracking Twitch Extension
+PocketDoc
+Butlr
+Kitty Crates
+Messenger LaTeX
+Biometric 2-Factor Security - "BioAuth" (MongoDB) 
+Eva- Optimizing Evaporation Prevention Strategies
+PocDoc
+Stream Closed Captioner
+The Homework Machine
+Word to Markdown
+BizDev Meeting
+SMS Racing
+Taz
+A11_D-SIGN
+VR Coaster
+sudo
+CoTaxiApp
+037a - Order Management System
+The @UPenn Xperience
+Splash
+PhaseShift
+VIRTUAL HANDS: VirtPaint
+DeskShare
+rezyourtown
+DV - Ideate with the Brail
+Propagate
+GramConnect
+Real Estate
+Angels of Khan
+XCalibur
+Cotraveler
+Ant Text to Outlook
+Image Annotator for JIRA
+autocolorization
+Evade - Android/iOS Game
+Agile Estimate for JIRA
+Complaint Board - Incident Management
+Chat Heroes
+Trackin
+NeWsquito
+InCELL VR
+Fork On The Road
+Auxilium
+Harvest
+Likemind
+Daydream Blue
+BulldozAIR - FLIR
+HosAppointmentSys
+097 - Wellness
+Suju - suju.online
+De Mobo Classroom
+Ice Breaker
+XL Clipboard
+Zero Click Bitcoin Micropayments
+Wendy
+Colosse: A Story in Virtual Reality
+GHost
+Zing
+Type Diagram
+UniConcierge
+Fortum Green Journey
+Benefitsy
+Gradebook
+SCTS - Supply Chain Tracking System
+Relay
+HomeBase_WeatherAlert
+ElderVision
+ReMUMber
+ethberlin-hackfury
+Safe Travels
+MedReality
+PreGear
+WeLearn
+LearningLock
+PureWater 16
+Enviro
+DonIT
+LitMit
+MIDIOCRE
+024 - JoinLah
+co|wear
+Dylan Home Automation
+EXIT
+Instant Websites for Confluence
+HTM for Adelaide Arterial Traffic Flow
+Visage
+Tiger Event
+Entrilo
+VacciDENT
+Wae FindAR
+Office Floor Plan Navigator
+nQuery: Q/A for JIRA
+Picast
+Dot Menu for Confluence
+Wayflow
+Email2SharePoint
+Zut
+AI Sensei
+commUnity
+Excel_Summary_Snapshot_in_mail
+Unofficial Devpost API
+WhatsBot
+KidsChallengeHackathon - Historia
+Wheel O Hackathons
+Summer Jam landing page
+BackPack
+Pulsar Arena
+WiSign
+melon
+compass
+Trashy but Smart
+HereNow
+Meteor Pulse
+SMSiri
+FluxDuck
+Cobalt Haze
+Printing Your Name Like A Pro! 
+QuickTry
+SmartCab
+Devpost Notification Center
+smartNebula
+Star Song
+CloviMed
+ATAD
+EX - Stappie Bird
+Cafecito
+Sobr
+Easy Retail Pay
+AI Barney
+Workflows Searcher for JIRA
+PROS - Process Reconfiguration Optimization Simulator
+SprachBox
+Kinetica
+Found in Translation
+Hold my drink
+GitBattle
+F-016-Hajjy Geo-Location Augmented Reality Application
+Better at git
+Peasy
+DiveLane - Apple Pay for Ethereum
+Mentorik
+VOICE
+Taxis Maroc
+We All Deserve Resources (W.A.D.R.)
+CrapMaps
+Chart.neo
+Liberdata
+Hackathon Submission Flow
+Signbot
+hackarduino
+Pixel Kanvas
+NYSEVisualizer
+Black Mamba Rescue Beacon
+GameOpener
+SaveWatts
+ECONDITIONER
+Stranded in the Expanse
+I ♥ Devpost
+visionOS
+026 - Table For 4
+SDAAS - Self-Driving As A Service
+nextub
+Kenko
+SpitBars
+Travel Buddy
+Capture The Pothole
+Neuralgia VR
+QuickSeek
+Ambrosia
+Speech Center
+Viate
+UCyber Hotspot Sniper
+BW - Optical Localisation Plus Robotics
+Rollout! Instant Trash Schedule Recycling Reminder App
+Picturize - Auto Note Taker
+Alexa-powered Beer Robot. 
+CardLink
+Formula Editor
+SolarHero
+Numbers And Letters Game iOS
+Elements
+Draw Anything
+RunnerBeat
+Node Clowning Around
+Medifact
+WoundCare
+faceStylr
+RimConnect
+Baby Safe
+Guns N' Dragons (no download!)
+Dharma Life
+H.O.M.E - Homeless Observation and Mapping Engine 2.0
+ColorWars
+Shopify - Mapify
+BBTV - Meal Nutrition API - Team GoCanada
+MobileLeagueHacking
+Automatic Ticketing System
+lockstep.net
+Charity-Fundraising
+Slack for Healthcare Teams
+Semantic Anomaly Detection
+The Endless Weather
+Underground Map
+PayAR
+Oh-Shoot!
+Interpreter Central
+WelcomeD
+Sorc'd for Office- Insert your research with one click
+NoQ
+DL- Ocean's 9000
+AR Watch
+reVIVE
+Ask A Code Queen
+Billiard Ball Tracking
+Petlo
+Bundle
+SourceFetch
+Story Quality Add-On for JIRA
+TSOLife
+Axiom Zen - God's Eye Landing Page
+Tilt-VR
+HappyHour
+Eth connector to the GEO Protocol
+To-may-to To-mah-to
+Foo Blox
+Guageland
+Dank Meme Generator
+HackSat
+Singularity
+bSmart Smart Diabetes Management System
+HandyLight
+EyePhone
+Platonic Solids Experience
 MediCard
-Disaster Buddy
-DangerAlert
-Smart Mirror
-Helping Eye
-Aharonov-Bohm
-Advanced ML Disaster Prediction Model
-CodeRPG
-FiND Disaster Relief
-Transcde: Google Translate for Code
-AudioAlpha
-ESG Investor
-DuckView: Interview Prep, a project by PoncyDucks
-Creating a Global Loan Secondary Marketing Community
-Inline
-Freeue
-snooopy.xyz
-Swap Tomorrow
-Clip It
-EdVoR
-The Sustainability Index
-COVEN 
-Where's my groceries?
-WIMS
-Fl00dhack
-Artis Project
-Search Aid
-Eldy
-Open Wallet
-Confidant
-RPI Surveyor
-EmKit
-Therapose
-Translameme
-legendary-potato
-Food Hack
-CERS (Centralized Emergency Relief System)
-Driveability
-Eat The FunGus
-Warning Shot
-AkitaAssess
-Life Line
-Chargeo
-InMotion
-UBHacking2019
-Disasterpeer
-MeLoan Mobile App
-Ploutos
-Quake Alert
-Timebot
-MCTwilioSMS
-Azure Outsytems Chatbot
-The Orphan Approach
-Retari Studios
-Tree of Life
-Into the Forest
-Spooky Game
-Smart Secure
-K-4 ED
-TutorHive
-Text Style Transfer - Generate New Fonts
-Night Sky
-Camera Dictionary
-Alpaca Emblem: Awakening
-Wall Hopper
-Gtex Data Visualization
-Laundry Recorder
-Pictobot
-Saving Sarah
-StanScrib
-Farmer's Toolkit
-Art Fourier
+Super Creature Showdown
+TutorMe
+Retropolys
+Air Disaster VR (Google Cardboard)
+FishUp
+MyIssues
+Gun Loc
+Pelorus
+CANDRA
+Confucius
+CloudSonar
+Smart RL Bot 
+Foot in the Door
+DevMinds
+Bot Calling Bot
+WalkSafe
+My Schedule
+Project Forbidden Marriage
+Web Sanitizer
+Mercury Life Saver
+BZ - Secure Online Sharing
+DD - tLaundry
+Telehope
+iTrainer365
+Jump and Solve (J&amp;S)
+TruClinic
+25 Headlines
+Forcebot for Cisco Spark: A Spark bot for Salesforce
+Brian Koles Memorial Sandwich Cart
+projectNSA
+Driverless Arduino 101 Rover
+On Time Apps
+Thinq
+Guru
+Evacuation SMS sender 
+Charts &amp; Reports for Service Desk
+The Queen's Speech
+Smart clothes
+Codex: The Warrior
+Android Atelier Lunch In
+Medyear for NYP Pediatric Oncology
+FourPly
+sagetree
+TrashCam
+KinesicMouse
+Medical Assistant
+paydai 
+SciGames.club
+Loop It!
+UnicornLabs
+Amazing Signts
+ARNavigationSystem
+Mozzie Mapp
+ConnectOnCommute
+GimmeShelter 17-E
+DoppelGallery
+Adroit
+Sense Temp
+FreeFallVR
+Colossus
+Interactive Word Documents
+A Puppet's Heartstring
+BroadbandTV: Yelp Video Augmenter – The Yelp's Recipes
+Knowledge Graph with HTMs
+Save me, Hades!
+Dry Driver
+G O A L S
+Apnea
+Color Tracking CAD Viewer
+MileHighApocalypse.github.io
+Dependency Viewer
+ezTouch
+Rush and Save
+Crime rate Vs Socioeconomic indicators - An analysis
+Audio Arena
+Telescopic
+Bird Box
+Bedtime Hero
+StatusPage for JIRA Service Desk
+Grudemy
+intelli-vigilante
+RecursiViz
+Front Desk
+To-Do Bot for HipChat
+Notus
+Emotcha
+NC.js
+HackerCard
+Devpost Feed
+Canned Responses for JIRA Cloud
+NEATVIBEwear
+Turnstyle
+Braille Printer
+MCROCR
+Nugget Man: Revenge of the Crispy Bois
+1200.aero
+FeedMe
+TaxiDaba
+Just Out For a Rift
+Pear
+FlexiRoute
+Office 365 Cards
+iGlobe CRM App for Microsoft Teams
+Submission instructions
+Bob's Ramen
+VolunteerMeNow
+Farmed
+Weather Station
+Repos have feelings too
+cart++
+lovedotjs
+TENSORBLOCK.js
+SafeLine
+Devpost Sticker Wall
+AlzHelp - The Welfare Solution for Memory Loss Victims
+tf_plant_disease_classification
+Undercover
+OkPerk
+ReUnite
+QRToken
+HoloBots
+Schnauze
+AR Voice ML Ninjutsu Battle Simulator 
+WikiBeat
+ColorMax
+Mommy-gram: SMS with Mom. Through Alexa!
+RunMate
+DailyBites
+DataWave
+LucidLab5
+PickMe
+Project SAOUI
+MyBestProfiler - MyBestHelper Challenge
+Kindex™
+Steez
+ToneBot
+Overhear
+OfficeOn
+EchoMania
+pub-crawl-planner
+InnovoxVR
+FifthSense
+Draw &amp; Dial
+Honeybee
+Office Insights
+iGlobe CRM Office 365
+Sound Space
+Let's Cook
+My Study
+Capping Substance Abuse
+Tired and Defeated
+geoLingual
+Axiom Zen - Challenge 1 and 2
+WatchMe
+MedBot 
+See Say
+iGlobe Outlook Add-in for iGlobe CRM Office 365 
+Beat The Opponent
+Is There Any Danger?
+AggieEye
+Sync Youtube on High
+Lyfe
+Hangr - Good Friends in Seconds 
+Hot Beef
+MotiFun
+hyper-orama
+Meteorthings
+Baby SmartGate
+IoTyre
+HearMe
+R U Talking 2 Me?
+LunchUXChallenge
+beatObox
+SMS Chat Messenger
+AirlineSeatVisualizer
+Informant
+KeySplit
+Personal Portfolio
+Artisell - Indian culture revisited
+CW - A.I. Blocker
+WhatSnap?
+EduPod.club - Vulcan Learning for Humans
+eyeBeacon
+Travel by Theme App
+Pat-a-Cat
+Air Compare
+Quick Fly
+ScanShare
+Aristotl
+CERT [community Emergency Response Team ]
+Neo4j Scraper Procedures
+Capriccio 
+altrui.st
+Uipath Smart Log Activity - Custom Activity
