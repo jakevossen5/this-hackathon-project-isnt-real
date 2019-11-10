@@ -1046,11 +1046,11 @@ def get_prediction_from_proj(proj):
 
 
 def get_responces(url):
-    inspiration: str = ""
-    what_it_does: str = ""
-    how_we_built_it: str = ""
-    challenges_we_ran_into: str = ""
-    acomplishments_we_are_proud_of: str = ""
+    inspiration = ""
+    what_it_does = ""
+    how_we_built_it = ""
+    challenges_we_ran_into = ""
+    acomplishments_we_are_proud_of = ""
     with urlopen(url) as response:
         html = response.read()
 
@@ -1082,7 +1082,7 @@ def get_responces(url):
 
 
 
-def get_data_between_two_headers(infile, start, end, alt_start, alt_end) -> str:
+def get_data_between_two_headers(infile, start, end, alt_start, alt_end):
     copy = False
     data = ""
     for line in infile.split('\n'):
