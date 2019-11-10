@@ -56,7 +56,7 @@ def generate_text(fileInput, fileOutput, lines):
 def get_generic(folder):
     # print(random.choice(os.listdir(outDir + folder)))
     with open (outDir + '/' + folder + '/' + random.choice(os.listdir(outDir + "/" + folder))) as a:
-        return a.read()
+        return '.'.join(a.read().split('.')[0:3])
 
 def get_random_url():
     return random.choice(all_photos)
