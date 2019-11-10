@@ -12,10 +12,10 @@ def main():
     all_projects = [["title", "tagline", "responses", "tech", "is_winner", "like_count", "members", "photo_url", "has_video", "comment_count"]]
     data = []
 
-    start_page = 101
-    end_page = 200 # 6 elements per page
+    start_page = 0
+    end_page = 100 # 6 elements per page
 
-    root_url = "https://devpost.com/software/search?page="
+    root_url = "https://devpost.com/software/search?order_by=popular&page="
     for i in range(start_page, end_page, 1):
         req = Request(root_url + str(i))
         req.add_header('Accept', 'application/json')
