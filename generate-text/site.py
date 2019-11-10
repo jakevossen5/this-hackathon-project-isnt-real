@@ -21,7 +21,7 @@ inDir = "resource"
 def generate_text(fileInput, fileOutput, lines):
     textgen = textgenrnn()
     # train the model
-    textgen.train_from_file(fileInput, new_model=True, max_length=3, num_epochs=2, gen_epochs=1, word_level=True)
+    textgen.train_from_file(fileInput, new_model=True, train_size=.5, max_length=3, num_epochs=4, gen_epochs=1, word_level=True)
     # generate to file
     # textgen.generate_to_file(fileOutput, n=lines)
     #generate to string
@@ -29,12 +29,12 @@ def generate_text(fileInput, fileOutput, lines):
 
 
 
-acomplishments = generate_text(inDir+"/accomplishments.txt", outDir+"/accomplishments.txt", 50)
-how_we_build = generate_text(inDir+"/built.txt", outDir+"/built.txt", 50)
-challenges = generate_text(inDir+"/challenges.txt", outDir+"/challenges.txt", 50)
-what_it_does = generate_text(inDir+"/does.txt", outDir+"/does.txt", 50)
-insp = generate_text(inDir+"/inspiration.txt", outDir+"/inspiration.txt", 50)
-what_learned = generate_text(inDir+"/learned.txt", outDir+"/learned.txt", 50)
+acomplishments = generate_text(inDir+"/accomplishments.txt", outDir+"/accomplishments/accomplishments.txt", 50)
+how_we_build = generate_text(inDir+"/built.txt", outDir+"/how_we_build/built.txt", 50)
+challenges = generate_text(inDir+"/challenges.txt", outDir+"/challenges/challenges.txt", 50)
+what_it_does = generate_text(inDir+"/does.txt", outDir+"/what_it_does/does.txt", 50)
+insp = generate_text(inDir+"/inspiration.txt", outDir+"/insp/inspiration.txt", 50)
+what_learned = generate_text(inDir+"/learned.txt", outDir+"/what_learned/learned.txt", 50)
 whats_next = "lots of things are next" #generate_text(inDir+"/next.txt", outDir+"/next.txt", 50)
 sub_title = generate_text(inDir+"/subtitles.txt", outDir+"/subtitles.txt", 1)
 title = generate_text(inDir+"/titles.txt", outDir+"/titles.txt", 1)
@@ -925,19 +925,6 @@ def hello_world():
 # what_learned = "learned a lot of cool things"
 # whats_next = "this is whats next"
 
-
-
-@app.route('/make-new-files')
-def make_new_files():
-    acomplishments = generate_text(inDir+"/accomplishments.txt", outDir+"/accomplishments.txt", 50)
-    how_we_build = generate_text(inDir+"/built.txt", outDir+"/built.txt", 50)
-    challenges = generate_text(inDir+"/challenges.txt", outDir+"/challenges.txt", 50)
-    what_it_does = generate_text(inDir+"/does.txt", outDir+"/does.txt", 50)
-    insp = generate_text(inDir+"/inspiration.txt", outDir+"/inspiration.txt", 50)
-    what_learned = generate_text(inDir+"/learned.txt", outDir+"/learned.txt", 50)
-    whats_next = generate_text(inDir+"/next.txt", outDir+"/next.txt", 50)
-    sub_title = generate_text(inDir+"/subtitles.txt", outDir+"/subtitles.txt", 1)
-    title = generate_text(inDir+"/titles.txt", outDir+"/titles.txt", 1)
 
 print("made files")
 if __name__ == '__main__':
