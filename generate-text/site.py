@@ -1,7 +1,31 @@
-from flask import Flask
+from flask import Flask, render_template, flash, request
+from wtforms import Form, TextField, TextAreaField, validators, StringField, SubmitField
 from textgenrnn import textgenrnn
-
+from bs4 import BeautifulSoup
+from urllib.request import Request, urlopen
+import random
+import os
+DEBUG = True
 app = Flask(__name__)
+app.config.from_object(__name__)
+app.config['SECRET_KEY'] = '7d441f27d441f27567d441f2b6176a'
+
+import pandas as pd
+import numpy as np
+import sklearn as sk
+import matplotlib.pyplot as plt
+import json
+import csv
+from sklearn import datasets
+from sklearn.neighbors import KNeighborsClassifier
+from sklearn import neighbors
+from sklearn.model_selection import train_test_split
+from sklearn import metrics
+from sklearn.metrics import confusion_matrix, f1_score, classification_report, make_scorer
+from sklearn import model_selection
+from sklearn.model_selection import cross_val_score
+
+plt.style.use('ggplot')
 
 # title = "Test title"
 # sub_title = "This is a subtitle"
@@ -12,7 +36,6 @@ app = Flask(__name__)
 # acomplishments = "wow we are so proud"
 # what_learned = "learned a lot of cool things"
 # whats_next = "this is whats next"
-
 
 
 outDir = "outputs"
@@ -29,15 +52,32 @@ def generate_text(fileInput, fileOutput, lines):
 
 
 
-acomplishments = generate_text(inDir+"/accomplishments.txt", outDir+"/accomplishments/accomplishments.txt", 50)
-how_we_build = generate_text(inDir+"/built.txt", outDir+"/how_we_build/built.txt", 50)
-challenges = generate_text(inDir+"/challenges.txt", outDir+"/challenges/challenges.txt", 50)
-what_it_does = generate_text(inDir+"/does.txt", outDir+"/what_it_does/does.txt", 50)
-insp = generate_text(inDir+"/inspiration.txt", outDir+"/insp/inspiration.txt", 50)
-what_learned = generate_text(inDir+"/learned.txt", outDir+"/what_learned/learned.txt", 50)
-whats_next = "lots of things are next" #generate_text(inDir+"/next.txt", outDir+"/next.txt", 50)
-sub_title = generate_text(inDir+"/subtitles.txt", outDir+"/subtitles.txt", 1)
-title = generate_text(inDir+"/titles.txt", outDir+"/titles.txt", 1)
+# acomplishments = generate_text(inDir+"/accomplishments.txt", outDir+"/accomplishments/accomplishments.txt", 50)
+# how_we_build = generate_text(inDir+"/built.txt", outDir+"/how_we_build/built.txt", 50)
+# challenges = generate_text(inDir+"/challenges.txt", outDir+"/challenges/challenges.txt", 50)
+# what_it_does = generate_text(inDir+"/does.txt", outDir+"/what_it_does/does.txt", 50)
+# insp = generate_text(inDir+"/inspiration.txt", outDir+"/insp/inspiration.txt", 50)
+# what_learned = generate_text(inDir+"/learned.txt", outDir+"/what_learned/learned.txt", 50)
+# whats_next = "lots of things are next" #generate_text(inDir+"/next.txt", outDir+"/next.txt", 50)
+# sub_title = generate_text(inDir+"/subtitles.txt", outDir+"/subtitles.txt", 1)
+# title = generate_text(inDir+"/titles.txt", outDir+"/titles.txt", 1)
+
+def get_generic(folder):
+    # print(random.choice(os.listdir(outDir + folder)))
+    with open (outDir + '/' + folder + '/' + random.choice(os.listdir(outDir + "/" + folder))) as a:
+        return a.read()
+
+
+acomplishments = get_generic('accomplishments') # generate_text(inDir+"/accomplishments.txt", outDir+"/accomplishments/accomplishments.txt", 50)
+print(acomplishments)
+how_we_build = get_generic('how_we_build') #generate_text(inDir+"/built.txt", outDir+"/how_we_build/built.txt", 50)
+challenges = get_generic('challenges') #generate_text(inDir+"/challenges.txt", outDir+"/challenges/challenges.txt", 50)
+what_it_does = get_generic('what_it_does') #generate_text(inDir+"/does.txt", outDir+"/what_it_does/does.txt", 50)
+insp = get_generic('insp') # generate_text(inDir+"/inspiration.txt", outDir+"/insp/inspiration.txt", 50)
+what_learned = get_generic('what_learned')#generate_text(inDir+"/learned.txt", outDir+"/what_learned/learned.txt", 50)
+whats_next = get_generic('whats_next')# "lots of things are next" #generate_text(inDir+"/next.txt", outDir+"/next.txt", 50)
+sub_title = get_generic('sub_title') #generate_text(inDir+"/subtitles.txt", outDir+"/subtitles.txt", 1)
+title = get_generic('title') # generate_text(inDir+"/titles.txt", outDir+"/titles.txt", 1)
 
 
 the_site = '''
@@ -915,6 +955,155 @@ the_site = '''
 def hello_world():
     return the_site
 
+
+class ReusableForm(Form):
+    name = TextField('Name:', validators=[validators.required()])
+
+@app.route("/predict", methods=['GET', 'POST'])
+def hello():
+    form = ReusableForm(request.form)
+
+    print( form.errors)
+    if request.method == 'POST':
+        name=request.form['name']
+        print (name)
+
+    if form.validate():
+        result = get_prediction_from_proj(name.replace(' ', '+'))
+        print(result)
+        if result == 1:
+            flash('Predicted status: you will be a winner!')
+        else:
+            flash('Predicted status: you will be a failure')
+    else:
+        flash('Error: All the form fields are required. ')
+
+    return render_template('get-my-request.html', form=form)
+
+def get_prediction_from_proj(proj):
+    all_projects = [["title", "tagline", "responses", "tech", "is_winner", "like_count", "members", "photo_url", "has_video", "comment_count"]]
+    data = []
+    root_url = "https://devpost.com/software/search?query=" + proj
+    for i in range(1):
+        req = Request(root_url)
+        req.add_header('Accept', 'application/json')
+        # urllib.request.urlopen(root_url + str(i))
+        with urlopen(req) as response:
+            res = json.loads(response.read().decode())
+        print("res: ",res)
+
+        # each request gets a couple projects,
+        for project in res['software']:
+            # print(key)
+            print(project)
+
+            # Add project name
+            print(project['name'])
+            data.append(project['name'])
+
+            # Add project tagline
+            print(project['tagline'])
+            data.append(project['tagline'])
+
+            # Add text from the url
+            # print(get_responces(project['url']))
+            data.append(get_responces(project['url']))
+
+            # Add tags / tech used
+            # print(project['tags'])
+            data.append(project['tags'])
+
+            # Add winner status
+            data.append(project['winner'])
+
+            # Add like status
+            data.append(project['like_count'])
+
+            # Add members
+            data.append(project['members'])
+
+            # Add has photo status
+            data.append(project['photo'])
+
+            # Add has video
+            data.append(project['has_video'])
+
+            # Add comment count
+            data.append(project['comment_count'])
+
+            all_projects.append(data)
+            data = []
+
+    print("all projects!")
+    print(all_projects)
+
+    with open("one-time-data.csv", 'w', newline='\n') as myfile:
+        wr = csv.writer(myfile, quoting=csv.QUOTE_ALL)
+        wr.writerows(all_projects)
+
+    return str(generate_result('../data/data.csv', 'one-time-data.csv')[0])
+
+
+
+def get_responces(url):
+    inspiration: str = ""
+    what_it_does: str = ""
+    how_we_built_it: str = ""
+    challenges_we_ran_into: str = ""
+    acomplishments_we_are_proud_of: str = ""
+    with urlopen(url) as response:
+        html = response.read()
+
+    soup = BeautifulSoup(html, 'html.parser')
+    post_soup = soup.find(id="app-details")
+
+    headers_raw = post_soup.select('h2')
+    headers = []
+    for h in headers_raw:
+        headers.append(h.text)
+    all_text = post_soup.get_text()
+    # print(all_text)
+
+    headers = ['Inspiration', 'What it does', 'How I built it', 'Challenges I ran into', "Accomplishments that I'm proud of", "What I learned", "What's next for", "Built With"]
+    alt_headers = ['Inspiration', 'What it does', 'How we built it', 'Challenges we ran into', "Accomplishments that we're proud of", "What we learned", "What's next for", "Built With"]
+    text_list = []
+
+    text_list.append(len(all_text))
+
+    for i in range(0, len(headers) - 1, 1):
+        text_list.append(get_data_between_two_headers(all_text, headers[i], headers[i+1], alt_headers[i], alt_headers[i+1]))
+    # for i,t in enumerate(text_list):
+    #     print(i,t)
+    return text_list
+
+
+
+    # print(headers)
+
+
+
+def get_data_between_two_headers(infile, start, end, alt_start, alt_end) -> str:
+    copy = False
+    data = ""
+    for line in infile.split('\n'):
+        if line.strip().startswith(start) or line.strip().startswith(alt_start):
+            copy = True
+            continue
+        if line.strip().startswith(end) or line.strip().startswith(alt_end):
+            copy = False
+            continue
+        if copy:
+            data += line
+
+    return data + " "
+
+
+# @app.route('/predict')
+# def predict_apli():
+    # return str(generate_result('../data/data.csv', 'sampletest.csv')[0])
+
+
+
 # title = "Test title"
 # sub_title = "This is a subtitle"
 # insp = "This is some great inspiration"
@@ -927,5 +1116,128 @@ def hello_world():
 
 
 print("made files")
+
+
+def create_df(csv_file):
+    return pd.read_csv(csv_file)
+
+def create_tech_list(data):
+    lists = []
+    master = []
+    counter = -1
+    for i  in data['tech']:
+        counter += 1
+        try:
+            lists.append(eval(i))
+        except:
+            continue
+    for l in lists:
+        for tech in l:
+            master.append(tech)
+    techs = {}
+    for tech in master:
+        if tech not in techs:
+            techs[tech] = 1
+        else:
+            techs[tech] += 1
+    good_techs = {}
+    good_keys = []
+    for key in techs:
+        if techs[key] > 50: #change as the data grows
+            good_techs[key] = techs[key]
+            good_keys.append(key)
+    return good_techs
+
+
+def generate_feature_labels(good_techs):
+    good_keys = []
+    for key in good_techs:
+        good_keys.append(key)
+    good_keys.append('num_technologies')
+    good_keys.append('photo_url')
+    good_keys.append('num_collaborators')
+    good_keys.append('length')
+    good_keys.append('is_winner')
+    return good_keys
+
+def transform_df(df, good_keys):
+    reduction = 5
+    counter = -1
+    rows = []
+    for tech_list in df['tech']:
+        row = []
+        counter += 1
+        num_technologies = 0
+        try:
+            tech_list = eval(tech_list)      #pop technologies
+            num_technologies = len(tech_list)
+            for i,key in enumerate(good_keys):
+                if i == len(good_keys) - reduction:
+                    break
+                if key in tech_list:
+                    row.append(1)
+                else:
+                    row.append(0)
+
+        except:
+            for i in range(len(good_keys) - reduction):
+                row.append(0)
+
+        row.append(num_technologies)
+
+        if type(df['photo_url'][counter]) == str: #photo
+            row.append(1)
+        else:
+            row.append(0)
+
+        try:
+            row.append(len(eval(df['members'][counter])))
+        except:
+            print("")
+            continue
+
+        try:
+            l = eval(df['responses'][counter])  #length
+            row.append(l[0])
+        except:
+            print("ERROR WITH RESPONSE DATA")
+            continue
+
+        if str(df['is_winner'][counter]) == 'False':    #pop winner or not
+            row.append(0)
+        else:
+            row.append(1)
+        rows.append(row)
+
+    return(pd.DataFrame(rows, columns = good_keys))
+
+def predict(test, train, good_keys):
+    inputs = []
+    for i,key in enumerate(good_keys):
+        if i == len(good_keys)-1:
+            break
+        inputs.append(key)
+    target = 'is_winner'
+    k = 45
+    model = neighbors.KNeighborsClassifier(k)
+    model.fit(train[inputs], train[target].ravel())
+    predicted = model.predict(test[inputs])
+    return(predicted)
+
+
+
+def generate_result(csvTrain, csvTest):
+    train_df = create_df(csvTrain) #"../data/data.csv"
+    test_df = create_df(csvTest)#"sampletest.csv"
+    good_techs = create_tech_list(train_df)
+    good_keys = generate_feature_labels(good_techs)
+    new_df_train = transform_df(train_df, good_keys)
+    new_df_test = transform_df(test_df, good_keys)
+    predicted = predict(new_df_test,new_df_train,good_keys)
+    return(predicted)
+
+print(generate_result("../data/data.csv","sampletest.csv"))
+
+
 if __name__ == '__main__':
     app.run()
