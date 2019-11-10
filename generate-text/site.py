@@ -969,7 +969,7 @@ def hello():
         print (name)
 
     if form.validate():
-        result = get_prediction_from_proj(name.replace(' ', '+'))
+        result = int(get_prediction_from_proj(name.replace(' ', '+')))
         print(result)
         print(type(result))
         if result == 1:
