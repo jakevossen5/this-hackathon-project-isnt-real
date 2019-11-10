@@ -2,7 +2,7 @@ import csv
 
 # subdirectory for text
 genDir = "resource"
-dataDir = "../data/50-100.csv"
+dataDir = "../data/data.csv"
 
 # open csv 
 with open(dataDir, 'r') as csvSampleFile, open(genDir+"/inspiration.txt", 'w') as inspirationFile, open(genDir+"/does.txt", 'w') as whatItDoesFile, open(genDir+"/built.txt", 'w') as builtFile, open(genDir+"/challenges.txt", 'w') as challengesFile, open(genDir+"/accomplishments.txt", 'w') as accomplishmentsFile, open(genDir+"/learned.txt", 'w') as learnedFile, open(genDir+"/next.txt", 'w') as nextFile, open(genDir+"/titles.txt", 'w') as titleFile, open(genDir+"/subtitles.txt", 'w') as subTitleFile:
