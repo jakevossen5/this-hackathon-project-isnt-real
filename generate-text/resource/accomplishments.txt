@@ -1034,4 +1034,598 @@ The modules that I made when started working properly gave me the biggest sense 
  Despite the barriers we faced, our team is proud to have created an end-to-end application with so little time. We are also proud to have had such attention to detail, even going as far as to implement complicated animations just to open a dialog in Android. What's next for CapriccioTry out Magenta!Magenta is an open source Python library that explores the role of machine learning in the process of creating art and music. It would be amazing to integrate Magenta into Capriccio, either to extend music by matching our inputs against a database, or to generate chord progressions to enhance a simple melody. Built WithandroidopencvpythonTry it outgithub.comgithub.com      Submitted to    Hack the North 2019    Created by  I developed the front end Android application in Kotlin using various libraries including Volley and GSON. David LuI love KotlinI worked on the Computer Vision aspect of the app. We used Grip (an OpenCV engine) to build and tune vision processing pipelines. Through this we were able to detect key features of music notes and denote where on the musical staff they lie.Ani SrikanthI create things, and I'm getting better at it.I worked on setting up communications between the android app client and the backend server using FlaskErick LeonI am a dev who likes to devI worked on computer vision (with OpenCV) and processing through Python to map the location of notes into tones and beats to be understood and played.Jason LiuUniversity of Waterloo CS/BBA 2023 
   
  Finally, I have transformed my thoughts and struggles which I have faced during automation into an fully working custom activity.  
+ It works! It was touch and go for a while, but then we had a good run of things not failing. We managed to get in a few stretch goals (animations, nicer UI), missed a few (procedurally generated critters). 
+ Why we are so proud of this application?Because we start with a small ideea of implementation, and we managed to develop a complex application in a very short time thanks to Appian.How we did the implementation?Firstly, we thought separatly and wrote on a paper the main actors and the ideas for the application. After that, we discussed which of the ideas are the best, and in the end we combined them on what you can see today.Why we choose this idea?Because we want to use only one application for different purposes, and Appian solved this problem. 
+ Essentially created cheap Nest for people who needed it mostIf 75% of homes in Thailand with window A/C units were to adopt Hive: 32 Billion Thai Bath == 1 Billion USD in energy savings per year. Plus 4,635 MMTCDE less to worry about!!! 
+ We’re really proud that we got to finish all the core features of the app. We were able to effectively use the Google Cloud Vision API,  set up the compiler / interpreter API’s, and create both a web and mobile app. 
+  
+ We manged to combine two separate open-source projects and add quite a bit of beauty to the project.  
+  
+ We've paid special attention to the usability and practicality, and we're quite happy with how our design has turned out to be. 
+ Creating a web app that hundreds of people have already used and enjoyed. Making it to the point in my life / career that I can do cool things like this. 
+ I was very happy with the end results of this project. In spite of having a full-time job and four kids, I was able to create something really cool and get it to actually work reasonably well in just a couple months. I have more ideas for future projects with this device and am excited to keep learning. 
+  
+ Definitely proud that The Emotion Journal actually works! You can record journal entries and receive real time emotional analysis! And we did it in one night :D  
+ We are particularly proud of our real-time monitoring function and our mobile application. The real-time monitoring had high accuracy in many subjects, often even before baseline testing. We are also proud of our mobile application (JavaScript) and the fluidity of the UI.  
+  
+ We did a good job of deploying the chatbot to its own website as well as Facebook Messenger. Right now it's only accessible by developers on Facebook Messenger but we plan to publish it to public soon. 
+ As far as we know, we are the first in the world to transact on the blockchain using a government issued ID. We are the first to sign transactions with a recognized, legally binding signature.We build it all in a little over one day. 
+  
+ This was the first hackathon of three of our four team members which caused some initial difficulty getting started, but we quickly came up with an idea and plan (even though it was severely altered later on). We are proud that the extension looks great and extremely professional. 
+  
+ Being able to finish this, make it pretty, and actually add all the advanced functionalities that we thought  were "nice to have" really, really, really makes us proud! Additionally, the accuracy of the data as well as the precision of the location really surprised us. 
+  
+  
+  
+ We have a fully functional application. :D 
+ We are proud of the fact that we were able to produce a completely operational application accompanied by a fleshed-out website and a working firebase database. Inputting our information in the app, we were really able to see our website come to life over the past 24 hours, which is a really great feeling. 
+ We made it. 
+ High-fidelity motion control is intuitive and "feels" good - as though you are using "the force" to control an object. The motion capture is highly accurate and responsive.  
+ Executing an idea into reality within a short time 
+  
+ We were able to make this game pretty much entirely within 9 hours. 
+  
+  
+  
+ GROOT is awesome and super easy to use. We're genuinely confident that it has the potential to increase happiness in the workplace, which is no easy task. 
+  
+ We are proud that we successfully combined react and webflow, launched the Remi dashboard in 48 hours, and that Remi can use multiple channels to reach out to users. 
+ We are proud of our teamwork: both the tech and business parts were well analyzed, so we were able to differentiate ourselves from other teams in all aspects: from our tech slant approach to our pitching.It took some time for us to structure all the information in an interesting, pitch-friendly manner and to create a solution based on a complicated algorithm. However, as we allocated adequate resources to every challenge we aspired to solve, we were able to excel in all of our tasks. 
+  
+  
+  
+  
+ i think the game looks more like an old pc game played in VR than a cardboard game 
+  
+  
+  
+  
+ Can finish.Scan receipt. 
+ Trying new tools for the first time! 
+ This is my first office add-in build in a few hours. When I'll finish it our users will like it. 
+  
+ Two first-time hackers contributed some awesome work to the project!  
+  
+  
+ We were able to get up and running with a basic version on iTunes store () that enables logging health timeline related information and collaborating within care circle. Here's list of features present in app store:Care Circle Collaboration: Chat and share health details with your Care Circle.Whiteboard integration: Consult and share reports with your care provider.Receive Location, Rule & Date based Reminders.Health Kit Integration.After that we started working on simplifying and prototyping the application which can be viewed at  . We believe that any solution has a life and its a learning stage for myHealth where our intention is to gather views , collaborate with experts towards making a positive change in healthcare society via our myHealth solution.  
+ We used our knowledge from AP Physics to find an efficient solution to image processing. Firstly, each column was averaged. Then, the lightness and saturation were calculated from the image. One interesting thing we noted is that at each band on the resistor, the saturation value would spike. This would mean that all we would have to do is find the local maximas and then find the rgb values at those locations. However, this would occasionally produce false positives which were eliminated by using the lightness data. Whevener the lightness dropped, creating a local minima, this would indicate a band. This actually worked! 
+ Some pretty bad hacks I'll never tell anybody about. But they we're cool. 
+  
+ Design own music and own game in 16 hours. 
+ We finished our app and it works and it's fun to use. 
+  
+  
+  
+ The styling of the front end page, we are very proud of, creating a simple interface between profile, tasks, and leaderboard for users to see and interact with, making them all the more likely to use the app and become a part of their community. 
+ iPlanner Pro is used all over the WorldThe architecture of the Add-in and the fact that we use Graph and Fabric UI makes it easier for us to act fast when Microsoft update the API allowing us to continuously add more features for our user.What's next for iPlanner Pro Outlook Add-inWe are currently waiting for an API update that will allow us to improve performance of the Add-inBuilt Withhtml5javascriptmicrosoft-graphvisual-studioTry it outplanner.iglobe.dkappsource.microsoft.com      Submitted to    Hack Productivity 3Hack Productivity 4    Created by  Alon EkelundSamaresh Das 
+ I think this is a fun skill for the whole family to enjoy. It is great for non Australians that would like to explore animals they don’t necessarily know, and maybe would never see in person. Some preliminary beta testing was done, including with an Australian. The feedback suggests that this game will be awesome for Australian users who would like to play a game that is about wildlife in their country. Also I anticipate they will enjoy it because it includes a fun voiceover in an Australian accent. 
+  
+  
+  
+  
+ We managed to get a proper layout design of the application and were able to integrate user, flight and airport data along with google maps API Integration efficiently and accurately.  
+  
+ Everything that we did we are proud of, but if we had to pick a few, it would be the ability for us to figure out openCV and how to use the clarifai to implement machine learning into our software. We are also incredable proud of figuring out how to use opencv on Linux Debian. 
+  
+  
+ I'm most particularly proud of creating my first augmented reality app and being able to combine IoT with it. 
+  
+  
+ We like how it turned out...  
+ We managed to create a product that might solve a real problem. 
+ We were able to take live video and count how many people there are on every frameWe were able to accomplish the basic use case of audio feedback about the user surroundings 
+ The team had a very beneficial spectrum of skills. The team believes the project couldn't have been completed if any of the members weren't present. The learning curve was also challenging, but with enough time and focus, the team was able to learn the required skills to carry this project. 
+ None of have ever worked with Heroku or the Messenger platform, and two of us never worked with Express before. So we're all very happy we were able to work with these new technologies and build out a bot that would easily be one of the better additions to the Facebook messenger platform. 
+ Happy to see how many processes can be now implemented by the chat bot consultants and UI Path consultants. The DRUID chat bots can complete much more tasks, connecting via RPA to systems where it was not possible before.  With the Druid Trigger conversation activity available in UI Path Studio, you can now start conversation with no code. 
+ Deploying a stable, system that I now use on a daily basis :) - with the hope of growing the user base as we add more features.Getting others excited about what I'm working in, especially when challenged w/ alternatives ways to do almost the same thing on other platforms - the "why would I use Taggrr and not X?" question. It took some time but I believe I have crystallized the unique value-add of Taggrr: creating shareable tags that you can name as you please; the tags are portable and so are accessible from all devices; and the tags allow you to group people, documents, events, anything! together in a way that we are already familiar with (we're constantly creating labels or folders for things we want to remember) and that closely resembles how many of us already implicitly organize the "data" in our minds. 
+  
+  
+ Champollion 2.0 is starting to be famous in France now. Several newspapers and magazines have already published positive reviews. 
+  
+ A complete android app using Android Studio and integrating Watson. 
+ Importing sound and the graphics of the 3d space field which are top notch gaurenteed. 
+ We're super proud to have a working engine! There's only two of us, and there were several times when we very close to giving up, especially early on when we had ~3 lines of code after a good 6 hours! :PNow, we have implemented pretty much everything you need to write a standard text-based adventure game. 
+ We're very proud by the very fact that this proof of concept is workable and we've gone around asking if people think that this is a problem worth solving. As expected, 79% of the interviewee thought that it was !! 
+ We are very proud of our game, which we developed within a short amount of time. We managed to learn and integrate a brand new technology with our passion! Also, we couldn’t be more proud of our teamwork, which was the key for successfully developing our game. Everyone is our team made equal contributions and were dedicated to accomplish the tasks which was assigned to them.  
+ We are very proud of the overall outcome of this app, the UI, the functionality, but most of all the purpose this app can serve to the 15 million Americans who have dietary allergens and even more who want to start viewing a healthier menU at their favorite restaurant. 
+ Featuring on Producthunt :) YEAH!TOP 10 weather apps in the #USA! 
+  
+ I guess having so much recognition straight out of college was a little shock. having people tell you they know the system you built and that they love it, is one of the best sensations ever. 
+ Binnacle is a tool everyone on our team would use. The central idea and its implications are what drove us to start on this road. Along the way, we have stumbled on a number of great ideas regarding features, monetization, and the interface. This is an application we're going to continue to work on, if for no other reason than we What's next for BinnacleOnce we have the central functionality in place (including a secure back-end which can support authentication), it's time to prepare for all of the data the app will collect. Built Withexpress.jsmongodbnode.jsreactTry it outgithub.combinnacle-app.herokuapp.com      Submitted to    ZipRecruiter Hackathon    Created by  Gus NordhielmMarina LupinAlex EspinozaSteven Peltzer 
+ We created an MVP from the ground up in 24-36 hrs that has functioning components and an interactive UIAccurately diagnosing a common workplace/job related issue and creating something to better the interview selection process 
+ Integration of oauth for twitter with the amazon alexa (Not hard coding keys). Implementation of random text input in order to perform tweets and text messages.   
+ We made a website and we finished our hack! 
+ Well, it LEVITATES. 
+ We built a useful utility which feels at home in the shell. We bundled a web server and familiar search-based web interface, so that average users need not know the shell is even there 
+  
+  
+ The application was really done in less than 48 hours and it was our first time to use react so we're so proud of the results! 
+ Being my first Alexa skill, I'm proud that I stuck with my original idea and managed to figure out an implementation of the game for Alexa.What's next for 3 6 9A high score tracker Nothing much more. I will be looking to developing new Alexa Skills hoping to use the Echo buttons. Thank you for reading! Hope you have a great rest of the day! Built Withamazon-web-servicesjavascriptlambdaTry it outwww.alexaskillstore.com      Submitted to    Alexa Skills Challenge: KidsWinner                Finalist Prize                  Created by  Hyunrae Kim 
+ You can actually authenticate with your phone locked AND in your pocket.  It actually is a 0 effort solution! 
+ HTMLHint is an amazing code analysis tool that aids code review and refinement. We were very fortunate to work on a powerful tool that has an promising potential. HTMLHint is a project built in JavaScript and we were able to update the project to improve legacy code and add support for future improvement to the tool's functionality. We were able to file many pull requests on HTMLHint as well as fix and resolve project issues that had been pending for a long time whilst also implementing functionality for new features and a website.Closed issues:#281 Deliver HTMLHint via CDN#316 Create version of HTMLHint for the browser only#313 move snyk to devDependenciesOpened issues:#334 make site with jekyll for htmlhint.io#323 Add alt-require as a default ruleMerged Pull Requests:#325 Migrate to Webpack & ES6 modules#322 feat(htmlhint): add new rule for whitespace in attributes (#310)#327 fix: missing test cases#328 fix(htmlhint): add ability to pass regexp in config#331 fix(htmlhint): added rule for special characters in tag name (#146)#332 feat(htmlhint): added attribute sorting (#309)#333 Attr value single quotesClosed Pull Requests:#326 feat(htmlhint): added rule for sorting attributes (#309)#329 Invalid tag characters 
+ It works! And the accuracy is actually pretty good. If there's one person in the group that's laughing, the gun will aim at that person and shoot.The gun also makes fake movements, just to freak the players out - you really don't know if it's going to hit you or not! 
+ ProductWe are proud to build a product with strong future applications and positive implications towards the society. Deep learning for cancer detection is such a fascinating field that illustrates the combination of two seemingly irrelevant areas. NYU has taught us the importance of critical thinking and cross-thinking, and we are grateful for the analytical skills as well as technical skills we manage to gain and apply. We will definitely continue exploring the field, building a version beyond the current Hackathon and bringing some positive changes to the society.   TechnologyWe have learned more about deep learning, in terms of structure and applications. The experiential learning experience enables us to apply what we're taught in school, mentors and workshops provide us with more timely advice on the product and the time constraint pushes us beyond our comfort zone (and procrastination).   TeamworkThe most importance accomplishment in the journey is the great teamwork. We literally formed the team 10min before the official start of the hackathon, and are presently surprised that we complement each other in terms of skill sets. As a three-man team, we worked coherently -Yichen did the complex algorithm, Shining built the website and user interface, and Yamei wrote the content. Although our team is smaller, we are proud that we made new friends and built LCD together within the past 2 days.   
+  
+  
+ First and foremost, we are proud of putting together an application that leverages a number of technologies that we had never used before (Lex, DynamoDB, Slack API, Lambda) in a short period of time.  We've grown as developers, and some would say, as people. *cue awws from the audience*We were also proud of how we implemented state management with DynamoDB, storing interim event data to allow us to reliably poll users for input inside or outside of intents without accidentally invoking another intent or triggering a Lambda function.  Once we were able to control state flow, we didn't have to worry about how making our Lex interactions less "bot-like" might affect MyMusicMate's behavior.We're also pretty happy with our concert queue/voting logic.  Ultimately we wanted to give users the highest chance of coming to an agreement on which concert to go to, and this meant giving enough of a variety of concerts, setting the proper threshold for keeping or discarding events, and allowing just enough rounds of voting necessary to make a refined decision without getting stuck in a voting loop. 
+ I'm really proud of this project, as I was very excited to work on a project involving Tree Traversals, Trello API, and learned a few ECMAScript6 tricks that I could use for the next party ;).I'm also thrilled to join this hackathon and work on a project that I really like.  What's next for TreeView for TrelloI hope to continue this project for my own learning and also for the potential users of this powerup. Here are some of the things in mind that I plan to continue working on for TreeView for Trello.Card or list duplication/archiving using the treeBuilt Withcsscss3dreamshopeshtmljavascriptjsonlovesasstrelloTry it outtrello.com      Submitted to    Atlassian Codegeist 2017    Created by  this.me.code();Jobo Danque 
+  
+  
+  
+  
+ I am proud that I was able to complete my first Azure IoT project that addresses one of the foremost issues facing the entire planet. I hope I am able to continue this and would be thankful even if this solution is able to produce the smallest benefit to any community. 
+  
+ Learning Blender and Unity 
+  
+ Understanding the jargon of the various services we used. Self teaching ourselves mobile app development concepts.What's next for CANiEatThisAdding a way to recognize which foods can or cannot be eaten given medical conditions of the user (from a database).Using fatsecret's js library to find more specific information about the foods that we can look up (as opposed to using a Java library, which does not give as much detail).Adding a more interactive U.I, where the user can tap on each food returned by the image recognition, to view more details.Training the IBM-Watson AI for more accurate results.Built Withandroidandroid-studiofatsecretibm-watsonjavajsonxmlTry it outgithub.com      Submitted to    ConUHacks III    Created by  Yu Ting GuzerfuthEric Vuongj-chenn 
+  
+ I managed to get the data from my Arduino sensors, to my RPI, then to my meteor server and show the sensor feeds into charts. I wasn't sure I could get there in time, but my best friend google helped me out a lot to learn the pieces I was missing on meteor/javascript/etc.Also I load only the feed data on demand so there is not a huge initial transfer.I'm not too sad about the look of the app, the login screen look good, and the feed screen is okay. Lacking functionality though. 
+  Scraping online lyric resources without a dedicated API Implementing a functioning RESTful API Analyzing and learning from over 7,000 lines of lyrics  
+ I was able to reuse a lot of the JS I wrote for my headline / spammyness checker projects. Yay for reusability! I'm also proud of the borderless text boxes with mouseovers. I think they make the experience a lot better. 
+ As my first real project and product, I think it was a very good step. I think I was able to take a concept and deliver it into a professional looking app (I hope...). The idea I felt was novel and I think definitely was my eye-opener into app development and then I think to computer science in general. Overall, I think my proudest aspect would be the look of the game, in my opinion, it is beautiful and especially on the right device; and I feel it is a true product. 
+ We were thrilled to get the application up and running at the level it is at. Two of our team members were first-time hackathon participants, so there was a lot of explanation and instruction along with writing code and fleshing out the idea. However, we were happy that we were able to take a large static data set and actually create something of immediate use for those concerned about theirs, or their families safety when travelling. We also are very excited about the various ways in which we can scale our idea. Future Scalability and Usage of VeriRoute:VeriRoute was designed in such a way that it can be scaled for a larger and larger area based on the amount of information in a given CSV file. As more and more CSV data is provided to us by EverQuote, more and more accurate routing predictions will be given by VeriRoute. Also, increasing the amount of  comprehensive crime data around the U.S fed to VeriQuote will provide it with a means to provide more accurate routing predictions.International Scalability can be achieved as well, provided that accurate crime data in the nation is released to the general public.Built Withbootstrapcssd3.jsgoogle-placeshtmljavascriptleaflet.jsmapquest-directionsTry it outwww.github.com      Submitted to    HackDartmouth III    Created by  I helped work on the API Integration with MapQuest using JSON,JavaScipt and the Leaflet framework for JS, and write the CSS for the site.I learned a ton about API Usage while working,and strengthened my bases in CSS which was awesomeAnurag AkkirajuI helped work on the data analytics to contextualize each route, and specifically assisted in designing the algorithm to compile the safety metric. I also dabbled in some of the front-end development, and learned a ton about API usage, web development, and design.Josh SuretteInterested in big data analytics, particularly in the application of computational biologySumanth Reddy PandugulaSai Priya Jyothula 
+ Clustering algorithm: we managed to find a good match between emotions and songs/movies. User Interface: interactive webapp in which user can login with his/her Spotify account and see the list of suggested movies.Functioning prototype that could explain our basic idea. 
+  
+  
+  
+  
+  
+  
+  
+  
+ The pivot. This may also help with context.io rate limits, as these will ideally only be email-to-be-displayed that people want to share with others. (Hopefully not spam.) 
+  
+ We successfully developed algorithms to manage WRCs using less variables and minimum transactions for the issuance of WRCs which will cut off a significant transaction cost. Everything is on blockchain so no tampering of data can be done. Only the important parameters are stored which makes the blockchain lighter. 
+ We’re really proud that we were able to incorporate so many interesting pieces of technology without losing focus of our goal.The use of Cloud APIs to perform object detection allows us to return meaningful tags to help improve the users experience when trying to describe the application. 
+ Working together as a team with different components assigned to everyone was the main challenge which worked out pretty well. We used Victory for getting the graphs which was very new to us. 
+ Being able to incorporate hardware like the arduino to support our ideas. 
+ Functional proof of concept in less than 48 hrsWhat's next for Personal Interpreter for instant translationsNative appImproved OCRSuggested responses with option for text to speech in conversation modeWorking proof of conceptDemo currently only works in Chrome for PC and Android Deviceshttps://sato.learncube.com/Built Withcanvasgoogle-translatejqueryttswebrtcTry it outsato.learncube.com      Submitted to    Techfugees Australia     Created by  Dan O'ReillyFull stack developer with strong interest in EdtechAmitabh Rajouria 
+  
+  
+ A functional program that hopefully many others will use regularly. 
+ As the developers of MoodAmigo we're proud of having achieved a step towards helping depressive people improve their life by using our service. MoodAmigo's unique benefit lies in acting as a gateway to successful depression treatment by involving family & friends. 
+ We're very proud of our handcrafted ML model and opencv algorithm, and our intuitive and sleek UI. 
+  
+ We're proud to build something of tremendous value for the defi ecosystem. This off-boarding ramp helps secondary users like our family members -- They simply sign up for a Coinbase account and give us their ETH address. We can take care of the rest - peacefully knowing that if anything happens, our family will be taken care of. In only 2 weeks, our team was able to dig deep, and deliver a strong prototype of what DC can do. What's next for Defi CustodyLiquidation tools would turbocharge DC. Imagine trying to pass down your synthetic assets to your heirs after you die.  Future iterations of DC would allow users to liquidate their assets back into a common asset like ETH before sending it to their heir's wallet. Transferring NFT's would be useful too, all that land you own on Decentraland needs to get passed down too!Built WithothersolidityTry it outgithub.com      Submitted to    Kyber DeFi Virtual Hackathon    Created by  Defi CustodyDefi Custodytommyz7IlgizJack BarreraPedro Sousa Grilo 
+ I'm proud of learning and getting a finished first version of both the plugin and the extension out in about 20 days. 
+ We've got a good looking user similarity graph, which will help inform decisions about ride-sharing. We put 12 million data points worth of data in a web browser. 
+ I'm proud of our team for hacking on an arduino with no previous experience. We finished the project within the allotted time and it turned out to be even cooler than we had expected. 
+ We built a hack that uses IRC and lived to tell the tale! 
+  
+ Definitely that the web app looks great and actually has almost all of the functionalities that we had aimed to create! More importantly, we're proud of how well our team worked together to solve problems and help each other learn.Built Withadobe-illustratorcss3express.jshtml5javascriptjqueryjsonlinuxnode.jsphotoshopsocket.ioubuntuTry it outhackatbrown.cathy-chen.com      Submitted to    Hack@Brown 2016Winner                Best Overall                  Created by  I deployed our app on a Linux server, and helped with Node.js. As well, I implemented the UI elements and ensured that all the code was integrated properly. Cathy ChenI built the client-facing code which keeps track of the graph data, renders the graph and is responsible for the three functions that the user can use (add node, add edge, vote). I also combined the client-facing code with the server-facing code that Felix created, resulting in the working product.Zheng TaoI was responsible for designing our product (UI/UX). I also did the front-end dev (HTML/CSS).Jona ChoProduct DesignerI wrote the backend (server) code and learned (and implemented) socket.io for real time updating between the server and multiple simultaneous users.Felix Merk 
+  
+ Actually finishing the hack despite the hurdles with Muse. Also, we were very happy with the UI design and the overall concept/social application of the hack. 
+  
+  
+  
+  
+  
+ There was a problem and we solved it. We are proud of it no matter what. 
+  
+ many kinds file format supporteasy an intuitive operation support for mouse and touchgreat support for gif animated pictures 
+ We were able to finish a feature-complete project in just 2 days while also learning several new technologies!  Getting AWS Lambda functions to work was also exciting due to the cost savings of this type of development and use cases with scalable computing. 
+ It works.It works on a RaspberryPi. 
+  
+ -Finishing a fairly complex hardware project with time to spare-Working around dozens of obstacles-Programming the software to control the system with no prior experience in JavaScript or Node.js-Not messing up in the last five hours 
+ While we realize Switter isn’t at the stage it needs to be at to make the impact we want it to, we’re thrilled to have completed an MVP of our vision and have something that we can demo and get useful feedback from. It was also awesome to find such a great team just through the HackHarvard group. What's next for SwitterWe believe Switter can play a real role in informal finance education, but to get to that point it needs to become more of a generalized learning platform. Here’s what we have in mind:Expand the number of news and social media sources used for displaying sentiment about different companiesAdd an extensive “resources” section with embedded videos and learning modules for financial educationTest the idea of a “mock investing” section with users to see if that would be a big enough benefit to justify its developmentBuilt Withamazon-web-servicesbootstrapchart.jsexpress.jshpemongodbnode.jsreactreduxtwitteryahoo-query-languageTry it outgithub.comgithub.com      Submitted to    HackHarvard 2016    Created by  Austin HubbellJason RamettaBusiness StudentHassan AliI write poetry for a living #codeDhron Joshics @uwaterloo 
+ Not too many atm  
+  
+  
+  
+  
+  
+ The safety information which preserved reservation is uploaded automatically at the time of the internet recovery. 
+ Though this system is focused on the shelter managers to use at this time, this application is also designed for easy and immediate use of everyone(ex.: volunteer team, back-end team) without make limitation for any scale of teams and groups.What's next for InstantCall-Use Presence Insights service-Provide screens for iPhone.Built Withbluemixgoogle-streetviewibeaconibm-watsoniosjquerymapmysqlnode.jsphptwiliotwitter      Submitted to    Bluemixathon: Operation Rescue & RecoveryWinner                Bluemixathon Category Runner-up Awards – Groups and Relief Organizations              Winner                Fan Favorite – Groups and Relief Organizations                  Created by  hinoya 
+  
+  
+  
+  
+  
+ Learning new technologies in a few short hours. Amazing team work between strangers (though this was so effortless, it almost can't be considered an accomplishment). Kickstarting I (Margaret) and John's acting careers, and Vince's directing/producing/writing career (kidding). 
+ Making a rad-ass musical instrument. 
+  
+  
+  
+  
+  
+  
+ Mobile development 
+ First of all, we incorporated 3 different apis: MasterCard api for the payment, Esri for map view and Gimbal for geo-location and geo-fencing. Out of all, our biggest accomplishment is the video view laid on top of the Esri map api in a bitmap drawable with real-time information. 
+  
+  
+ Managed to learn a new language in under 24 hours and produce a substantial project of the form of an online game for chemical edification and fun. 
+  
+ Finding a holistic solution to solve our challenges was the things we are proud of. 
+ Finished minimum viable product and we use industry leading best practices to ensure quality in the repository.This was everyone' first time contributing to open source, and we built a fully functioning Python module publicly available on PyPI. 
+ The feat we are most proud of is our ability to complete our ambitious goal of real-time surveillance in such a short period of time despite running into various major bugs in our code. Although we spent many hours debugging issues in our code, being able to make our code efficient was a very eye-opening experience and something we will cherish for a long time. 
+ Getting three product examples up and running: industrial-style shelves, cylindrical glassware, and white plates. The white plates are particularly interesting because I used a "roundness" parameter to sort plates that range from circular to square. 
+ Creating a function out of an APIUsing git and GitHub collaboratively 
+ Creating a prototype by the end of 24 hours.Built Withandroidaugmented-realityionicjavascriptTry it outdrive.google.com      Submitted to    TAMU Diversity  Accessibility Hackathon    Created by  Karunanidhi DevanidhiEnthusiastic Full Stack Developer with a big passion for developing innovative internet(Web, Mobile, Bots, etc.) applications !! 
+ Creating a project at our first Hackathon! 
+ We are proud of being able to bring together all the citizens of Indore on a common platform where they can share the happenings of their city and concerns with people who would actually understand them. The government can also use our app to help the citizens. 
+ We are especially proud of the separation of our code between the client and the server. Everything is general enough to allow us to add more features in the future. 
+ Winner of the first ever Ford SYNC Applink "Connected Car - Connected City App Pursuit Challenge hackathon beating over 169 companies. (Oodles Rewards previously known as FuelSignal). Successfully raising seed round after winning Ford hackathon. Please note that our previous hackathon was not in anyway affiliated with Devpost. App Pursuit Challenge Winner: http://bit.ly/2OodlesRewardsLA Autoshow Hackathon Winner:  http://bit.ly/OodlesFuelsignaliOS Oodles test phase app integrated with Ford Sync (connect to a Ford vehicle): http://bit.ly/OodlesDropbox  and/or https://i.diawi.com/CC674kVideo DEMO: Oodles test phase app Integrated with Ford: http://bit.ly/OodlesFordDemo 
+ We managed to have a fully functional app hosted on the cloud with few «prototyping» restraints, the app has a real use and we explored new techs we didn't have much experience with which was a good occasion learn.  
+  
+  
+ Using React and Redux, and the technology we've already developed for other Arijea products, we were able to take Easy Agile Roadmaps from concept to launch in just over ten days. Also, ensuring we designed the roadmap around the JIRA Software API reduced complexity and allowed us to ship a serverless add-on. Being entirely hosted on CloudFront ensures that Easy Agile Roadmaps loads as fast as possible for everyone, no matter where they are in the world. 
+ I made the game! 
+ The whole thing. The level of polish we managed is far higher than what we expected to achieve.  
+  
+ When it comes to Voice User Experiences (VUX), ensuring that your Skill can react correctly to users' requests is extremely important. Humans phrase things in a myriad of ways and natural language processing (NLP) doesn't always translate a user's speech into a perfectly-matching Skill Slot Value. To account for this, I did two things. First, I added an utterance to allow a user to get a list of supported sounds, allowing them to hear an example of what the Skill expects them to say. But more importantly, I created a function to take in a potential slot value, cast it into lowercase-only characters, then cross-check it against a list of manually-made variations based on different ways that I could envision myself talking to the Skill. The result was over 130 variations of ways to say 13 different sounds. 
+  
+ We built it during a two day Hackathon :) 
+  
+  
+ It was also a challenge to create small pieces of functionalities and, in the end, link them all up and discover that it's actually working (minor tweaks involved). So this is a definite plus for our team :)Major plus: getting all the info we need from AD (LDAP), Redmine and MakeItSoftware. 
+  
+ Rather high accuracy of human movements recognition (in an ideal situation - about 96%. in real - ~83%)Fully working behaviour (it really works as expected :D)Combining multiple technologies in single app to achieve our goalOur own dataset!  
+ Being able to program the enemies and bunnies. 
+ I am definitely proud of the work we have done in this project and the outcome of the project. I believe this skill is making changes in the way students learn to code. 
+ Users can easily arrange 1:1 meeting than other tools (Outlook, Google apps) with their mobile phone. It reduce their daily tasks and make time to do other things. 
+ The SonarQube plug-in for Bitbucket provides two authentication modes to create pull request comments for the found code issues: OAuth and Bitbucket's team API key.  
+ Well, I guess it's always very satisfying to connect applications and environments that are not natively connected. In this special case, it's even more satisfying because both Atlassian products and Microsoft Office 365 are very popular. 
+  
+ Being able to run animations over bluetooth in such a short period of time.What's Next ?Mass production of the table to the relevant clientele!Built Withandroidandroid-studioarduinoglediatorTry it outgithub.com      Submitted to    MHacks NanoWinner                Top 12              Winner                All Submissions                  Created by  Electronics Hardware and Table Concept and DesignAkshay Bawejahttp://akshaybaweja.comAndroid DevAmanjeet SinghAndroid enthusiastBhagat SinghJasmine Sodhi 
+ The accuracy of the stitching algorithm that we came up in a very short time, our benchmarking utility to measure the accuracy of any stream, the end-to-end solution we built, and our creative presentation "with captions instead of usual audio" 
+ This addon was developed due to real customer needs. after developing the addon, they were happy to be used as beta sites. their reaction was very good, and they have reported it changed the way the did planning with Jira. Happy customers are always a good sign. 
+ A model to bring all teams closely together as well as Hajj organizations looking to enhance the Hajj user experience.Strong team communications and spirit.Learned several technologies and shared good feedback within the team or with other teams.Breaking the Gunnies Book of Record for largest Hackathon along other fellow participants. 
+  
+  
+ Learning Android development (both mobile and wear), Presto API.  
+ It is fully functional. 
+  
+  
+  
+ It can send and receive messages, ask for authentication, and allow the doctor to access to the patient data with proper permissions. 
+ We have done it in a short time. Sometimes its working =) 
+  
+ I used this component at my company and created in 3 minutes 200 mails with customized attachment from a shared mailbox. It was used in a demo presented by to the CEO of KBC AM  link. This was more robust and much faster than using the outlook GUI and create new mail with copy and paste.I added the component to the uipath gallery and I'm proud it is the most downloaded custom components. 
+  
+  
+  
+  
+  
+ We are proud to have a project version running before the submission deadline.  
+ Developed an end-to-end machine learning product who's parameters can be adjusted by the end-user. 
+  
+  
+ We made it - skill looks sound and looks great (organically tested with parents and their kids) 
+  
+  
+ Creating something that might inspired the next generation of computer programmers. 
+ It works as planned with small difficulties. 
+  
+ We are proud of all the research we have done and the result that yielded from it for the project. We have not only planned out functionalities but also thorough design guides. It's also fun to tackle React Native as a framework that no teammates of ours are very familiar with. We also were able to incorporate Google Vision API and link it with our camera to return us the correct results. The team dynamic is great and everyone in our team contributed solid amounts to our final product which is quite exciting. We made the effort in stepping out of our comfort zone and built out the MVP that we envisioned eventually.  
+  
+ We're proud of building a super inexpensive flood sensor (< $15) excluding the Dragonboard. Comparatively, the large flood detectors used today would be hundreds or thousands of times more expensive than our solution with the Dragonboard. We're also proud of learning serverless architecture and plan to use it in future hackathons. 
+ Built the most innovative UI for kids to say Hello World! in Deep LearningHow we worked as a team to make an end to end product2 first time hackathoners (2 full-time moms) together with experienced developers managed to wrap a projectBuilt for Hour of Code movement, where millions of children can code their first Neural NetEven had in-person user interview with our kid guest :) 
+ Having developed a chat bot which could save user's time during frequent activities like mobile recharge, bill payments, etc. Understanding new technologies (Python, AWS) in a short time. 
+  
+  
+  
+  
+  
+  
+ Creating my own code to parse through XML in Ruby and extract the needed information from HTTP requestsDeveloping algorithms that can correct for the limited accuracy of urine test-strips versus blood-testing, allowing for close to 95% correlation between the two methods of testing.Building custom fuzzy-match codes for medical- and diabetes-specific user inputs 
+  
+  
+  
+ The procedure to decrypt user passwords is secure end-to-end, with HTTPS for communication for the key/audio, Knurld for user verification and password encryption on the machine to secure them. Most popular password managers store encrypted passwords with themselves, which some users may not like.We, however, store the passwords on the client device only, so there isn’t any scope of compromising passwords from our end.WorkflowThe person installs Magnacle through chrome app-store.Magnacle requires the user to do an initial registration , providing username, a password and their voice.Then, the user logs into the extension using their username and password, so as to get the access token which authorizes their machine to allow voice authorization from that accountThis data is removed from the client's side and only their username and access token remains on their machine. The server contains username, password, and access-token to cross check in its database.Now whenever the user opens Chrome later on the machine in which they had logged in (ie, machine with the access token), he/she can open our extension and authenticate using their voice.If the authentication is successful, the client is given the key with which the password-data has been encrypted on their machine. In case nothing has been encrypted, Magnacle  requests a new key from the server The server then produces a random key and stored the key against the user account's record in its database. The client, then, stores the key on their machine (for that session).Magnacle works normally, that is, it provides auto-fill for websites that are already hashed in the local storage, and provides the option to do so on new websites.When the user closes Chrome or it crashes, Magnacle removes the key from the local storage. Now, the local storage once again contains username, access token and the encrypted password files.The server database contains username, master password, last valid access token (or null), last valid key, consumer-ID (for Knurld).In case the user logs out from Magnacle at any point of time, their access token and encryption key are removed, thus making the stored passwords uncrackable (as they are encrypted, and the key is note stored on the machine after this step). 
+ First and foremost, as a seasoned team that has has won and mentored at many hackathons, including LA Hacks, HS Hacks I and II, Los Altos Hacks, and more, we welcomed other teams to ask us any questions they had and we were more than happy to set aside our own project when necessary and help out younger hackers. We love the hacker community, and we want to see it grow :).Our team is extremely happy with the results of our hack. We were working with systems that were extremely high level, such as OpenCV for visual recognition, gyroscopic sensors, and audio recognition for commands. Although there were aspects of this hack where we unfortunately could not get to function, we realize that this is just an** MVP (Minimum Viable Product) **which is an essential first step in creating a small business that creates a revolutionary product. Since all members of our hacking team are extremely proud and passionate of this product, we are sure to take the lessons and accomplishments from this hackathon and apply it to further refinement of our product. 
+  
+  
+  
+  
+  
+ Our program has a lot of features one would expect from a professional physical therapy session. For instance, each orientation command given during game-play will not repeat twice - thereby eliminated muscle overuse. Furthermore, we know that the heart of therapy lies in multiple sessions so we have imputed functionality that increases the constraints to our stretches as the weeks go by, essentially making the exercises more strenuous as you are regaining mobility. Post rehab, clinicians can analyze collected statistics that show the number of days taken to reach full muscle ability (i.e. max score). Here they can ensure that the patient's recovery proceeded on the correct time scale by comparing to the mean recovery time.Implications of LeapMedConsidering the time saved from outpatient clinic visits, both for the patient and the medical professional, not to mention the insurance cost savings, hospitals can adopt this solution and rent it out to patients undergoing light physical therapy or use it as a method to keep patients exercising at home. This decreases co-pay costs for patients and opens up the schedules of physicians.Built Withguijavaleap-motionnetbeans      Submitted to    MedHacksWinner                Best Leap Motion Hack                  Created by  I worked on some of the initial logic for vector modelling and contributed to game design.Victor WangI worked on the research, business and marketing aspects of development as well as perfecting the consumer experience. Look out for our app on the LeapStore!Himanshu DashoraI worked on setting up the GUI that included the tutorial and the game itself. Benjamin PikusWorked on GUI design elements and logic for the programming.  Parth SinghThe majority of the programming, some of vector modelling, and some of the overall planning for the projectRahul YerrabelliAdam Polevoy 
+ We finished a working prototype that lets users borrow and lend mobile data. This is what we set out to do!We're also especially happy with our UI, which allows users to easily use the application - there's a single page, the user has to click on a button, and they're off to the races. Our data analytics page is also pretty unique. We show traffic data for each node in a dynamic graph that updates in real time. 
+ TODO 
+  
+ We are proud that we have introduced a new way of reading the news. What's next for MapMyNewsMapMyNews will integrate facebook and twitter feeds and display based on location. Also, we are planning to incorporate location-based advertisements as a part of our business model.Built Withajaxbootstrapchart.jscss3google-mapshtml5ibm-watsonjavascriptjquerynew-york-timesTry it outmapmyfeed.mybluemix.net      Submitted to    HackRice 6Winner                IBM: Best Use of IoT                  Created by  I designed the architecture of this webapp and selected the appropriate technologies for the development. I worked on the front end and was responsible for the data analysis and representing them accordingly in graphs. Naveen ManoharanGraduate Student pursuing Masters in Computer Science at University of Houston - Clear Lake. Full stack Web Developer.I coded the  data flow within the Single Page Application . I also worked with IBM Watson API as well as The New York Times News API . I did Parsing with them . I worked with Google Maps and also did heavy parts of Data Modeling for the project . Pujan  Paudel 
+ I managed to get Socket.io-p2p working, something that as far as I can work out, not that many people have done. It ended up being a great wrapper for WebRTC, but the documentation really needs work. I've started on making an example of how to do media streaming over it, which I plan to submit a pull request for as this is something totally undocumented as of right now. 
+  
+  
+  
+ Google Material Design and Google Maps ApiWhat's next for SmartCabBlockchain based Risk Management is a very nascent field. But it provides tremendous hope and opportunity. I plan on pursuing this as P2P finance can create a more Egalitarian TaxiCab Sharing ecosystem that rewards taxi cab drivers, passengers and Car Manufactures.This model can work in Morocco, Mumbai and Mexico City. It is globally scalable. Built Withblockchainbluemixibmmeteor.jsnode.js      Submitted to    Ford Code for Taxicabs Mobility ChallengeWinner                Second Prize                  Created by  Chaitanya Amin 
+  
+  
+ That it produces very pretty pictures rather quickly and the website is streamlined for the best possible user experience. 
+  
+ It's under 100 lines of code and took less than 6 hours. I hope it's an accessible project for anyone getting started with Meteor. There are some similar services available but none written in Meteor or as simple to use. 
+  
+ Doing something that's never done before.  Several Cisco experts told me what I wanted to do wasn't possible.  Splunk helped me prove them wrong.  Innovation is a AAA core belief and Splunk enabled me to be innovative in a way I couldn't image. 
+  
+  
+  
+ Being able to do this 
+ Being able to detect a handshake, exchange contact info like name, emails, but also compute the level of interest of the person you connected to (by using heartbeat sensor) 
+ Learning MYScript JS api and making a full fledged app 
+  
+  
+  
+ The simplicity and ease of use of the app particular to the needs of our user group.  
+ Learning some CV stuff, simplifying the pipelines I saw online by a lot and getting better performance (binary thresholds are great), getting a surprisingly usable system.Cool emergent things like combining pieces of paper + the side ideas I mention below. 
+  
+  
+ We're proud that we even had the courage to take on such an ambitious project for which the technology was completely foreign to us, and we had to learn everything from scratch. 
+  
+  
+ We reverse engineered the Bing real-time Speech Recognition API to create a Node.js library. We also added support for partial audio frame streaming for voice recognition.We applied transfer learning from Deep Convolutional Generative Adversarial Networks and implemented constraints on its gradients and weights to customize user inputs for synthesis of fashion designs.Creating a Python-Node.js stack which works asynchronously with our machine learning pipeline 
+ Kids and parents alike seem to really enjoy this skill. I tested it on a small focus group and it was beautiful to see how responsive the kids were, how naturally they engaged in the conversation and how much they enjoyed having Lexy listen to them. They interacted with the skill for a couple hours (!) and I'm really satisfied with how they believed Lexy was real and the pleasure they took in challenging her with many different cases. The best feedback was seeing their hilarious reactions whenever Lexy ruled. I was very pleased at how engaged the kids became even though there were no screens or any visual images involved. 
+ we can make a full vulnerability scan with ZAP using our application;we can create Redmine issues for your project when the scan is complete;we've styled the Laravel Nova dashboard to be really really cool ;) 
+  
+ The fact that we could achieve a substantial version 1 of the project in a very short period of time irrespective of the blockers we faced is a great accomplishment for The Alphex Team 
+  
+ It works and it got accepted in the Alexa skill store in US, UK, India, Canada and Australia. :-)What's next for Med PalWe really want to add a feature which allows doctors to keep a track of their patients and send them a report accordingly and also to book an appointments and visits to the doctors.Built Withalexaamazon-dynamodbamazon-web-servicesjavascriptlambdanode.jsTry it outgithub.comwww.amazon.comwww.amazon.inwww.amazon.co.ukwww.amazon.cawww.amazon.com.au      Submitted to    Alexa Skills Challenge: Tech for GoodServerless Apps for Social Good    Created by  Sayak Kundu 
+ Making a nice little application that can bring some cuteness to people. 
+ We were able to design functions to identify, iterate through, highlight and interact with specific elements using Selenium.We were able to implement facial gesture recognition only using the desktop’s webcam and without the use of any other external hardware such as LeapMotion.  
+  
+ Although we made a 3 phase plan to keep updating the extension starting from a MVP to tying in Bits later, we were told to get approved we would need to do up to Phase 3 from the beginning. We successfully got approval and got it live. We have yet to really fully roll out, but already we are excited it can help streamers, especially US streamers who are new to the mission culture grow their streams. 
+ Bringing forth a completely unique experience to users in hopes to connect people across the world and spread culture far and wide. 
+  
+ The platform that we developed now can easily be deployed to full-scale building with just a bigger amount of time then 2 days. Current prototype can show main functionality for user and demonstrate how vehicles and stations will interact. 
+ tl;dr -> It works!We have used some technologies that we hadn't use before and the results are pretty accurate. 
+  
+ This is a tool that I use myself everyday and saves me time, so any time it saves other users is a bonus! 
+ We completed a successful beta with the National Brain Tumor Society and are going live with their entire community this month. Also, without any outbound efforts, we were able to identify five additional groups that are interested in using the platform.What's next for Clinical Trial FinderWe hope to onboard as many organizations as possible to the platform on our mission to accelerate the development of cures and therapies.Built Withclinicaltrials.govruby-on-railsTry it outtrials.braintumor.orggithub.com      Submitted to    GE Health Cloud Innovation Challenge    Created by  Michael WengerHannah OppenheimerLaura Wenger 
+ Getting a good final product at our first hackathon. 
+ It took 2 days to get the proof-of-concept working, synapses and all. I finished the screencast 6 days after starting this project. I think this helps make my case that this is practical.I'm glad I found a way to make it fast. The way NuPIC works, I wasn't sure I'd find a way. The solution: redesign ComportexViz a little bit, so that toggling synapse-saving is part of using it.Built WithclojurescriptpythonTry it outgithub.com      Submitted to    Numenta HTM ChallengeWinner                Innovation Prize: Muse & SmartThings kit                  Created by  Marcus LewisFanboy of @waitbutwhy 
+ Having gone into this hackathon with no experience in augmented reality or Unity, we are all immensely proud of how far we were able to take this app, and we're thrilled with the product thus far. The collaborative aspect of the app is particularly interesting, and certainly no small technical feat.  
+ I'm proud of putting everything together because I used so many different APIs and had to figure out ways to combine everything. 
+ Overall, I’m proud of completing and creating my first 3D game. The entire experience of creating ORB was extremely enjoyable and was a really good project to begin and get used to the Unity3D workflow. I am really proud of this fact and I believe that I am now familiar with this workflow and can execute upon what was before, just a game idea, in multiple platforms. Additionally, I am pleased with being able to answer questions actively on the Unity3D forums and IRC channels. I'm also proud of getting a Twitch live streamer, GameDevCompany, to test out ORB on stream in front of an audience of about seventy people. 
+ optimize meshes, materials and programming to deduce draw calls under 35 for all Scenes to keep60 FPS all the time 
+ We have built three generations of our program and currently have a commercial version of our software. Our preliminary pilot results show that with the use of ExplORer versus the baseline, setup time was reduced by 10%, tool-related disruptions were reduced by 42%, and cost of the case due to wasted items was reduced by 5%.  These results can be directly linked to team satisfaction and reduction in operating room time. These results suggest millions of dollars in annual savings potential, not just for large academic and community hospitals but even for smaller hospitals, simply by using our product. The potential for cost savings is heightened even further once we receive our next round of funding and are able to build out an aggregate data analytics dashboard for stakeholders to view the granular data that ExplORer collects during live surgical cases. As we prepare to make our first sales into hospitals, this dashboard delivers an integral aspect of ExplORer’s key value propositions.We have received several awards. We won $50,000 through the Pritzker Group Venture Fellows Program, were awarded 2nd place at The University of Chicago Booth School of Business’ New Venture Challenge, named one of four finalists in the Cleveland Clinic Innovations’ New Ventures Healthcare Challenge, and named one of the 150 Nominees for Chicago Inno's 50 on Fire competition.We have been funded by a Phase 1 and Phase 1B Small Business Technology Transfer Program (STTR) grant from the National Science Foundation. Lastly, in September 2016, we closed a $1 million seed round including 4 funds as well as prominent healthcare and technology angel investors.What's next for ExplORer SurgicalWe currently have a commercial version of our software in use at five hospital systems around the country.With respect to the technical aspect of our company, we have the following items in our roadmap:Further allowing for integration with major EMR systemsFacilitating quicker development of surgical workflowsBuilt Withamazon-web-servicesangular.jsexpress.jshaproxymeanmongodbnode.jssocket.ioubuntuTry it outitunes.apple.com      Submitted to    The More Disruption Please Innovation ChallengeWinner                Honorable Mentions              GE Health Cloud Innovation ChallengeWinner                First Prize                   Created by  Eugene FineI am a seasoned technology executive, an expert in agile and lean start­up methodologies, with more than 15 years of experience. 
+  
+  
+  
+  
+ We worked as a team and got to learn a lot. This we think is a nice accomplishment. 
+ Approved by Microsoft and the Outlook team to be among the white listed Add-ins for IOS and AndroidA great add-in that can be used both by private and business. What's next for FedEx Tracking for OutlookFor next release we are considering integration Group Calendar and making an Excel add-in for organisation that are tracking many deliveriesBuilt Withfabrik-uifedex-apioffice-365outlookTry it outsway.comstore.office.com      Submitted to    Hack Productivity 3    Created by  Mastermind behind the projectAlon EkelundKawsar Hamid 
+ I’m proud that my solution is working fine and helps me to get into VR website development. 
+  
+ I'm just happy to have something to turn in. Yesterday I was ready to quite and just leave. I felt so out of my depth and lonely with out a team. Now I can say I put in a solid effort This is where I started in December    http://spacecat.bitballoon.com/   just to show how far I have come and I'm proud of that. 
+ Working together to solve real world problems. PrizesInformation overloadWe use a deep learning model to organize transplant data to make it univerally accesible and useful for transplant clinicians. Head in the cloudsWe use the google cloud platform, aws, and firebase to deploy and deliver deep learning predictions.Hard core, Soft wareWe used tensorflow to build our deep learning model to help bring the potential of machine learning to human health. Data Storage and MigrationWe improved transplant data analytics.Fund Your DreamscapeWe used the tensorflow library to serve analytics to doctors.Go FurtherWe connect donors with recipients and allow organs to have an easier trip to the recieving hospital with confidence that it will get to its new home.Walking Your Dog Food to MarketOur open source project allows the world to collaborate on saving transplant patients.Making Sense Out of Complicated Clinical InformationWe have an open source healthcare analytics project that allows our deep learning model to improve with new and better transplant data. This allows hospitals to use their own EMR data on our open source project.Built Withamazon-web-servicesangular.jsfirebaseflaskkerasmachine-learningphantomjspythonreacttensorflowTry it outgitlab.comgithub.com      Submitted to    HackIllinois 2018Winner                Head in the Clouds              Winner                Making Sense out of Complicated Clinical Information                  Created by  Project management, FrontendShahaed HasanMy keyboard broke.paul rualesComputer science student at UIUCsome APIsThomas HanUniversity of Iowa '18I primarily focused on the frontend, but also helped with the backend and Firebase configuration.Kevin BlicharskiUniversity of Iowa | Computer Science and Engineering | May 2019Data processing, BackendAkhil KandimallaMadeline SilvaAndrew Ehler 
+  
+  
+  
+  
+ We were able to use S3 as a data store which help keep cost down and allows for easy updating.  We were able to get audio recordings from the McCauley Library and transcode them on  the fly using ffmpeg.  This allowed us to format that audio for ideal use.What's next for BirdBotNext we would love to add a feature that allows folks to identify a Bird they have seen using various physical markers such as coloring, length, beak size, etc.Built Withamazon-dynamodblambdalexpandaspythons3Try it outwww.facebook.com      Submitted to    AWS Chatbot Challenge    Created by  Shawn BowerBrett Haranin 
+  
+  
+ We have successfully developed wrapper for web3.js library on Swift so that you can interact with smart-contracts from iOS devices (only few people in the world are able to do it).We did real-time Python Server that can detect shaking of cargos based on data, received from truck's sensors during a trip.Besides that, on iOS device we created widget with quick access to cargoes statuses and quick start with Siri custom command. 
+ It works!  
+ We were really proud of being able to successfully post to the blockchain (little wins!), how simple our user interface turned out, and that we were able to integrate all of the Ethereum environments successfully 
+ The front end and ease of use, building a hardware automated plant (for the first time) in under 36 hours for under $200. Contributing to an open source community of makers and developers who appreciate horticulture/agriculture and strive for a symbiosis between technology & nature as the population grows. 
+  
+ The openCV code was very well optimized. We brought processing time down from nearly a minute to just a couple of seconds.The midi generation library was very difficult and counter intuitive to work with, but we managed to edit its source to fit our needs.The website design is very sleek, benefiting the user experience.Can be used to transfer information, like a prettier QR code. 
+ We were completely new to Unity and motion gestures and had to learn it all beforehand. 
+  
+ We managed to do it 
+ The elegant exterior and closely integrated electro-mechanical design, we also love the intuitive indicator lights.  
+ Learning Unity and Blender in less than 24 hours and achieving significant progress with both. 
+  
+ We're glad that we were able to create a fully-functional iOS app in such a short period of time. It was great working with new people we met at the event, and we were able to create a vision for a project and see it through to the end. 
+ We make a REST web service as the back end that can support all the mobile and web apps as the front end. Currently we have built the IOS app, and we would like to push our project to RiceApps in the future to build the Android and Windows Phone client. 
+ 1st Hackathon for 2 of the team members. Working with conducting material and successfully completing the project on time with the application. 
+ We are proud of our success in creating our first Alexa Skill, learning python, and for taking on a challenge that people were not sure if we could complete all within 36 hours. 
+ Building a complete platform with so many different technologies.  
+ Designed a custom activity which is capable of exploring a entire package and returns the whats need for the user to look into. 
+  
+ Multiple gas optimizations - we store the memes themselves on ipfs, but the contract references them as two uint8s and a fixed length bytes32, significantly reducing gas costs over a dynamic array. We also used an inline assembly proxy factory, making cost to deploy a proxy only around 5 cents. On the front end, we have multiple sorting params for the meme leaderboard, and a portfolio page reading from event logs 
+ Although our skillset was limited, we joined forces and tried our best to bring this idea alive and had fun doing so. 
+ parallel dev work and squashing bug after bug! 
+ Building a virtual environment to navigate inside using AR.Ability to see the 3D models we placed only when there are no blocking walls between them and the user. 
+  
+ The app itself, I am very proud that I was able to create a working IOS application for a great cause while only having myself to work with.  One of the greatest accomplishments in the app was working w a direct texting feature to a depression hotline and a direct calling feature to the suicide hotline.  I could most definitely see someone in real life using this app, and loving the simplicity of its interface and multitude of features.   
+ Successfully overcame the challenge mentioned above and created a complete web API that is ready to be used by any web service. Other than that, our API doesn't store any actual faces of our users to assure their data privacy. This was the first project which configures real-time OpenCV face recognization on a web-hosted system. 
+  
+  
+  
+ We got it working! Despite having to trim some features that would have been nice, our final product works! 
+ Enabling synchronization of video 
+  
+ We created a personal multiplayer experience working with WebVR, WebXR or Prismatic. Creating a content experience that works agnostically across all devices and platforms with enhanced capabilities in AR.We are most pleased with our ability to show the same concept in two totally different ways.  
+ Establishing transceiver communication between a wearable sensor device (a shoe) and a mobile robotic platform (a cardboard box), both Arduino-powered. Organized approach to testing and debugging various prototype phases. Discovery/learning of algorithms to maximize information obtained from limited sensor input. 
+ I no longer have to capitalize "r"s in my programs.What's next for "r"eally exciting projectImplementation in parallel to optimize performance on supercomputers.Built WithpythonTry it outgithub.com      Submitted to    VolHacks IIIWinner                Most Useless Hack                  Created by  I made this.pgensheimer 
+ Creating an application from scratch which acts as a proof of concept. 
+ We're proud of our small and neat app you want to play more and more. Help us! We can't stop! 
+ That we did it! :) 
+  
+ We're especially proud of our ability to iterate quickly. Our app design and vision experienced three major overhauls over the course of the weekend, and experienced many minor tweaks and adjustments. Some of these changes were prompted by an analysis of the app and consideration of how well it aligned with the user's goals. One quick example: We originally envisioned the ability to create custom mini-game levels via a drag-and-drop level builder. We thought that the sender would enjoy creating a custom experience for their friend, so they could be as nice or mean as they desired. As we considered the concept and talked with others, we discovered that the sender would rather be able to create a challenging mini-game quickly and generally finds more value in their recipient's reaction than the implementation of the actual game level. Since we structured the app well, we were able to react to these changes and make a better end product as a result. 
+ The two logic/algorithm gods that we had on our team solved an extremely complex math problem very quickly. Also our 3D printed parts are actually fire though. Just saying. 
+  
+  
+ We are proud of the breakthroughs we were able to figure out alone! For a lot of participants, this was their first Hackathon, and it is astonishing to see what you're capable of creating in such a short time...with little sleep! When it came to the networking side of things, the front-end side, and the back-end side we were there for each other to answer questions, offer advice, and even uplift each other if one of us were frustrated with something. We are proud of the communication we were able to foster and the friendly environment that created for each other.  
+  
+ We may have a demo that works. 
+  
+  
+ Font retrieval modelCompiling the Google Fonts datasetInterpolation between two fontsManipulating the attributes of a fontGenerating SVG fonts 
+  
+  
+ Making the first phase of the app to the google play store for android! 
+ Being a game designing company, we feel proud to build a tool for gamers that would keep them stay curious and connect them with other gamers peer.    
+  
+ By utilizing the continuous integration and continuous deployment of the Google Cloud Platform, we were able to smoothly launch and continue to update our production app. Watching a video so many times that you know every single word of it, but actually toughing through the tedious task of transcribing a tutorial word for word. 
+ We've connected the smart metering solution to the Node-RUN service from IBM and we are proud that we've developed a working prototype in order to be soon ready to get real data to analyse human behaviour. 
+ Making creative work in the public domain available to a new market. Publishing a first-of-a-kind skill. Learning APL. 
+ How good we've been working as a team so far - go us! 
+ I got it to work and am proud to be one of the first photo-centric skills. 
+  
+  
+  
+  
+  
+ We are proud that we stood as a team and we’ve managed to dig through a  bunch of ideas to get to the one that has a power to really improve the quality of life for a lot of people. We are proud that we managed to split the tasks in the efficient way, combining programming, craftsmanship, and idea generation.  Most importantly we’re proud that we created a working MVP, that has the potential to become something more. 
+  
+  
+  
+  
+  
+  
+ Have already made the app for one hospital and have been asked to develop an app for a mental health clinic. 
+  
+ We think our game is dope as heck. We honestly do.  
+ It's always good to hit a deadline. We had some unexpected things come up and get in the way of development, but we managed to compromise on some features as appropriate to balance both getting it done and to a good standard.We're especially proud of our first custom shaders in a Unity game. Modern devices have fantastic graphics capabilities, so it's great to be able to show them off. 
+ We built it and it works.What's next for LegDayThis is too cool to not be put out into market. We hope this can be on the legs of people who need it most with the help of the university and the health tech community.Built Witharduinoerlangpythonraspberry-piTry it outgithub.com      Submitted to    MedHacks 2.0Winner                Wolfram's Best Tech Award                   Created by  Angelo SaracenoThe worstgrive056 RiveraHassan ZockBenjamin BotwinJoel GreenupJackson Fadely 
+ Completing all 3 features - topic detection and relevant suggestions, sentiment analysis, language translationEnhancing UI with additional features - Live Preview to view the content of the recommend linksWhat's next for chatwiseExtending the same support for images and voice messages as wellBuilt With.coazurebingflaskmicrosoftmoxtranatural-language-processingphpsentiment-analysis-onlinetranslatewikipediaTry it outchatwise.co      Submitted to    LA Hacks 2016    Created by  Set up the chat server using Moxtra API and deployed it to Azure.Ankur KhemaniPursuing Master's degree in CS from USC.Wrote the proxy server in Flask to solve the CORS issue.Anirudh SudarshanJai mata di let's rockWorked on the UX and integrating it with the service calls.Aniket PednekarLife is short. Use Python.Karishma SurekaI am like... stuff.. 
+  
+ Work with mongo db as geolocalization engine is fun. 
+  
+  
+ Integration of many different techonolgies and hardwareFixing several bugs with smart lighting systemDesigning website that looks nice also on phones and tabletsLearning to use Azure... 
+  
+ We were aiming to just get the language done, but we virtually had finished by 3am, and we were ecstatic to continue adding more functionality to our program, such as user accounts. By the end of the hackathon, we are proud to have created an algorithm that can effectively convert casual English to code, full with a beautiful UI and UX. 
+ We're annoyed at our app 
+ It works! 
+ It's amazing how, by choosing the right technologies, we were able to built an AI solution only in two days, that just recently was required months of development.What's next for StrikelyWe plan to work on neat UI, so Maria could completely enjoy her experience with OutfitMe App. Also, we need spend couple more days to train our AI algorithm on a bigger dataset. And then, we plan to provide API for our app, so online shops can embed it into their websites.Built WithfacebooksalesforezalandoTry it outprezi.com      Submitted to    Junction 2016    Created by  Mikhail VargoSimo LaitinenElena TimofeevaBilal Gill 
+ We're excited to have built a functional prototype in just 24 hours! It both senses gait pattern and stimulates the muscle to cause a contraction at the right time.What's next for foot++We hope to test our prototypes, then scale up to produce these for low-resource settings.CreditsEmbedded Systems Mentor: John NaultyHardware: William Wnękowicz and Marion LBHardware Hack Inspiration: Midori Sanchez, Miguel Moscoso, Kevin Flores, Jhedmar Callupe, Elizabeth Albarracin, & Tomás VegaBuilt Witharduinohardwarenerve-stimulatorTry it outgoo.gldrive.google.comdrive.google.com      Submitted to    health++Winner                Grand Prize: 2nd Place              Winner                Grand Prize: Finalist                  Created by  Peggy (Yuchun) WangPeggy is a currently a junior at Stanford studying Computer Science in the AI Track. She's interested in AV, Robotics, and AI.Swaril MathurPierluigi MantovaniRenu KondraguntaPierre KarashchukJessicaSelinger 
+  
+  
+  
+ Getting hot swapping of cordova code working for super fast dev-run cycle was great - annoying that we had to spend so long on tooling but good to manage to get it working well. Layout of emails using css and javascript was much tricker and ultimately rewarding than we expected. Making a cordova plugin using objective C was a good accomplishment. Getting our first app in the App Store just over a month ago was an exciting moment!! 
+  
+  
+ One huge accomplishment that I am totally proud of is having my app listed in the Infusionsoft Marketplace. When I started building RokkSalt I was not sure of how the process of listing an app on the Marketplace worked and I was kinda nervous that I would not make it so I am really excited to be listed there. As far as the build for RokkSalt I am proud of all the steps it took from the planning phase, through the design and build phase, and all of the testing that went into the finished product. I have always been motivated to continue learning and growing and seeing the knowledge that was gained from this project is a very satisfying experience for me. 
+  
+  
+ I always wanted to start and attempt but couldn't make time for same. Finally through this hackathon i am working on my favorite theory of Machine Intelligence and applying it to solve real problem i see today. 
+  
+ We got to know each other shorly before the hack started and pulled through together creating this amazing app that actually has real business potential.  
+  
+ Getting everything to work together. 
+  
+  
+  
+ Getting Photon to work with Azure. None of us had very much C++ experience, but we were very proud when we finally interfaced and transferred weather data that could be analyzed by Azure.Getting the app to work fully. We're very proud of this accomplishment and really believe that our app will save lives.Things that we learnedWe did not have any previous experience with Pebble, and were able to build a fully functional and styled app use Pebble.js. Every member of our team can now confidently say that they know their way around Pebble. In addition to this, using Microsoft Technologies took quite a learning curve, but now much of our team has a greater understanding of how Azure functions.What's next for SwiftAssistAndroid app, working more with Photon, emergency response directions from Pebble.Demo login and passUsername: sohan@account.comPassword: vichareBuilt Withazurecss3electronfirebasehtml5iphone-sdkjavascriptlinkedinlinkedin-apimaterialize.csspebblephotonswiftTry it outgithub.comswiftassist.github.io      Submitted to    Los Altos HacksWinner                Best Use of Microsoft Technologies                  Created by  I built the complete iOS application and worked on backend database structure.Sohan VichareI did hardware and coding of the Sparkfun photon and helped with the video as well as the backend.Yash TandonI learned how to use Pebble.js to build applications for the Pebble smartwatch, and then built our Pebble client. Additionally, I helped debug our web and iOS clients and designed our icons.Avik JainI made the entire web app and integrated firebase and made the backend Adiyan KaulEnthusiastic coder  
+  The whole solution created by our team. We did not expect to get it running within the short time. We managed to divide the roles in the team very clearly and work effective.Back-End, Front-End, Visuals, UX, Preparation of Pitch, ...HoloAstic Transport Visualization is is the very first solution on Microsoft HoloLens that allow easy analysis of transport status and logistics for the paper industry, specially customized to  UPM needs. It is also possible to run the HoloAstic Transport Visualization on different devices like Mobile, Desktop - cross platform  
+  
+ We successfully built an application that solved a tangible issue we found. With little to no experience with APIs, we were proud to be able to create a working product using three of the Google Cloud APIs.Flask server and connectQuery Cloud datastoreDeploy first Google App Engine 
+ We are proud of the result we reached in 24 hours hacking almost without coffee and sleep. This was our first very productive experience to develop PoC application in a pair-programming mode. 
+ Successfully deployed my first skill to lambda with APL enabled alexa skill 
+  
+  
+ Multiple ways for the user to enter the credentials, so that he can chose the one wich suits best for her/him.VoiceOnly option for dictation of the SSID and Passwords, which usually mix small and capital letters as well as special characters and digits.The idea to quickly adapt the new audio player meta to make infinite presentation of the QR Code by presenting it as a cover image of a silent audio file. 
+  
+ POC for sentiment analysis  
+  
+ My team are dedicated and hardworking. Being able to finish all app endpoint and we are currently leading the tweet giveaway challenge of $250. Most especially, the problem our propose project will solve and benefits that comes with it.  
+  
+ We're proud of the fact that LiveBus is actually fully functional. It can get the routes using the user's current location. Allows the user to select which route they want to track. Shows other users on a bus and their route to the user. And of course, looks good and works well on mobile. It is essentially fully capable of being deployed. We are also proud of the fact that this tool can be used all around the world.  
+ All we did in the past week was a marathon. I'm am proud of the good team work we had within our little company and I'm happy to have found a partner, who's is a enthusiastic about coding as I am. 
+ We are now able to run DNA analysis pipelines in such that it scales linearly with available compute nodes, while efficiently utilizing the infrastructure. This enables less than 1 hour processing time for a realistic DNA analysis data set to be used in practice. 
+  
+  
+ This is our team's first time to play a game with a female engineer character! 
+ A visually striking product with catchy custom music! 
+  
+  
+  
+ Sweet sweet revenge on people I hate get uglified with emojis I'm not supposed to be proud ofWhat's next for No-ExWe can hook it up with an external server that has algorithms written with opencv to uglify the people you hate professionallyBuilt Withchromejavascriptmost-awesomely-useless-hackmost-entertaining-hackopencvpythonTry it outgithub.com      Submitted to    Hack&Roll 2018    Created by  I ate the buffet food and it was nice.MX ChaiCS Major.javascript and chrome extensionsDe Lin Hooface detection and image processingIdawati BustanJuho Lee 
+ We are proud of have a good idea that can help people in emergency situations. 
+  
+  
+ Frankly, I think I am most proud that I was able to put this together and push myself to do work on top of school and other responsibilities. It is always easy to sit at home and relax, so pushing myself through this daunting project has been, in my opinion, my greatest accomplishment. 
+ Within 24hours we transitioned from cake to amazon web servers, this adjustment was crazy. We were so hyped with accomplishing this along with successfully using node.js, share.js, and fabric.js. Also getting the pen tool to work with ease features and saved image functions made us happy too. 
+  
+  
+ We are very proud of being able to put together a good range of functioning and high-level technology in order to create a smooth synergistic experience. Using the user's heart rate to evaluate how the experience should change was challenging but was extremely rewarding to watch. Seeing a user place their finger on an iPhone camera and watch the experience change accordingly was a good feeling. We're also proud of being able to produce the idea to a degree we are happy with despite not being able to access the technology we initially wanted.  
+ Getting a grip on the technology and getting a nice visualization!What's next for Torture Awareness GlobeFilterting of the projects and further developing the visualization. Depending on the reception we might be interested in developing it further.Built Withcss3html5javascriptjquerythree.jsTry it outgithub.comlinkpact.github.io      Submitted to    OpenHack    Created by  Discussing ideas, struggling with three.js and fiddling with the interface!Jakob WillforsI worked with three.js to get the globe up!Martín BasterrecheaDaniel Hamngren 
+  
+ In less than 24 hours and several hundred photos, we were able completely construct a high definition 3D model of half of the entire uWaterloo campus. Though we did not have the hardware to port full resolution to Unreal Engine, we still achieved a completed, explorable model for use in VR. 
+  
+ We're very proud that the game we made ended up very much like the DDR feeling we were going for. Despite the difficulties with the song encoding and decoding system, we were able to work through them. The system was also developed to be fairly robust for adding additional visual effects or even step types not possible in traditional DDR machines. 2 of our members were also very new to Unity, so we're proud to be able to end having made a cool game. 
+ We managed to create a minimum viable product that covers the entirety of the story.Also we were able to design unique characters and illustrate detailed backgrounds within the short span of the event. 
+  
+ NONE 
+  
+  
+  
+ Google maps API implementation and JSON parsing of every single food pantry in the state of Missouri. 
+ We've finally created an app we've been wanting for years!Eli was able to reuse previous experience with ReactiveX with relative ease, and was able to integrate Firebase's socketed database for instant updates!Josh was able to develop his passion for React into an ability to build attractive, cloud-capable mobile apps with React Native!Dalton was able to learn and contribute in an entirely new paradigm! 
+  
+  
+  
+  
+ Going from zero to a working Photoshop CC extension in the span of a week. 
+  
+  
+ Scoped project well the first nightCame up with a workable game plan for a minimally viable projectDivided up tasks to leverage skills 
+ Creating a Share Extension on iOS is not trivial. A lot of thought has to go into how to share the OAuth access tokens between multiple applications. The reward of being able to share a file to SharePoint from anywhere in the iOS system is really cool. I think that feature will be life changing for SharePoint users. 
+ In a handful of RESTful API calls, anyone could use ethereum.  Our services are true blockchain, even if we loose our DB we can rebuild it with etherscan. 
+ We managed to learn multiple technologies we had no experience with (Watson, Jade, web scraping), and we still finished on time with our team of two.What's next for Job ChoiceWe want to add optional additional fields to the initial prompt, like "City crime rate", and "Distance willing to travel to work". We just focused on financial reasons to go to a location since we had limited time this hackathon, but there are many more aspects that would be great to compare.Built Withcsshtmlibm-watsonimport.iojadejavascriptjquerymongolabnode.js      Submitted to    MHacks 6Winner                Best Use of Analytics and Analysis, Sponsored by Bloomberg                  Created by  I made the entire backend of the application. This included scraping the web for information about the different job locations, parsing it and getting Watson Analytics to analyze it, and managing the Mongo database.  Ryan DavisI worked on the entire front-end of the application using AngularJS, CSS and Jade templating engine. I also was in charge of the deployment of the application on to the heroku servers.Tai Tong 
+  
+  
+  
+  
+  
+  
+ მომხმარებლებს უკვე შეუძლიათ საერთო ოთახში შევიდნენ და ერთდროულად უყურონ მათთვის საყვარელ ფილმებს. ჩართონ, დააპაუზონ, გადაახვიონ ფლეიერი ისე, რომ სხვებთანაც იგივე მოხდეს.ფუნქციონირებს ჩატი - იუზერებს უკვე ჩეუძლიათ ერთმანეთში ლაპარაკი.უკვე თითქმის დავასრულეთ room-ის შექმნის, რეგისტრაციის, მომხმარებლის პროფილის ნახვის ფორმები.საიტისთვის დამატებული გვაქვს ლამაზი გრაფიკული ელემენტები. დიზაინი არის მარტივი. 
+  
+  
+ Personally I'm proud of my team mates. In a relatively short amount of time we have built a working demo system. Sure it needs fine tuning, more elaborate code and user interface but the really cool thing is that it can measure moisture and show it on a tablet. 
+ We able to understand and using ESP AT Command using GET and POST method.We able to use Arduino101 Internal IMU. We can get pitch, roll, and heading value.We able to understand how to use Software Serial properly.We able to use sensors and output from Grove Seeed and using Seeed library especially RGB LCD.We able to build relationship with Makedonia Makerspace. Makedonia provide us several sensor such as MQ02, water level, RTC, and ESP8266 for free. Makedonia push and encourage MANTIS to develop more IoT instrument, while they will help to provide components and information about IoT event.We able to understand how chart library work onWe learn new technology to make live and interactive chartWe able to make API for our innovationAnd finally we proud with our prototype that will resolve real problem especially in coastal and remote island 
+ Understand the resources Nordea provides in compliance with PSD2 and use someBuild a prototype dashboard that shows the problem we are solvingMatti design inspired by modern Nordea colorscheme and style 
+ Designing a UX centric experience and integrating a lot of WIP tools. 
+ Dealing with new technologies was challenging but fun and we're proud of the fact that we took this risk and still were able to get the application in its current state. 
+ We created a cheap and smart home surveillance system in 36 hours.We learned working with a lot of new technologies. 
+  
+ Developing a solution that is relevant and valuableWriting my first WebAppCreating my first Docker Image for a WebApp and pushing it to my first Azure Container Registry and deploying it to Azure App Service.Entering my second hackathon 
+ Although I never made a bot before, the Cisco Spark API and especially the documentation helped me learn a lot about bots, webhooks, and more technical terms related to bots. Overall, it was a fun and instructive experience!Built Withapi.aicisco-sparknode.jsTry it outgithub.com      Submitted to    Cisco Spark the Industry ChallengeWinner                Best in Healthcare                   Created by  Noureddine AMRI 
+ We ended up integrating with a few impressive applications such as moxtra, which provided quite the challenge for our team. 
+ fetch the data from google map and also the scraping the website 
+ We finished!  We worked collaboratively very well considering we met each other minutes before starting the hack and all came to agreement on a solid and deliverable concept. We met our primary goals with enough time to add some polish. 
+  
+ We were able to build everything we had in mind in the scope of the hackathon. 
+  
+ It works!It really works! 
+  
+ I'm really proud of the sentence processing script that I single-handedly wrote. I’m surprised that it does a very good job of figuring out what you are saying and looking for. I'm genuinely surprised I got it to function at the level it did. 
+ It works! 
+ We managed to build the whole mechanism just with materials at hand. Glue gun works wonders. 
+ Emails response rates jumped to 25% when mutual interest was added via Warmly.All of our team members brought something different. Chris wrote the chrome extension. Brian, Leon, and I (Ethan) wrote the backend and AI system. Larissa helped connect us with PR firms in NYC that are interested in piloting our technology. We had a mix of technical and nontechnical teammates that made Warmly a reality. For the past few weeks, I've used warmly to connect with investors regarding my startups Series A. I now have partner meetings with a number of VCs. Literally, we are using AI to raise a Series A.   
+  
+ Build from scratch and launch on Main Net!Created an innovative solution of decentralized interest rate swaps for DeFi.Aligned a global team from 3 continents. Met at EthBerlin, and start from scratch, ideation to launching on Ethereum Main Net in less than 30 hours. 
+  
+ BLHD 
+ Completing a halfway-decent looking frontend with React.js. We are all new to JavaScript and React is something that we all "wanted to learn one day", so we were happy that we were able to get something out of the door using it.Two of us are totally new to programming and we are really happy that we were able gain some exposure to, and independence in Git, Python, and JavaScript, which will certainly help us with our projects in the future. 
+ What we are most proud of is the fact that we created all the entire system within 2-days hackathon. We've ・used sensors to measure Dehydration with, to some extent,  scientifically valid evidence and actually made pacifier itself, ・created iOS app with high UI quality, connected to sensors, chat bot with a doctor・made dashboard with beautiful graphs and arrangementWe are also confident in how we defined the problem: Need StatementWe are sure we've met UNMET needs and built a solution with deep public-health knowledge and experiences of the members  and with high feasibility from technical and business point of view. 
+ We are proud to have created our own model and make the ML algorithm work! It was very satisfying to see the PCA clusters, and graph the values into groups within the Support Vector Machine. Furthermore, getting each of the components ie, Flask and Chrome extension to work was gratifying, as we had little prior experience in regards to transferring data between applications. We are able to successfully determine if a video is a deep fake, and notify the person in real time if they may be viewing tampered content! 
+  
+ 8PM: Reverse-engineering of the protocol2AM: Emulation of the protocol on the Raspberry Pi4AM: Two-way communication between the Raspberry Pi and Bluemix7AM: Getting the Amazon Echo to communicate with Bluemix8AM: When the light finally responded to voice for the first time (way later in the game than we expected)11AM: Stable, repeatable voice actionsRefinement, refinement, refinement... 
+ We were able to accomplish the project without any previous knowledge on how to use Python 
+  
+ Project works on mainnet ! 
+ Getting computationally cheap embeddings using a pretrained BERT and InceptionV3. Clustering everything!Nice UIBuilt WithaipythonreactTry it outmemespace.space      Submitted to    HackUPC 2019Winner                HackUPC 1st Prize              Winner                Facebook Challenge              Winner                Itequia                  Created by  I built the Clustering Pipeline and a good chunk of the UIJustin GlibertPreviously: AI Research @ Sizigi Studios in SF. Now: Student at The University of Edinburgh. I am trying to make Sim2Real work at scale.I worked solely on the front end, building a chat interface and a meme comparison tool.Ben EloI obtained the database of memes from Reddit and implemented subreddit sensitivity in the embedding model.Conrad Cardona PiñolI worked on front-end, creating the navigation framework and animations.Alexander Philipp Rader 
+  
+  
+  
+  
+  
+  
+ I'm proud of having done this project alone. I've been to a lot of hackathons in past years, but always under the tutelage of upperclassmen. Now that they've graduated, I'm sort of wondering on my own. I'm glad I was able to accomplish this project without others directing me. I'm also proud of how far I came with this project. I compared my first generated sonata to my most recent one and I was really impressed with how good the latter one sounded. Perhaps not yet at the level of Mozart, but it's certainly come a long way.  
+  
+  
+  
+  
+  
+  
+  
+  
+ Making a workable prototype within the limited timeframe. 
+  
+ Notre bot est ready to market!!! :D Notre MVP est atteint a 100% et nous avons même inclus du "nice to have" tel que le feedback des utilisateurs. 
+ Response Time: We handle numerous large image files, but our load time is trivial.Filtering: We've extended the Outlook search and filtering features to the next level. Security: No hackable image data is ever stored on our servers.Backend: As mostly frontend devs in our day jobs, we were enthusiastic about building a primarily server side JavaScript project, without another team demandingcallbacks of nested objects just because. --it was fun!Database: We architected our own normalized database schema to handle queries with multiple references.Process: We weren't even sure our initial idea was actually possible, but we built out our achievement well beyond our original vision. --dream big!Our first commit was only 6 weeks ago! 
+ Cnnecting Apple Watch and Pepper Robot to help solve the elderly care problem 
+ The hardware looks so beautiful! And finally figuring out the navigation for the app. 
+  
+  
+  
+ We're proud of making our first ever voice-activated app! It was fun to work with the API.What's next for Hungry HostMany more recipes and meals!Built Withalexaamazon-web-servicesangular.jscsshtmljavascriptnode.jsTry it outhungry.host      Submitted to    TechCrunch Disrupt NY 2016    Created by  Worked on ingredients search functionZoltan SzalasDesign & front end!Nisha GarigarnCo-founder at Croissant :) I do marketing, design, and front end stuff.Worked on Alexa to make it publish ingredients on the websiteAdam ChewCo founder @CroissantJeneta Hot 
+  
+  
+ We're particularly proud about implementing one of NLP's hardest problems, and how we worked around the limitations of the thesis by classifying messages.Also, we're proud of building something that would help us and almost everyone, and how it helps a certain segment greatly. 
+  
+  
  

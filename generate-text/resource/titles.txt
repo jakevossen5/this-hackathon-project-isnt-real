@@ -1034,3 +1034,597 @@ Neo4j Scraper Procedures
 Capriccio 
 altrui.st
 Uipath Smart Log Activity - Custom Activity
+Cthylla
+Crystal Hub
+Hive
+CodingBoard
+Babble
+Thazin
+tweegenous
+Ikhtiyaar - Regional Complaint System
+Playlist Buddy - Convert Spotify playlists to YouTube
+ReadToMe
+Swop
+The Emotion Journal
+EMICUS
+Doc Product: Medical Q&amp;A with Deep Language Models
+HairGuru
+Ethstonia Identity
+Photo Ensconcing Non Identifiable Social Media
+BiParse - Bipartisan Parsing
+Highlighter.js
+PolluWatch
+Tiny Fox - A Virtual Pet for Amazon Alexa
+Workflow
+UiPath Testing Framework
+Za Bridge
+Call Assist
+Endurance
+Mike Robot
+Challenge Hunt
+Musinex
+Ring Game
+Look and Click Adventure
+HeatKey
+Jus'be Happy
+GROOT
+Job Bot
+Remi
+Phishing for Good (P4G)
+esusu
+Pallete
+Axiom Zen - FrontEnd Design Challenge - Landing Page
+Introducing Jacquelyn Emma Chu
+Wrong Voyage
+Magic Bluetooth House
+Tripper
+JSOrchestra
+Devpost Fullscreen / Presentation Mode
+[Social Innovation] ThinkRThings
+Bulbul
+Outlook Meeting Workspace Add-in
+Control Valve Performer - simulationHub
+LectureBuddy
+Discovr
+Sparsh - The Healing Touch
+MyHealth
+Resistora
+GitKat
+Transitime
+HC Experience
+Cheer me up
+Water
+SkinSense
+Small
+LitterBug
+iPlanner Pro Outlook Add-in
+Surviving Australia
+Scalier
+AZ - sed Pathfinder
+A DID for every thing - Agile Driving Data Chain
+Shelfie
+NomaD
+Feth
+Check out my what cha ma call it
+Devices talking to each other
+GenomeAi
+BigDOT
+solidity-profiler
+Yield-tron
+Ziscape
+Lab27 Bot
+EyeVoice
+AllTheFeels
+Wayfair Messenger Bot
+Druid Chatbot Integration
+Taggrr
+VRtionary
+InstaOke
+Champollion 2.0
+TerMINIONator: voice controlled robotics 32B
+HealthBot
+Space COPS
+AdvLang
+ES-SimpleHealth
+FlappyU
+menU
+WeatherWheel
+SmartLogger
+NESS
+Binnacle
+CultureFit
+SocialAlexa
+I can't believe it's not "trash"! (ICBINT)
+LevioSound
+imgrep
+Tone
+Urban Amenities 
+Newsletter To You
+3 6 9 Alexa Counting Game
+Secure Drawer
+HTMLHint
+Don't Laugh
+Lung Cancer Detection using Deep Learning
+Triton-s-PARK
+Personal Shopper
+MyMusicMate
+TreeView for Trello
+Byke
+A Dance With Death
+Smart IOCup
+Bamboo
+Jalsutra
+Recover Database from Exchange Server Dirty shutdown
+EnVRo Chess
+Visual
+CANiEatThis
+eCitizen
+CloudIoT
+Kanye Rest
+Gmail Mobile Preview
+CoSine
+VeriRoute
+Muvie
+HackerPond
+Bonding
+KashBot
+facelink-web
+SchoolSource
+Popsicle
+UniTab
+ReaXn
+HoloEmail
+Cegeka-CV-App
+WRC Trading Platform
+MyCity
+LandYourGreen.space
+Flow (Team #12)
+SATO - Personal Interpreter for instant translations
+Bagh Bagh
+OneGraph
+Discord Echo (Discord Recorder)
+MoodAmigo
+soberlabs
+Chibi Attack!
+Defi Custody
+Stream Engineer
+Tucson Flux
+Mini MIDI: Rock, Roll, Recycle
+Zircon
+Orbit
+Ideaback
+LookNote
+AutiBot
+Private Eye - Case Files: The Wooden Lady
+Ruins Of Chronos
+Crossover: Multi-threaded immersive theater experience
+HappiJar - saving some of your happiness for a rainy day
+Shopify - Product Finder, the future of e-commerce
+Aamd O Raft
+meteor-snippet
+123 Photo Viewer
+https://github.com/austin94/TextAlexa
+ChessEye
+Dreamify
+Wave
+Switter
+kindshare
+Codiva
+HiccupCSS
+Cash Only
+WearCar
+Making "Dumb" JPEGS "Smart" For Healthcare
+i RESCUE
+InstantCall
+Caffeine 4 Me
+TimeCheck
+Hang
+Parking Lot 2.0 - Team Dryve
+Picks
+Creepr
+SynthCOW
+FooHacks
+Soundscape VR
+Gliding Princess
+HeadLights
+HackerBuddy
+EmPowered by YHOCODE
+MagicHELP
+The Streets
+P2Poll
+Eventual.ly
+MoleculeMash
+Fully Automated Video Translation Platform
+The Chatty Skeleton
+grid-strategy
+Watchman
+Goldilocks Browse
+TheraTracker
+TAMU In-Direct
+DJTrump
+TravelSafe
+icecream
+Oodles Rewards: Smart City - Smart Consumer
+Troc
+HoloMeeting-Client
+Blow
+Easy Agile Roadmaps for JIRA
+Choo Choo Choo
+Plant Management System
+Alexa keep
+Ambient Noise
+Woxi
+Build Results Viewer for HipChat
+House of Languages
+#ceidoilasuta
+ZitecHQ
+Forget Me Not Plant Watering System
+Mirr...wait for it... or!
+Food Chain
+My Code
+Secretary Bot
+Sonar for Bitbucket
+Office 365 Directory Connector for Crowd (ODCC)
+Event stream processing, possibly lambda architecture
+Dot²
+LIV - Live Captions
+Sprint Capacity Planning &amp; Tracking
+M-019-HajiTech
+SemQuery
+Yeah Buoii
+Alertify
+Dream Volunteer
+DroneVision
+Cooey Health Monitoring
+Magic Board
+The Prometheus Network
+Multy 
+PillBox
+OutlookActivities
+Saathi
+WIMM - Where is my money?
+Spaceship
+HoloDrive
+LIL
+Swagathon
+Soteria
+CFantasy
+Conversations Video Chat for Confluence
+Red Riding Hood - Interactive story
+ClovAR
+Wreck-It Retail
+Virtual Coder
+DepoSet
+LiveCoding Circles
+SnapSort
+Project: Safe Haven
+nowo's ark
+MineTorch
+FamBillBot
+WA Reader
+ReKover
+gLoves and Penguindows "OS"
+CryptoZon
+BrainHack Wheelchair - Smart Brain Controlled Wheelchair 
+Travel Broke
+Matchstick
+A.L.I.C.E.
+It Gon Rain
+Stay Away From Phone
+Magnacle
+RoboVision
+BroadbandTV - Meal Nutrition API
+Machine Learning - First Steps
+HATS TEAM: OCCC Family Visitation Scheduling
+Sign2Line
+DynamoUI
+LeapMed
+T28 WeeFee
+De Slimste React ter wereld
+mastermind
+MapMyNews
+amp
+Roll Together
+Nimbus
+CP Project Form Experiment
+SmartCab
+Tactile - Perceived by Touch
+Dial Tone
+pAInt
+Ethereal Chat
+Updateor
+Trorenad
+PRI Capacity
+1-Touch NYC
+DrumPants TAPS: Wearable Assistant
+IceBreaker
+n-Snake
+Salute!
+Kiddo
+SMS Messenger
+LynxFit
+VR Rooms (IMVU)
+Tell Me Now (Flashcards app) by the Comets
+Computertop Desk
+VR Vox
+CC - FairShare
+Labor Log 
+KKAPStars
+Buddy
+Dream.it
+Kids Court
+ZSec
+Split
+Alphex Election
+Meta-Connect
+Med Pal
+LA + Mews
+FC + BlinkCeption
+Illuminaughty
+Master.GG Missions
+Xplore
+WF Reward Lottery
+Navicce
+Tune my life
+Feku - The Chrome Extension for Real News
+Reactor
+Clinical Trial Finder
+In-Flight Manager
+ComportexViz, but for NuPIC
+LeARn
+Foodies
+ORB
+VR: Message to the King (Preview)
+ExplORer Surgical
+stealth
+Pinage
+Chrome Extension to open tabs
+Devpost Follow / Like / Social Buttons
+Khantribute_
+FedEx Tracking for Outlook
+flow Vr
+New York Times Wedding Annoucements Data Visualization
+my hackathon
+Intelligent Transplants
+MTA Blink
+My Pocket: Unofficial Pocket Skill in Alexa
+Recap
+Project Julius
+BirdBot
+Better Image Tab
+RUMentoring-A mentorship platform for Rutgers Students
+Track Truck
+Trump Or False
+Sledger
+Decentralized IoT Horticulture
+DMZ: Memories of no man’s land
+Melody
+classVRoom
+Apps4.Pro
+HackEscape 
+PillPal
+PokéBattle
+StockAssist
+Park Painter
+OwlExpress
+MediTake
+HyVee Prices
+PruPay
+Validate Folder Structure and Compare Content
+Jukebox Backpack
+Meme Lordz
+Munch
+A-079-HajjConnect
+AR Navigator
+Flood Watch
+Sunrise
+Snap-in
+CleverAds
+Amation
+DragonPark
+The Gnu Project
+Watch With World
+Cloud Security Operations Center
+XR Time Machine
+Shoebotics
+"R"eally Exciting Project
+No Cyber Bullies
+Chuzi
+Snarks Stats
+Applause Review
+Holdup
+ResistAR
+DIORAMA INFINITY 
+Bob
+Paperless
+Change Cloth！
+Wificoin
+Plug N Play - Read Email By Subject
+Plug N Play - Send Email Multiple Attachments
+Fonts Done Right
+IBM Watson Discovery Service UiPath Connector
+The Paperless SAFE
+Hamaisha
+LootBox - El Dorado
+SeeThru Price Transparency Marketplace
+Apollo
+Smart Living Analytics
+Movie Classics
+Magnetic Fish Spectacular!
+Photo Recall
+BlockParty for Minecraft
+VR'nChill
+WhoPay
+X-Terminator Drone
+ფეივატორი - Payvator
+FreeMe
+GoalifyOZ
+brio
+Cute Crusher
+Cityscape Repairman
+Crime Watch
+Where You At?
+Leanú Technologies
+4Wardz
+Pixie Patrol
+Astro League
+#LegDay
+chatwise
+Median 
+share a journey
+Vibez
+Ingage
+zzzyield (Team: EDIHealth)
+ava - true autonomy to the deaf and hard of hearing
+Pseudo Code
+091 - TaMaDeBot
+Active Neighbour
+OutfitMe
+foot++
+DodgeDonald.com
+Project Seed
+Sales Booster
+Speaking Email - voice reader for email
+Salesforce &amp; Confluence Cloud Connector
+Dreadmill
+RokkSalt
+f.low
+ZenPRM
+Hard Drive Lifeguard
+Fitness Fortuna
+CoWork24
+Homeline Bling
+Qrious
+Labster - Revolutionizing Life-Science Learning with VR
+Safe Glow
+PowerGlove 2.0
+SwiftAssist
+HoloAstic Transport Visualization
+FireWatch
+Listen
+VIC.cards
+Nasa Picture
+Scroll WP Publisher
+SmartR
+WiFi Helper
+Safety First
+Augmented Decision Making 
+Word Slice
+CONNECTO
+Show YourShelf
+LiveBus
+Rescue Wars Online
+DoctorSpark
+Bitcoin as a payment method
+ColumnFormatter
+JumpingGirl
+VRythm
+Pebilepsy
+Know Me
+Ultimate Mars Clock
+AR - No-Ex
+Aid Connect 
+Wellness Diary
+MedicSMS
+ProjectMars
+Compan-Oekaki- Colaborative Vision Board
+Shark Text Editor
+Albumify.me
+STORM
+Torture Awareness Globe
+Disco Melthem
+Drone Vision
+Alexa Site
+Dance Dance Virtual Revolution
+Memento
+Superflick
+BIENE
+QR Magic Generator
+Big Dragon 6 - Ni-LED
+LOLA
+Give Hope
+Mappit
+Warmth
+Ramble: Venice
+Checklist Bot for Trello
+Table Grid Editor for JIRA Cloud
+Mixin for Adobe Creative Cloud and Jira
+butterknife
+tinder-cli
+Rockadoodle
+SharePoint File Uploader
+ShareMD - Power to the Patient
+Job Choice
+CU Party Play 
+Digital Coffee
+seeusoon
+StreamPoint
+ARcode
+Tunnel Comet
+Fdistance
+DevNet
+wells
+SAN - Soil Analyzer Network
+Smart Floating Farm
+InvestMatti
+bündler
+Reteta la Control
+Free-Watch
+Regret
+Microsoft User Security Evaluation Reporter
+Diana
+HopenSource
+PerfectStore
+Teach Tiles
+Jelajah Banyu
+ZkDAI
+Lightning Network enabled Vending Machine
+OK Gamers
+PokeTrump.club
+Fetch
+Chromelexa
+Racoon
+Warmly
+Fish-o-Tron
+LSDai
+062A - Doggify
+No Violence
+tweetliketrump.online
+your pacifier
+DeFake
+blocusign
+Smart434
+Will I Sleep This Semester?
+ILLC3
+DATA (DeFi Algorithmic Trading API) Gateway
+Meme Space - Find Memelords with similar taste to yours
+იქ-&gt;C
+Bot or Not
+BringIt!
+Schedulizer
+TrashBOT
+Envirocache
+Sonata in Python
+Inside the Human Body
+Red Riding Hunt
+Fathoms Below
+Awakening (working title)
+SOCIAL VR
+Along the Trail
+Fast Food Runner
+Paint42 create and experience amazing 3D worlds
+Diversity Mosaic
+Laplock
+speedlunch
+Dremo
+PepperHealth
+Modernized Weasley Clock
+JazzItUp
+Rocket Builders
+This Is Me
+Hungry Host
+DriveAbility
+JRNL
+Pigeon Point
+Neighborhood Airport Noise Monitor
+Little Herder VR

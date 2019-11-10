@@ -1034,4 +1034,598 @@ While making this project I learned the concepts of firebase as a backend, and h
   
   
  Learned to build custom activityLearned to gather User cases  
+ How much sleep matters... 
+ We learned a lot working on this project; starting from Appian platform on a higher lever that comes with the newest release of 19.1 and also the best parts were how to manage a team, knowledge sharing and collaborate for a successful app. 
+ Learned a lot about voice UX, and the HOOK model 
+ [Chau] learned how to integrate multiple services together.[Hoa] learned how to connect to multiple API’s from the iOS app.[Tuong] learned how to use multiple React libraries such as Material-UI and React-Ace.[Georgio] learned how to use Flask for Python and how to edit images through libraries. 
+  
+ We learned a great deal about the challenges associated with collecting data on threatened languages and cultures - it is not as simple as paying the remaining populations to share their story, as that will ultimately hasten the end of the cultures that we are trying to save and study. We all also got more valuable practice working on a multi-cultural team, which is a skill that is growing ever more important in the global job market. 
+  
+ Nothing of significance really, except that this website has no practical use without the involvement of the government. 
+ Creating an app that real people use is hard work. It takes hundreds of hours to ensure everything is working properly and to maintain the code and monitor that it is running properly. I learned not to take startups lightly, although this was small scale in comparison to most startups, I feel like I got a taste for what small tech companies go though. 
+ Before diving into this project, I had no experience with Deep Learning or AI in general. I have always been interested in the topic but it always seemed to unapproachable to "normal developers". I have discovered, through this process, that it is possible to to create real useful deep learning projects without a PhD in math, and that with enough effort, and patience anyone with a decent development background can start using it. 
+  
+ With the tools being developed to assist developers, there are going to be many opportunities to use AI to improve people's mental health, confidence, and productivity.  
+ We learned how physiological phenomena are extremely complex, yet there are incredible tools out there from hardware, functions and toolboxes that allow us to peek into the inner workings of human physiology. 
+  
+ We gained a lot of useful knowledge about Microsoft Azure services, the Google Calendar API, and Firebase among other things. 
+ Estonia loves blockchain. They will likely support our project.They switched from RSA2048 to Secp384r1 and did not update their documentation!Vitalik's trick to use EIP198 for multiplication is much slower than our chinese remainder based one.The eResidency signature scheme could learn a thing or two from EIP712. There is currently no domain separation. 
+  
+ HTML, CSS, Python, JavaScript, and how to create an ML algorithm. 
+  
+ We mostly learned how to use Google Cloud Platform to setup an online database and create our own API endpoints to receive the data from the stations.  
+  
+  
+  
+ We can use RPAs to make a lot of things work with human interaction. 
+ We learned many skills such as, how to use google cloud, host a website using GitHub, create a site using ruby, markdown, Html, CSS, and javascript, use a database API, use maps API with directions. Overall, while we did have some issues in creating our app and website, our team learned and gained a lot from this experience. From learning more about how to use GitHub, to learning how to implement APIs to a website we definitely became better developers and came out of this experience as stronger coders. 
+ We learned a lot about Myo. 
+ How to combine different sensor inputs. How to 3D print custom parts. 
+ Using background processes in chrome extension, hacking on javascript. 
+  
+ We learned a bunch about Unity, as both of us were almost brand new to it. I am now confident that we will be able to go to future hackathons and be able to make projects that are even better. We also met a bunch of extremely helpful and generous people. 
+  
+  
+  
+ Apparently, plants require more care than just watering. Some need to be trimmed, others need to be rotated. Who knew?! 
+ Wow, it is so much easier to prototype a project when you're not worried about how it looks. Focus on the function! 
+ We learned how to schedule messages, how to use the echo, how to use lambda functions on AWS to build a serverless chat bot, how to deploy a web server, how to make cool visualizations of tables and graphs, and how to animate Remi on the dashboard.  
+ One of our major learnings was realizing and understanding real challenges faced by the fishery industry, specifically in Hong Kong. Below are a few points of note:Despite the number of awareness campaigns and programs, most people are still unaware of the long-term consequences of these issues.Interestingly enough, losing fishing gear can cause just as much harm as capturing too many fish.Ocean currents are strong enough to move cement blocks the size of a tank. Therefore, ghost gears are likely to end up in places that are far away from the point where it was lost – posing threat to rare aquatic species.A huge database does not necessarily mean it gives you what you are looking for. At the same time, look at data for long enough and you’ll probably find what you need. 
+ Our lessons include taking more time to shape our ideas, e.g., ideation prior to starting coding. 
+ The importance of good documentation in third party APIs that are meant to be used by others.How iteration is key to the success of a product. The importance of good team members to guarantee a great outcome.  
+  
+  
+ i'm an autodidact developer so i'm learning things about Unity and development in general almost everyday and that's exciting 
+  
+  
+  
+  
+ Don't waste too much time on something not going to demonstrate. 
+ New tools, using new APIs, teambuilding, having fun and trying not to stress too much 
+ You can build a powerful application in a few hours. 
+  
+ "I learned that json is a javascript object notation... I think" - Hazik"I learned how to work with node.js - I mean I've worked with it before, but I didn't really know what I was doing. Now I sort of know what I'm doing!" - Victoria"I should probably use bootstrap for things" - Haoda"I learned how to install mongoDB in a way that almost works" - Haoda"I learned some stuff about Microsoft" - Edwin 
+  
+  
+ Patient needs to be engaged rather than just informed.Its always an ongoing journey rather than a fixed destination. 
+  
+ Office Apps are really easy to make. 
+  
+ Writing music and the value of Wi-Fi. 
+ Really dug into node.js and angular.js. 
+  
+  
+  
+ I learned 24 hours goes by fast when you miss the first 5 and then sleep during the night as well. 
+  
+ I learned a lot about the fascinating Australian wildlife and about Australian English dialect. Also, my opinion about including human voices in Alexa skills was reaffirmed, seeing how this improves the quality of a skill. I also learned how displaying images throughout the skill enhances the user experience. 
+  
+  
+ Our primary leanings are around the following areas of interest:  Abstraction of the DID method to any object  Identity solutions for machine learning agents  Scalability of off-chain data structures  Integration of serverless cloud infrastructure with key management and identity wallets  Verifiability of data chains  Applicability of data chains for above mentioned data-driven business solutionsWhat's next: our broader objectiveOur broader objective is to establish a scalable digital twin protocol and a technology layer for autonomous things. We call these digital twins autonomous digital twins that are verifiable, semantic and privacy-preserving.We are integrating further W3C and Industry 4.0 standards to establish a semantic digital twin network. Our work integrates further innovation in cryptography and privacy-preserving solutions to achieve GDPR compliance for both, the human and non-human entities.We are looking forward to field test our solution in a complete mobility ecosystem.Explainer VideosIntroduction to Verifiable Data Chains - Video Part IIWe created a video to explain the concept of Verifiable Data Chains for driving event data processing: https://vimeo.com/310934948Explanation of our Verifiable Data Chain  Demonstrator for MGC - Video Part IIIThis is an explanation about our verifiable data chain demonstrator:https://vimeo.com/310937978how to use ithow it workswhat you see in our demo implementationSafer & better mobility through Spherity's verifiable Driving Event Data Chains.References[1] A DID for Everything - Rebooting Web of Trust Working Draft[2] W3C DID Specification[3] W3C Verifiable Claims[4] Decentral Identity Foundation[5] Dangerous Driving Event Analysis System by a Cascaded Fuzzy Reasoning Petri NetBuilt Withaiamazon-web-servicesblockchaindidsdigital-twinningethereumjavamachine-learningpythonsecure-key-managementverifiable-claimsTry it outinterlinked-client-app.s3-website.eu-central-1.amazonaws.com      Submitted to    Mobi Grand Challenge Hackathon    Created by  CEO/CTO of Spherity GmbH. I did the tech research about verifiable data chains, secure key management and digital twinning for mobility applications. I worked with our dev team to test different implementation options and to develop real-world prototypes.I am a physicist by training with a Ph.D. from the University of Aachen. I served served as a Council Member of Global Future Network for the World Economic Forum and worked on their future of transport research.Prior to founding Spherity GmbH, I worked for innogy SE, German Aerospace Center (Deutsches Zentrum für Luft- und Raumfahrt, DLR) and Accenture GmbH.Carsten StoeckerCEO/CTO of Spherity GmbHDr. Michael RütherRicky ThiermannOleksandr Yenkalov 
+  
+ It’s good to be ambitious when selecting an idea for developing a certain application, but we had too many complicated ideas and ended up brainstorming for a few more hours rather than using that valuable time on coding the application and working on implementing the interface. We learnt more about how swift works with different APIs, especially and two of our team members were unfamiliar with swift, this project gave us decent exposure to it. 
+  
+ We learned about Debian Linux OS. How machine learning works and how to train it. The implementations and potential of openCV for python. Creating executables for linux systems.  
+  
+  
+ Developing augmented reality apps can be very rewarding and fun. 
+  
+  
+ How to work with Vue.JS 
+ We learned a lot about machine learning and what it can do. 
+  
+ The team learned how to work with AWS, more specifically Lambda. Amazon Echo was also a big topic of study for the team throughout the development of the project. 
+ The above explains this well. We also learned how the free Heroku tier is not something that we could ever use outside of building some toys like this bot. We would like to work with Google and AWS in order to compare each service in the future. Heroku is great in that it offers free tiers though and we are glad we were able to use this to build out our project. 
+ Applying the UI Path best practice is valuable. Talk with the UI Path experts what you want to do, ask for advice. Very valuable. Will save you time and give you confidence that the final product is good. 
+ The end is an illusion; there is always more to do! 
+  
+  
+ This project lead me into C# programming. A great language I wasn’t used to, which is somehow combining the advantages of C/C++ with the ease of BASIC. I also learned how to pay attention to suggestions from users. It lead me to include technical support directly inside the software. 
+  
+ New ways of interacting with  
+ Some learned how to use unity and github, and some learned how to make sounds and sprites. Also we learned how to manage our time effiencly and to work well under pressure. 
+ KISS - "keep it simple, stupid". We really were way too ambitious at the beginning. Once we started working on our "minimum viable product", we started making progress really quickly. From there, it was much easier to extend our project to include the majority of features that we originally hoped for. 
+ We've learnt that a dynamic team allows a project to be accomplished in less than 24 hours.  
+ We learned how to use Unity environment for VR games 3D model building, landscape design, and sound strimming. We also developed teamwork skills and had so much fun in McHacks!  
+ We learned a lot about how React-Native works when communicating data from and to our API server. We also learned a lot more about JSON Web Tokens and how versatile it is with Mobile Applications since they lack sessions like web browsers hold. Like most projects we face, we learn a lot more about the semantics and syntax of any of the languages we used and helps us become even more comfortable writing larger scale apps with these languages.Our DatabaseOur Database uses MONGODB. When getting a restaurant on board, we have made a web form for us to add new restaurants and menu items with ease to follow our JSON schema when retrieving restaurant data, so it is modular and easy to modify. We also use MongoDB for User sign ups and dietary settings for each user. 
+ Even stupid ideas can turn into something amazing & useful. 
+  
+ I learned that working in a good team can be an amazing experience, and that it's not impossible for a small team to make a big impact. 
+  
+ We learned that we are capable of establishing a vision, managing a project from the ground up, and bringing it to fruition. 
+ Node.JS, twilio, twitter API, oauth  
+ We learned more about neuronetworks and machine learning.  
+ We learned a lot on the process, the main thing being to generate whatever signal we needed with arduino, we improved our soldering skills, and we acquired a lot of knowledge about interference and mechanical waves. 
+ Tesseract is awesome 
+  
+  
+ This is the first time we use react on the web.We should really plan better ahead and give ourselves more time to work on side projects and competitions :) 
+  
+ If you are working with an unknown BLE device, a BLE packet sniffer would be super helpful.Bring enough wire for your project.As always, hardware IS hard.Zener diodes dont work well on data lines. 
+ As with any project, navigating around existing code takes time and our amazing mentor provided help in understanding the foundations of the project that allowed us to independently improve the project's code and functionality. What's nextWorking on a open source was an amazing opportunity to not only grow our skillsets by contributing to HTMLHint but also allowed us to work on an amazing code analysis tool that has a large community and hence have a real world impact in aiding users with their code review, refinement and analysis process. Github Gist: https://gist.github.com/Neo-Zhixing/ca29b2ebf80c6f34583ed1915699256bBuilt Withes6grunt.jshtmljavascriptwebpackTry it outgithub.comhtmlhint.iomarketplace.visualstudio.com      Submitted to    HackIllinois 2019Winner                The Cleanest Catch Presented by IMC                  Created by  I primarily worked on migrating the legacy code base to the new, shiny ES6 syntax. I helped eliminating grunt dependencies and added webpack to build a universal umd package for both nodejs and browser environment.Zhixing ZhangI worked on building the foundations of the product's frontend development and lead the product ideation and presentation process.Pallav AgarwalI added two rules (one that sorts tag attributes and one that fixes case sensitivity). I also helped clean up the pull requests and ensure all issues have been adequately updated.orangewit3I added a feature where users don't have to close empty tags and allow body to not have close tag (HTML5 compliant).Lina Handayani SieDavid DiasSoftware Engineer with a passion for Front-End & UX / UI  • Life hacker who ♥ coding, meditation and solving digital and human problems.damanm24Eugenia ChenDesign enthusiast and aspiring web or mobile developerVictor Zhu 
+ All of us learned something different. Some learned Python, others OpenCV, and other Arduino programming. 
+ Manage your expectations and stay realistic.The first lesson is to manage your expectations realistically. Within the short duration, it is nearly impossible to achieve a final design for a tool that normally takes weeks to finish. However, going through the thinking process for the sophisticated algorithm made us optimistic about the future of LCD, and would love to continue working on it. It's good that we tried.   Persistence is the key. There are struggles and challenges, actually much more that we thought. Staying optimistic, making necessary adjustments and never giving up are the critical steps we've learned, not only for hackathons or coding but also for everything we do in life.  Enjoy the process.Doing things we love and learning new things along the way are simply amazing! The struggles we went through, the pizzas we shared and the product we built eventually are an amazing learning experience and we will do it again.    
+  
+  
+ Double-verify user input. Even if you using a pre-existing Amazon Slot type, stick a Lambda verification function behind it.Print long, print strong. If you're going to be manually controlling Lex intent flow, you'll be looking at event contents constantly.  Like, never comment out a print event statement. Ever.Be human. Writing multiple, informal intent utterances and response messages can go a long way in making bot interactions seem more "human," while repeated responses or responses in ALL CAPS can result in a colder, more jarring experience for the user.People make mistakes. If you plan on terminating a voting process after the last vote is placed, leave a bit of a buffer for misclicks and changed opinions. People love to change their mind after a vote has been placed. 
+  
+  
+  
+  
+  
+ This being my first stint with Azure and IoT as a whole, the entire process was a great learning experience. I guess whatever the solution does was entirely an immense learning experience. 
+  
+ Unity and Blender. Mostly using the C# Scripting API from Unity 
+  
+  
+  
+ With meteor I can deliver prototypes very quickly. I don't see how I would have done it using any other framework.I've also learn some meteor basics which i didn't assimilate completly while doing my first app. 
+ Wisdom 
+ Can't say I've 'learned' much — I just modified some tutorials — but this was my first time using the Flexbox model. It's pretty powerful, but I felt weird also using floats. It's a kludge to be sure and I need to do more reading on it.What's next / todosI need to clean up the CSS, add GA tracking, and some other stuff -- but the biggest thing I want to do is create a version for the iOS mail app. Anybody want to help me with that?Built Withcssdribbbleflexboxinsomniajavascriptmaterial-designuifaceszeptoTry it outnealrs.github.iogithub.com    Created by  I created a fix for the caret jumping to the end of line on truncation, and replaced jQuery with Zepto to decrease the total size of the request.Matthew GerriorSenior Software Engineer @ DevpostI've gotta stop going to bed thinking "I wonder if anybody ever built..." It always turns into an all night hack sesh.Neal ShyamI write Devpost's weekly newsletter. I also write code. 
+ I learned a lot. In coding the most: just realising the worst method possible, was a huge improvement for me. It truly turned my attention to "efficient beautiful" code. However I am still shaky on being able to comment regularly, having a good naming system...But on practical aspects, I learnt the nuances and intricacies of iOS app submission: the horror of screenshot and app previews and icons. How multi-device support should be considered when the app is first built - not at the last minute. Not to leave the FPS count on in a final build ...It was truly a journey. 
+  
+ How to build app using different API, e.g., Spotify; implement a clustering algorithm utilizing emotional dictionary; help each others, work under-pressure, but also have a lot of fun together. 
+  
+  
+  
+  
+  
+  
+  
+ Connect complex global issues with technology and design.Work in a team, split up tasks, and communicate with people we just met.Use existing iOS knowledge creatively to provide easy usage. 
+ I shouldn't have been thinking about this so much while camping in the boundary waters where there was no Internet.  
+  
+ Learned to worked on one of the most unique problem statements and we did find a feasible and scalable solution. 
+ Lowering the barrier to entry by leveraging existing widely-adopted tools like messenger can enable massive participation of people from all walks of life and increase the accessibility of services. Also, Gamifying mundane tasks can incentivize people to use any tool more often.  
+ We learned teamwork, a ton of technical skills and how to fight sleep! 
+ Awareness of green initiatives like water wastage starts at home. Initiatives like these can be inexpensive, just approximately $30.  
+  
+  
+ As a student, I had never made an enterprise-facing application before, and really enjoyed learning about Azure Active Directory and the Microsoft Graph to make OneGraph as an application for people in organizations to use for responding to security threats.  In addition, through building numerous view models, controller actions, and views with Razor syntax, this project was my deepest dive in to ASP.NET development thus far!  
+ A couple discord API libraries, Naudio, various libraries, and lots of audio codecs. 
+ We learned how to build a working prototype with Bluemix, Node-RED, and the Texas Instruments SensorTag from scratch. 
+ We had a lot of firsts this hackathon:Lily and Jiayi's first hackathonLily's first time working on a mobile appJiayi's first time working with Cloud Vision MLAntonio's first time building more complex mobile interactionsJason's first time working with React Native 
+  
+  
+ The biggest thing I learned was how to make an extension and work with the tools available to it.I've learned more C# and how to write plugins for Space Engineers.I've also improved my knowledge in multiple libraries and in JavaScript when working with the backend and the extension. 
+ Vectorization is hard.Splitting a problem into pre-processing and client-side processing can help speed up the final product, but more importantly engage team members that are not familiar with the specific web tehniques that you are usingSleep is important. 
+ I learned how to use an Arduino to control sensors and I also learned all about the Musical Instrument Digital Interface (MIDI) and its implementation. 
+ Freenode is very picky about nick conventions. 
+  
+  
+  
+ We learned how machine learning can be utilized to detect anomalies in data sets. Moreover, two of the members were attending a hackathon for the first time, so the whole experience from product design to product deployment was very exciting and educational for them.Built Withazuremachine-learningmuseobjective-cparsesketchswiftxcodeTry it outgithub.com      Submitted to    MHacks 6Winner                Best Hack for Social Impact - Spnosored by VFA              Winner                Best Money Saving Hack, Sponsored by Concur              Winner                Best Use of Microsoft Azure                  Created by  Worked on the Microsoft Azure machine learning model and some UI, including the graphs for EEG and response time dataShreyan JainConfigured and retrieved data from Muse headband. Developed game and timing. Contributed to some UI.John YangUC Berkeley, Bay AreaDeveloped the UI, some of the backend and connections to Parse databaseArun RawlaniJimmy LiuCo-founder Bash 
+  
+  
+  
+  
+  
+ Team work and design thinking is the best part of our learning. 
+  
+ It is no easy task to design a photo viewer. It is actually much more difficult than a light image editing tool. 
+ AWS documentation needs some work.  Don't enable root access to a machine, even for 30 seconds. 
+ You can hack your way through any problem.You should always feed your cats. 
+  
+ -Node.js, JavaScript-That hardware projects are always more complicated than they seem 
+  
+ Have to draw out screens in advance.Think about + create  dummy data formats before layout styling nonsense  
+  
+  
+  
+  
+  
+ Even combination of easy mechanism depends on an idea, and the wonderful effect can be shown. 
+  
+  
+  
+  
+  
+  
+ How pebbles work. How android apps work. That you don't have to be a pro - just a good measure of perseverance - to hack something together. 
+ Git. 
+  
+  
+  
+  
+  
+  
+ You never learn unless you try. 
+ Those who came here to make money will not get much out of the hackathon as opposed to those who came to make an app out of passion.  
+ In adapting the blockchain model for cryptocurrency to work for voting, we had to really understand the advantages and drawbacks of online transactions and a decentralized network. While there are indeed risks of outside interference from malicious hackers and other technological threats, the blockchain mitigates the problems of voter suppression and voter fraud. In addition, we learned all the technical details of implementing blockchain with Python: public key cryptography, hashing functions and mining, proof of work, immutability of blocks by dependency of previous blocks’ hashes, etc.  
+  
+ Javascript! 
+  
+ We've lots of experience in developing and deploying Web applications, but we never had the needs to plan and deploy a highly scalable service as we did with the relay servers. 
+ How to set up a python module and prepare it so it can go live on PyPI.More about how git works and how it keeps track of commits and branches.The complete procedure of building a python package from scratch and the how to design a workflow. 
+ One of the lessons we learned during this challenge was that handling a live stream of video data is a very difficult task to manage and can lead to unforeseen problems. Achieving good results with challenging timelines is something which can not be achieved without extensive planning and team management. 
+ This way of browsing can be very effective, but you need around 50 items to make it look good. It is the key attributes are orthogonal to one another -- in other words, that there are enough products so that you can change one attribute without also changing another attribute. 
+ API ExtractionFirebase 
+  
+ We learned how to work together as a team, and also improved our skills in html5, css, and javascript. 
+ We have learned a great deal during the development period of our app. We learned about android development and the great deal of power it holds. 
+ We learned a lot about the unicode system and how it is represented in various systems. 
+ Startups are challenging but rewarding economically, and most importantly to see the difference and impact you can make in people's life. 
+ I learned a lot about templating and front end technologies, but I think we learned much more about how to manage time during a 24 hour hackathon, handling fatigue, organizing and taking critical time constrained decisions.  
+ It's possible to create great inter-connected applications by combining various different platforms and programming languages, from desktop add-ins to, server components and 3D AR apps. 
+  
+ A key learning from developing Easy Agile Roadmaps is that powerful, useful products do not need to take months to build. At Arijea, we have always shipped early and learnt from customer feedback, however, we now know that we can ship early without compromising on quality. 
+ Swift 
+ We all learned quite a bit about web development in general and working as a team 
+  
+ When first making this Skill I didn't have a firm grasp of how state handling was performed in the Node.js Alexa Skills Kit Audioplayer Example. While some Skills need to keep a detailed track of a user's state to be able to resume a complex interaction if they were to leave and come back, this Skill was quite the opposite: using multiple states actually made the Skill much more complicated than it needed to be. This forced me to learn how state handling is implemented in the ASK Node.js library so that I could reliably strip down the audioplayer example project my code was built upon to only use a single state. Not only did this process result in a lean codebase for Ambient Noise, but it also gave me the knowledge to build complex stateful Alexa Skills in the future. 
+ This was our first time working with IBM Watson and the Facebook Graph API. We had a fun time learning these developer tools.  
+  
+  
+  
+ We found a way to use a plugin and customize it to fit our needs. Plus, the Symfony framework tasks were also a great lesson learnt. Don't forget about AD, Redmine and MakeItSoftware.  
+  
+ Pepper programmingOpenCV knowledge and usageLow-level client-server architecture on PythonTeam spirit and conflict avoidance improvement ^^ 
+ The basics of Unity and C# 
+ I have learnt a lot through the project. It was my first, but not last project in Alexa and it was definitely a different project than any other programming project I have done in the past.  
+ Bot can increase our productivity and to be one of the important interface with apps.In the mobile first world, users often uses phones and it is not have enough window size. In the past era, we can easily superimpose calendars and can find free time for attendees with big screen, but now some users don't have it because they use phone. In this world, bot is good interface to arrange schedule with Graph API (Cloud Power). 
+ This was our first Bitbucket Connect add-on, so we learned a lot. This was also the first time we made use of the Bitbucket REST API. 
+ I obviously learned a lot about Microsoft Graph API and a bit more than I already knew about Atlassian Crowd's internal API :-) 
+  
+  
+ Learned a bunch of latest technologies/frameworks. To build fast, fail fast and iterate. The accuracy levels that we were able to come up are far higher than we imagined.  
+ Building professional addon is very similar to have a startup company. there is a lot to be invested (time & money) in the development process. As the dev team grew, we took the addon to higher a professional level, using UI designer, front end developers and testers. The experience is priceless. 
+ The importance of sustaining the solution commercially not just the human and charitable impact.Valuable feedback and insights from mentors, as well for neighbor team members Dr. HajjThe importance of pivoting and failing fast, we have gone probably through several discussions and iterations and tried to use technologies such as prototyping software and API servers. however, we had to put deadlines and time limits for our experimentation and chose alternative paths fast.The importance of getting something working out first to make an impact on people to understand what the platform is about.We also learned from mentors, other groups some positive feedback and criticism to some of our approaches.Learned the viability of some of  the modern managed cloud service technologiesRepository security, by mistake, we enabled public access to our repo while it had our google cloud firebase keys.Access to government or private organizations Hajj-related data, that motivated us, even more, to ensure we have a platform to enable collections of such crucial data. 
+  
+  
+ Android development. Teamwork. Management. WE LOVE HACKATHONS. 
+ To use Office 365 platform and its API. I was surprised how powerful and easy is. 
+  
+  
+  
+ We learned about how to send data through SMS messages and about different ways to compress medical data using special pre-defined medical codes. We also learned about encryption protocols across multiple different languages (Python and Javascript). 
+ Ethereum have a large and awesome community of good developers and true projects. 
+  
+ I discovered a part of the .net technology behind the UIPath suite, the windows workflow which is very interesting.In my opinion it is better to declare the booleans as inarguments so you can attach a variable to it in the UIstudio, instead of using the tick boxes.  For example if you want to test you program you can set 'isDraft' by a variable instead of the tick box. This would allow you to make test xamls for some standard workflows. 
+  
+  
+  
+  
+  
+ It was a fun project to learn about OpenCV and App development.  
+ Learned Flask back-end development and got to practice some deep learning training and deployment 
+  
+ Stringent constraints such as UI extension points can work in your favour - sometimes doing less really is more. 
+ That Alexa devices are perfect for interactive storytelling - kids love to listen to audio stories. 
+  
+  
+ It was my first time using Amazon Sumerian and I learned a lot about it. 
+ Parity traces logs every external call inside transaction. How to working with Angular and latest Web3 version. 
+  
+ Teamwork is important. Focusing on the bare minimum version of what we are trying to achieve so that we can stay focused on bigger checkmarks can help us get things done quicker. Sometimes it's a good idea to identify solutions that might be slightly different than our original one and pivot early. Generally, we should not have too many dependencies on our development cycle so that people don't have to wait for each other's tasks to be finished. Seeking help from a mentor is a great idea and do it early. And last but not least get some sleep and food along the journey!  
+ SwiftNew API's (Watson, ESRI) 
+ Serverless. How not to die. Again. 
+ The importance of staying alignedThe power of diversity and inclusionAnything is possible  
+ New technologies - slack, AWS, and terms, project planning, product presentation 
+  
+  
+  
+  
+  
+  
+ While creating Matchstick, I learned:Ruby on Rails is an extremely flexible language, with gems for almost everythingFuzzy-matching algorithms are blessed for helping make software more error-proof 
+  
+  
+  
+ Using Knurld’s APIBuilding Chrome extensions 
+ We were not familiar with C, which we had to use for the photon and a smartwatch app we tried to implement. We plan to implement this app in the future because we were not able to fully connect the gyroscopic control. In addition to this, we learned a lot about code optimization, and how languages like C run much faster and much closer to the machine than languages like python.We not only expanded upon our teamworking abilities, but also had the opportunity to learn a variety of coding technologies. For example, we obtained the knowledge of how to work with azure  and interpet bluetooth information aong devices in order to seize the data which wa essential to our hack. We believe that the combination of hardware and software we had to create, as well  as the extensive debugging process we ventured upon taught us how to polish our projects. 
+  
+  
+  
+  
+ Making Android library, AngularJS and Firebase 
+  
+ We learned a lot about low level Android programming. In particular, how to use private internal Android APIs. We also learned how to effectively handle numerous background services and set up publicly accessible APIs using AWS. 
+ TODO 
+  
+  
+ WebRTC is pretty cool, and definitely something to look out for in the future. Same goes for the Web Audio API. Good documentation is also crazy important (but definitely already knew this). 
+ In brainstorming ideas for this challenge, we came to appreciate just how difficult a problem traffic congestion actually is. Any solution must balance the needs of all stakeholders, including commuters, auto manufacturers, public transit officials, and policy makers.We challenged ourselves to think outside of the box and build something that could have a long-term impact on how ordinary citizens engage with their community to make it better. While researching existing platforms such as Kickstarter and Indiegogo, we’ve learned about just how powerful the crowdfunding concept is and how much of an impact it can have.We also learned that building a prototype and demo is just the first step. For each feature we implemented, we came up with another dozen that we wished we could also add. For each minute we talked with others about this idea, we wished we could spend an hour more. And for each user we had test our app, we wished we could launch with a hundred more. 
+  
+  
+  
+ Codes don’t work. Machines disappoint. But it’s okay. You just gotta keep trying. Cuz your team’s got your back, YAY!Built Witharduinopython      Submitted to    MakeMIT 2016Winner                1st Place                  Created by  Charlene XiaGrace LiChen WangJialin ShiChandani Doshi 
+  
+ Paperspace > AWS when training on GPUs. Learned a lot of the inner workings of Tensorflow and obtained a richer understanding of creating and maintaining a site. 
+  
+ How much you can achieve with very little Meteor code! 
+  
+ Learning Splunk - how to use the query language and how to leverage the Splunk community to solve problemsLearning the Splunk APILearning PythonLearning the Cisco AXM API 
+  
+  
+ it aint easy being cheesy 
+ We could apply a lot of our geometry knowledge to this project :) 
+ Using the Microsoft Band SDK, Creating an Azure Api App Service (Preview). 
+ basics of Myscript APi using it with PHP and JavaScript 
+  
+  
+  
+ To keep the features limited to a very specific focus so as not to further contribute to a user's sense of being overwhelmed. 
+ Some interesting side ideas here:Playing with the calibrated camera is fun on its own; you can render it in place and get a cool ghost effectWould be fun to use a deep learning thing to identify and compute with arbitrary objects 
+  
+  
+ As mentioned above, we learned almost everything involved that went into making the project over the last 24 hours. 
+  
+ We were strangers when we met and had different backgrounds of experience. The three of us were separately experienced in either front-end, back-end, and UI/UX which made for a very interesting team dynamic. Handling better CSS, using better classes, and utilizing frameworks such as NativeScript were all things we learned from each other (and the internet). 
+ This was a multi-faceted educational experience for all of us in different ways. Overall: We learnt to asynchronously run machine learning algorithms without threading issues.Setting up API calls and other infrastructure for the app to run on.Using the IBM Watson APIs for speech recognition and label detection for images.Setting up a website domain, web server, hosting a website, deploying code to a server, connecting using web-sockets.Using pip, npm; Using Node.js for development; Customizing fabric.js to send us custom data for image generation. Explored machine learning tools learnt how to utlize them most efficiently.Setting up CUDA, cuDNN, and Theano on an Ubuntu platform to use with ML algorithm. 
+ I learned how to design for voice and I learned a lot about how to design for kids. The idea I originally had changed tremendously once I tested it on real kids. Personally, this was the first product I ever built entirely on my own and not as part of a team. I had to deal with many issues that were new to me, such as voice design, use of ssml, technical jargon, finding and fixing vicious bugs that made the skill crash, legal aspects, sound effects, making a video and more. This was a super fascinating experience on many levels.  
+ PHP_EOL ruins strings and your lifeLaravel Nova is quite awesometinkering with SQLMap, Arachni and ZAP is not just fun and gamesthou shalt not scan websites without their consent #metoohow to tame Docker and ride it like a pony 
+  
+ We learned how to link an external domain to GitHub pages.We also learned that there is no limit to how much one can achieve or learn. Sometimes, a man just needs a little challenge to break that chain we call our limit. 
+  
+  
+ How to use the Magenta.js library. Music is difficult to compose even for machines. 
+ How to find elements and interact with them in a website through web automation using Selenium.How to implement a seamless and feasible workflow between numerous code modules.How to do facial recognition using OpenCV and optimise parameters.How to implement a pre-trained model. 
+  
+ Don't assume anything. Like we mention earlier, the UI/UX and the whole process flow we initially thought of is not what our users want. We want to keep learning by getting more people to try the extension and getting feedback to make it better for both viewers and streamers. 
+ Cool API Endpoints: Amadeus's YapQ, Flight InspirationMicrosoft Azure Search 
+  
+ Working with foreign APIs can sometimes be hard and will need mutual involvement of both provider and user of API. 
+ How to use Spotify's API, Instagram's and Microsoft cognitive services. Also we did some research related to the topic we discovered relations between feelings and music attributes. 
+  
+ Users expect high quality applications even when they are offered as a free version. 
+  
+ To work effectively as a team, despite all of us knowing different languages 
+  
+ As previously mentioned, we went into this hackathon with little to no experience in many of the technologies and languages we were working in. We know a great deal more now than we did, and although we are very much still learning, we feel we've come a long way. 
+ I learned how to use many APIs and put them together without breaking the other one. 
+ I’ve learned a lot through simply experimenting and reading through Unity’s documentation. Generally speaking, I learned a lot about the development of gameplay mechanics and how to actually execute them using Unity, C#, and Java. The use of Java in itself was a completely new learning experience I’ve known Java for five years now, but I am completely new to the fact that you can convert Java source code and use IKVMC to convert it into a DLL, and make it run like a fully fledged library in Unity. Additionally, through ORB, I learned concepts of the functional programming paradigm, a particular type of declarative programming which focuses on using short, maintainable statements like algebraic expressions or functions. I used Java’s lambdas and C#’s LINQ to exercise some fundamental functional concepts (that are part of these mainly OOP languages), and also utilized the ideas of filters, sinks, and maps. 
+ VR Optimization,MoCap (Motion Capture with Kinect) and animation smoothing (60 FPS)LipSync 
+  
+  
+ Our team developed many locations aware application in which we try to provide some information when an user enter an area. But the main problem in those apps was, we have to periodically check whether user is in proximity of a particular location. This process drains the device battery a lot. In Pinage we used the ALOHAR with our wrapper library to reduce the battery drain in determination of any Geofencing event. 
+  
+  
+ See above. 
+  
+ I've learned to use react and especially to work with the framework QT. 
+  
+ If you can make a team with strangers when all your 'friends' don't show up- Do it. I had a really good time, but I think it wouldn't have been so rocky and anxiety filled if I felt like I knew other people there.  
+  
+ We improved our React Native skills and used a new API we had never used before.What’s next for MTA BlinkWe hope that the MTA would adopt an app like ours, we’d love to see a more efficient MTA!Built Withexpo.iofirebasegoogle-cloudnode.jsreact-nativestripeTry it outgithub.com      Submitted to    CUNY HackathonWinner                First Place                  Created by  I worked on developing the UX and UI using React Native, as well as integrating Firebase to apply payments and display information in the database. Sang ParkXin YuanDavid MargolinJohn Evangelista 
+  
+ Much of the team worked with React for the first time, and also had to learn how to deal with sending Wolfram API calls from the client side and having it live update.  
+ During the creation of Project Julius we learned a lot about Epilepsy and its causes. Using online resources we discovered how many people it affects, common triggers, long-term effects, and large incidents in public.We also learned a lot about how to process large images (upwards of 1080p) quickly and effectively using histograms of regions on the screen. The changes in the histogram values indicate a change in content, a large difference indicates a flash or scene change. We then had to further our analysis to compare multiple changes to detect the rate at which the image changes, and thus determine if we should block it.Our initial approach to capturing the screen was to use the low-level frame buffer built into Linux. We spent a few hours learning how to access and process the frame buffer but ended up deciding not to go with it. We felt that using something built into Linux would greatly decrease our potential reach so we changed our screen capturing method to be more portable and cross-platform by using OpenCV and native desktop capturing applications that can pipe into Python. We found multiple programs for the different operating systems such as CamTwist and ManyCam. 
+  
+  
+  
+ We also learned how to interact and deploy Smart-contracts to real Testnet Ethereum network and make dApp with immediate updates from ethereum blockchain. We discovered how to recognize QR codes on iOS devices. 
+ How to build an iOS app. 
+ We need to learn a lot more about integrating contracts to a UI with Web3.js.  There are also a lot syntax concepts about solidity that we still struggle with occasionally.  We're excited to have jumped into the deep end and continue to develop for the Ethereum platform 
+ Don't enter a challenge/venue with a concrete plan. Hardware, software, and networks will usually have errors and compatibility issues during the initial creation process, so alternative improvised methods are often necessary 
+  
+ Each one of our team taught the others a bit about their specialty. Joe taught the team computer vision and algorithms, Chris taught us music theory and digital music processing, and Reshef taught the team about design and UI/UX. 
+ Unity, motion/gesture tracking, how to marshal json data between C#, JavaScript, and PHP. 
+  
+ Working with Blender and Unity 
+ You can in fact recover from losing all your SolidWorks files halfway through the project that you forgot to save. Also that bluetooth 4.0 is very, very complicated.  
+ Game development, Graphics and Design, Animations, P2P architectures. 
+ This hackathon was full of twists and turns and we definitely learned a lot from it. From how to use Azure to what web frameworks work best with our front end, our general takeaway for this hackathon was to remember to reach out for help. The Microsoft team was immensely effective in mentoring us and helping guide us to reach our goals; it’s been a game changer for us and it’s something we’ll be sure to do in future hackathons.  
+ We learned a lot about integrating third-party Swift frameworks into our app. While some appeared to save a lot of time, they often became cumbersome and it was easier to implement the feature ourselves. 
+ How to make the back-end extensible by using REST web apis, getting rid of dependency issues and language limitations, decoupling the front and back end. 
+ We learned a lot about conducting material and material science. How different conducting material can be used to generate touch patterns on the screen. 
+ We learned how to use Amazon Alexa’s skill development kits, and we all learned how to use python for the first time during this hackathon. 
+ A lot of things can break for reasons unknown in an integrated system and the best way to deal with this LOG everything. The trails of bread crumbs always leads to the culprit:P! 
+ Learned more about custom activity and designing a custom activity 
+  
+ In the name of the moon and by the power of friendship memes are amazing 
+ We learned that it doesn't matter how much experience you have, but as you keep working on a project you will come out knowing more than you did before. 
+ the hardware can be manufactured locally and at a low cost (~5 USD/device)pacing in team development work is very importantWho are weWe are a team of four from China and Pakistan, and resides in Saudi Arabia for years. Ali is an engineer with a startup based in Wadi Makkah and specialized in hardware engineering. He designed the hardware prototype of the band. Usman Bashir is a full-stack developer and technology consultant from Jeddah. Andrew is a data scientist and entrepreneur from KAUST, with experience in software development for various projects. Ge is a tech entrepreneur who currently studying at KAUST, with years of experience in UI/UX design. 
+ How to georeference a map by QGIS, upload to Mapbox Studio and understand its potential applications.Learning and experimenting with AR. 
+  
+ I learned how to integrate the messaging and calling apps into my own app and open links through a click of a button (taking the user to Google maps to find a nearby gym to release anger and frustration). 
+ We learned about the microservices frameworks and ML libraries. Moreover, we learned about team collaboration and work distribution among peers. This hackathon was a great experience for us and have helped us to learn about many minute concepts as well which might help us in the future IT industry. It also taught us about the societal impacts of the daily efforts by the CS Engineers that prove beneficial. 
+  
+  
+ A lot. These were tools and frameworks that we both didn't have much experience with. Thanks to relying on each other and the great documentation and communities around the products, we were able to make something pretty cool. 
+ HTML5, CSS, Flask, Google Maps Platform and API. That's alot. 
+ Twilio Sync APIBuilt Withadobe-illustratorchromecsshtml5javascriptjqueryjsonsketch-apptwilio-syncTry it outgithub.com      Submitted to    MLH Prime Spring Finale 2016Winner                Most Creative Use of Twilio APIs                  Created by  I helped fix some problems we had with synchronising video playback (once I woke up after my nice long sleep!)Scott StreetCOMPUTERS, PRETTY LIGHTSProduct ideation, UX, and UI design through wireframe sketches. Chrome extension HTML5/CSS.Karisa TzengUX DesignerSetup and implemented the chrome extension and UI elements from the designs Pandelis ZembashisSerial hackathon attendee & Computer Science Student at BCU. I like beer and coding.Created the rapid prototype using Sketch App, contributed to front-end of chrome extension Heather HobdayTwilio Sync, node auth serverMatt Burman 
+ The learning curve from day one in a Cloud world is the use of the Security Graph API itself (version control) and the output from the different providers, some providers give more in-depth information and some give basic information. Second, we needed to find a solution on duplicates from the different providers, e.g. Azure AD Identity Protection has an overlap with Microsoft Cloud App Security (Threats). 
+ WebXR is in it's early days but growing fast, because of that it's exciting but unstable. Great inspiration of how to create truly satisfying experiences with gesture controls. 
+ We learned two significant lessons: how to ask more experienced individuals for assistance when we were stuck, and to check simple solutions before assuming complex problems (I got 99 problems and not rebooting is about 70 of them). 
+  
+ Working with the Microsoft Azure AI platform, and integrating a react/node app with some of its services. 
+ Big data technics in the wild.Advanced sprite animation.Our teamwork now is on the next level. 
+ How to work with SNARKS and it’s possibilities  
+ Bit of DSP, improved my react knowledge a bit, etc. 
+ We learned a bunch about the Message extension iOS framework, but more generally learned about technical risk. When we committed to creating an iMessage app, we reaped many benefits, but also inherited some challenges. Because the technology and user experience are so tightly coupled, we had to make some tradeoffs that affected the end users. However, the additional constraints imposed by the framework forced us to ask tough questions and refine our idea more than we otherwise would have. Our final result is simpler, cleaner, and more extensible than our original vision. 
+ Two 5 hour energies in 72 hours is actually not as bad an idea as some might think.Math is hard. 
+  
+ Designing product is really difficult. 
+ We learned how to generate public and private SSH keys. We got exposure to AWS web service, Google Cloud Platform, how to use pymongo, and how to set up a domain. Lastly, we learned the importance of team work! 
+  
+ Programming embedded systems is hard. But we learned a ton about networking, router-level programming, and Hashgraph. 
+  
+  
+ In addition to providing a toolkit, this project provides a method overview for the task of Font Generation. We have a few observations during the development:Start from simple fonts. We observe that simple fonts such as sans serif are easier to generate and manipulate than highly stylized ones such as handwriting. However, in the typography market, these simple fonts are on the highest demand. Therefore instead of focusing on generating fonts with crazy styles, we can work on producing production-grade simple fonts that improve readability.Data is crucial. A utopian vision is to learn the font manifold and produce open-source industrial-grade fonts to everyone. However, to learn this model, it is always good to get more data, especially for the highly stylized fonts. With more typographers contributing to open-source fonts, we can achieve this goal earlier.Vector paths is a visual representation worth looking into. This is not only important for the task for Font Generation, but for a resolution-independent representation for computer vision in general, such as image segmentation, data annotation, and art creation. 
+  
+ We learned to understand the details of American laws. 
+ I have learned that in order to make the implementation of the project, there is need to do more research and go to the field and collect data more regularly. There is also need to do more collaborations with content creators and other developers. 
+ *Gamers love rewards, lootboxes, barter and surprises. :) *Mobile gaming industry has 500M+ daily gamers. 
+  
+ We learned how to use the YouTube API as well as utilizing the Google Cloud Platform API. It was also back to the basics for handling JavaScript and all of its nuances. 
+ By analysing data in real time we are able to learn and understand what is important for people and also how it can be optimised the energy consume. 
+ There are a lot of great movies in the public domain (check out 12 Angry Men and D.O.A.)APLThere's a lot more to learn about Audio Players (that's my next project) 
+ How much we overestimated in the beginning how many fish were going to fit inside this platform.  
+ I learned that life is tough on the bleeding edge. We could really use better documentation or even just more code samples and we could also really use a lot more help with discovery! 
+  
+  
+  
+ Many many things, already alluded to in the challenges section... mostly along the lines of working with new hardware, circuits, writing Arduino code, working with Arduino libraries, interfacing multiple technologies, hacking a drone, new/unfamiliar coding languages, etc.  
+  
+ Coding is easier than talking and handling objections. It feels good to have have an idea that has the potential to change life of person to the better. Probably feels better than the idea for sending glitter to your enemies. Or maybe not.You’re getting insanely sleepy if you have a pizza and a beer at 12am.   
+  
+  
+  
+  
+  
+  
+ This project is how I first learned how to make apps. 
+  
+ Olivia learned she has sick animating skills, Elena learned how to work quickly and not scream and Isabella learned that 12-hour hackathons are stressful for game-makers.  
+ The major learning points on this project were convolution shaders, Unity performance optimisation and the Unity touch API. 
+  
+  
+ As we were building the project and implementing features, we found that specific features gave rise to others. For example: originally, Median was designed for use by healthcare professionals to communicate effectively and efficiently with other healthcare professionals. However, if patients could also upload changes to their own state, healthcare professionals could utilize higher patient data resolution, allowing for more accurate and specific diagnosis. Therefore, more options were added to the patient timeline to encapsulate these cases. The entire design process was an adventure in itself and we feel there is still much more to be built on the current version of the project. 
+ Define the purpose of a project is hard, we need to have too clear what people we want to have registered in our system that means have a public target, if  we do not have it, the implementation goes to differents paths wich is dangeous because in Mexico we say "el que mucho abarca, poco aprieta", (you try to know too much but you won't know anything) 
+  
+  
+ AzureŌura ring APIPaulig Muki APITracking Bluetooth devices and their distance in python3D printingcommitting to GIT regularly... 
+  
+ How to use a javascript 2D canvasHow to efficiently organize big data for future use 
+ Some python and how to make a telegram bot. 
+ Great functionalities that people can't easily understand and use, are not great at all. 
+  
+  
+  
+  
+  
+ Learned a lot more about email. I thought I knew a lot already, like how inline attached emails and CIDs work, but turned out there was a bit more to it with iPhone emails being multipart mixed and still containing inline images. With gmail api you have to compose messages in raw format - base 64 with mime boundaries which I've never had to do in 20 years of programming!  
+  
+  
+ I learned many different things during this journey from technical knowledge to project management and setting priorities on the project. One of the greatest tools I learned from this project is that even with a great deal of planning there are always issues and problems that come up along the way that you must think through and adapt so you can overcome that challenge. I also learned that a project you love to work on is never really finished and there are always things that can be made better and I am always going to strive to improve the software. 
+  
+ We knew our healthcare system needed help and innovation, the depth of which we are still exploring.  We've learned to be savvy data collectors, innovators of simple solutions and great listeners. 
+ Lots of it, Nupic modeling techniques, how important it is to understand data and fetch right feature vector.Python. 
+  
+ I learned how to focus on each person's strengths and skills and how to best work together as a team to accomplish a common goal 
+  
+ AzureTwilio apiWolfram apiIn-memory cachingUsageSend text/imagewait for reponsetext 'more' for more information 
+  
+  
+ We learned about arthritis and the research going on being the condition; how to read from a serial port, parse the data, and write to a MySql database; and advanced soldering techniques. Built With.netarduinobootstrapc#google-cloudgoogle-cloud-sqllesslibserialphptoroTry it outpowerglove.cntr.me      Submitted to    HackUMassWinner                Finalist              Winner                Champion              Winner                Best Hacks for Health Prize Category              Winner                HackUMass Popular Choice                  Created by  Implemented backend resources and data structures as well as handling client-server API integration between the hardware and web app.Christopher TranWorked on the mechanical and electrical systems on the Power glove and set up the communication between it and the computer that handled data processing. Anmol ModurWilliam KrodthoffZachary Thompson 
+  
+  Teambulding, UPM’s business and logistic processes and to make a simple visualization for it.  
+  
+ Over the course of 36 hours, our skills improved dramatically. We learned how to build the entire pipeline starting with creating a Google Cloud account to deploying the finished product on the Google App Engine. We also learned how to build a full stack application and integrate the front-end and back-end into a working application. Additionally, we learned how to implement control flow in HTML using Jinja2. 
+ How to generate PDF files and QR code in Angular appPrefer Ethereum smart contract events over storing data in the state for specific use cases 
+ Alexa APL and deployment to lambda.Built Withaplask-sdknasa-apinasa-astronomy-picture-of-the-datapython      Submitted to    Amazon Alexa Skills Challenge: Multimodal    Created by  Angusundaresh Krishnakumar 
+  
+  
+ How to build an easy dialog with short interactions while offering options to handle more specific options (like the any character / word for small characters). There fore you need to handle the context, otherwise you can not distinguish a single digit as an intent to specify the length of the SSID or Password or a Digit within those (not handling this well, lead to a bad review in the beginning of the skill). 
+  
+ React.js, TensorFlow, Symfony 4 
+  
+ All team members had to get them self exposed to some resources and stack they haven't used or heard about  before, e.g Linode, DevPost, hatchful.shopify.com, wolfram etc. 
+  
+ We learnt how to integrate the here.com api to work with a progressive web app and the powerful web tools that allow us to do so.  
+ JavaScript has many perks, but also many flaws. If you are used to programming in OOP, JS, even within the ReacJS-Framework, seems sometimes overcomplicated. 
+ We learned a lot about using big data techniques to run computationally intensive pipelines with large datasets. We also learned that we are able to use these techniques to create solutions that can make a difference in practice. 
+ There is a lot of misinformation about transaction fees with Bitcoin.  Some companies do charge fees as high as $20 per transaction, but there are trustworthy companies available that do not charge exorbitant fees.  Further, some of these companies allow you to instantly convert to USD, effectively protecting Wayfair from bitcoin price fluctuations.Some companies do not have a sandbox environment.  We first tried to use Coinbase, but found after an hour that they did not have a sufficient sandbox (their API was also geared more towards trading bitcoin than using it as payment method).  After discovering that Microsoft and Newegg use Bitpay, we looked into their API and found it much more suitable to our needs.  Even with the hour wasted on Friday, we were able to implement an end-to-end solution in 6 hours (Nick didn't believe we could do this in under a week!). 
+  
+ Swift language, IOS development, and most important: Girls  
+ We learned unity, programming for the Vive, user interaction with a VR scene and objects, and music/beat integration. 
+  
+ The communication that must happen within a full stack environmentJS is on the client-side while SQL is on the server-side so we need a middleman to bridge the two 
+  
+  
+ We have learned how to work in a diverse team and how to organize ourselves to be able to finish at least the main idea of the project. 
+ I learned how to write code so that there is efficient communication between the mobile application and the Parse backend.  
+  
+ I think I mentioned a lot of it above. I learned to love the swift language and really see its brilliance in many areas. Learning 2D art was also very cool and provided days of frustration to me. The fact that I can look back at my first few .swift files and say: "wow this can be done much easier" means I must have learned something! 
+ wow, a lot.We learned so so so much about servers, and within 24hours going from cake to amazon web servers, the transition was crazy, just we were so hyped with accomplishing this along with successfully using node.js, share.js, and fabric.js. Also getting the pen tool to work with ease features and saved image functions made us happy too. 
+  
+  
+ We learned how to connect a web page to a Unity script and apply changes in real-time according to the data gathered. And we learned that you can measure your heart rate by scanning your fingertip on your phone's camera! We've learned a lot of valuable things like managing API calls per minute, managing frame-rate in Unity, and manipulating an environment at run-time.  
+  
+ How to VR 
+ Accounting for the unexpected lengthy amount of time it takes to render 3d models and meshes. Next time, be more prepared for huge file sizes, extreme ram usage, and gpu stressBuilt Withblueprintc++dronepythonreality-captureunreal-engine      Submitted to    Hack the North 2017Winner                Hack the North Finalist                  Created by  TJ YangWilliam XuSoftware Engineering student at the University of WaterlooOscar ShiAllan Mukundi 
+  
+ We learned that task delegation is key to tackling hackathon projects like these. From the start we came up with a plan to divide work, but as parts started to come together, the pace slowed down, and we needed to keep going to finish our game. It was through this that we learned that proper design is very important to a project, and that good design helps people develop code and features that integrate easily once able to. 
+ Everything in the game... ha... haha... 
+  
+ What BIENE is. But it does not matter because it is about YOU. What Biene is to YOU. 
+  
+  
+  
+ Google Maps is immensely powerful! 
+ Collaboration in an unknown environment requires more research and careful planning and allocation of tasks, more so than we previously thoughtHackathons are a great way to learn new tools and review past ones 
+  
+  
+  
+  
+ Not to be afraid of the unknown. The Adobe Extension environment seemed daunting at first, but approach methodically, the pieces soon fell into place. 
+  
+  
+ Playing to your teammates strengths is awesome 
+ I learned the Microsoft Graph API is really nice to work with and opens up a bunch of possibilities for improving the lives of Microsoft users on iOS. I am excited to come up with more solutions to bring to iOS using the Microsoft Graph API. 
+ We confirmed that ethereum is now ready for industry specific applications to be built and that by providing a battery of problem specific utilities, we can remove the barrier to entry for healthcare.  
+  
+ Leveraging the Twitter API & Spotify API - never used either before! And being realistic about what can be built in 24 hours... with trips to the planetarium, card games, and hikes in the mountains!   
+  
+  
+  
+  
+ 1.Designing an excellent system requires comprehensive consideration in every detail.2.Knowledge about traffic congestion.3.Technique in developing system with Unity and Arduino1.設計一個出色的系統，需要在每個細節上的周全考量。2.關於交通壅塞的知識3.使用Unity和Arduino開發系統的技術 
+ თითქმის ყველაფერი, რაც გავაკეთეთ, ვისწავლეთ ამ ჰაკათონის განმავლობაში. მივიღეთ დიდი გამოცდილება, დავიხვეწეთ გუნდურ მუშაობაში, გავიცანით ახალი ადამიანები, გავცვალეთ ცოდნა, ვიმუშავეთ ბევრიბევრი. 
+  
+  
+ Time constraints are here as a motivation source.Also Artik is a capable platform but it needs a community of hackers to become even better.Solutions can be hacked but only with bright minds of today thinking about tomorrow's problems.  
+ ARDUINOWe learn how to include Arduino101 with Board manager. We also learn how to use external library that compatible with Arduino101. ESP8266We learned so much how use ESP8266 as wifi module.Our knowledge elevated very much in ESP8266 AT Command. We understand how to use AT command for getting threshold and sending sensors data.APIWe can make API to send and get data using internet network event there is not enough network on the site.HIGHCHARTSWe learn about Highcharts techonlogy and make interactive live data. Integrate technology between API and Highcharts. 
+ Test business idea earlyHackathon puts a lot of pressure to rush the problem implementation 
+ You cannot run two instances of web3 provider engine at onceWe learned that setprotocol.js is pointing to some incorrect addressesYou can charge a macbook by connecting it to another macbook via usb-c 
+ Some new technologies and I think our hacking planning skills have improved as well :)  
+ Microsoft Azure, Node JS, Angular Js 
+  
+ Azure Security GraphMicrosoft Graph JSON BatchingAzure oAuth Token automation with Azure FunctionsJavascriptAzure Container RegistryDocker ImagesAzure Application InsightsAzure Web Application creation and deploymentLithnet Password Protection for Active DirectoryHave I Been Pwned NTLM Hashes for Pwned Password 
+  
+ We learned a lot about time management as we should have had a backup plan for our hosting issues. 
+ python scraping, using google map API 
+ Coding with 2 hours of sleep is hard.  Group dynamics are more important than individual talent. 
+  
+ Bit manipulation, converting numbers between bases and being able to verify zkSnarks on-chain using zokrates 
+  
+ How to build Twitch extensions (and chat bots)!Using Speech-to-Text software to implement a keyword recognition service (on Azure) 
+  
+ This is only my second time using Python and my first time using Node.js. Because of that, I have learned so many things about these languages. I also learned that it takes quite a long time to actually deliver a fully polished app. Which this app is very far from. 
+ How to write Alexa skillsHow to make Chrome extensionsHow to use websockets effectively 
+ We learnt to unite a few APIs, such as Amazon Alexa and IBM Watson.Video Pitchhttps://techcrunch.com/video/racoon/Try it outgithub.com      Submitted to    TechCrunch Disrupt SF 2016Winner                Radix                  Created by  I'm fullstack software developerAlexander SivuraI have more than 8 years experience in software development. Last 4 years I work on mobile apps.Fullstack developerArduinoPython serverOpenCV optic flowMax GoncharovFull stack development. IoT SDK, IOS, node.js, javaOksana ChuikoEugene Tonevformer digital creative director from leo burnett, looking for new connections and opportunities. let's chat :) 
+ Since Warmly only workes when there is mutual interest, the technology will cut down on overall spam emails as we scale. After speaking with both decision makers who receive cold emails and vendors of technologies, we have learned that both parties want to connect with each other when interest and goals align.  
+ Talk to people who know what they're doing - who know what the process is, and who will be able to tell you if your idea is useful in the real world!Built Withbulldog-clipsc++hardwareopencvpythonrulerss3tapeTry it outfishotron.fyquah.me      Submitted to    Fishackathon 2015Winner                Global Panel Judged - Barcelona, Spain - Announced on July 10, 2015                  Created by  Worked on the identification of the tags, and real-time scaling based upon them, as well as physical hardware construction and feature planning.Tom HartleyWorked on integration of the components and a real-time web frontendFlorian RathgeberComputational scientist at ECMWF. Pythonista. Cyclist. Open Source / Open Data developer. PyDataLondon co-organiser. taarifa.org Co-Founder. 
+  
+ Learned to sign up for hackathon before going for it.We learned to use 3D manipulation through css and Microsoft Cognitive Services.Ps. No offense if offended.Built WithchromejavascriptTry it outgithub.comjingloon.github.iowww.instagram.com      Submitted to    Hack&Roll 2017Winner                Most Awesomely Useless Hack                  Created by  Explore Microsoft Cognitive Face API.Wei Kang ChiaStudent at National University of SingaporeContributed some stuffBernard YipTime and money and the soft shell crabJing Loon Gohstudent with occasionally weird ideasHappened to have messed around with Google extensions, utilized my experienceJoel Lim 
+ BLHD 
+ Quality is just as important as quantity when collecting training data. We knew that the more data we could collect, the better our predictions would be, but we learned more about the quality that is required of that data and some strategies that we can use to clean out useless noise. 
+ Hand washing hygiene and vaccination is considered as the best solution for the virus infection in the medical point of view. But it's difficult to defend babies from rotavirus. From our interdisciplinary discussions, we've realized that rehydration and education for their parents are the reasonable solution about it 
+ We learned how to use AWS and configure the credentials, and SDK's to work. We also learned how to configure and utilize our own machine learning algorithm, and about the dlib/OpenCV python Libraries! Furthermore, we understood the importance of the misinformation issue, and how it is possible to utilize a conjuction of a machine learning model with an effective user interface to appeal to and attract internet users of all ages and demographics. 
+  
+ Raspberry Pi, Bluemix IoT, Amazon Echo skill development, and team collaboration. Once we were all invested and sold on the same idea, we surprised ourselves in what we have been able to accomplish in such a short time. Great collaboration leads to even greater innovation. 
+ Python is quite different than C++How to implement a GUIHow to make a program into an executable 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+ Music is hard! 36 hours is not enough to create an algorithm that can generate music that has been endeared for centuries. I have a much greater appreciation (but also greater frustration...).Python is incredible. Technically, I already knew this, but to be able to produce this quality of a music generating, machine learning algorithm in under 250 lines is incredible. Yes, I only wrote 250 [very well thought out and tested via trial and error!] lines. Python is life.I was also introduced to pybrain and music21, Python libraries used for neural networks and analyzing music, respectively. Both of these are very well made and I hope I have an opportunity to explore more of their features in future projects.Also, I had to learn a lot of stat. It was pretty uncomfortable, and I'm not a fan... 
+  
+  
+  
+  
+  
+  
+  
+  
+ How to effectively collaborate and be flexible with expectations. 
+  
+ Le managing du temps et la séparation des tâches a été des épreuves qui nous ont fait grandir rapidement tout au long de la soirée. 
+ As in life, promises are the answer to some things, but not everything.Socket streaming > Ajax callsMongo > SQLTime is a finite beast 
+ Robotics  
+ So many things about iOS development, this was Michelle's first stab at it. Everything from MapKit, Storyboard, ViewControllers. 
+  
+  
+  
+  
+ Expect anything. This project spawned after a team member was hit by a car driven by a distracted driver. Many roadblocks emerged along the project's development, but we we continued to move forward! 
+  
+ All of us were well versed in Python and backend, but not so much on web development. We had a fun time learning about deployment and learning about how servers communicate with each other. 
+  
+  
  

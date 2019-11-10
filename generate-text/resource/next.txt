@@ -1034,4 +1034,598 @@ In future prospects, I want to integrate Internet of thing technology (IoT) with
  Try out Magenta!Magenta is an open source Python library that explores the role of machine learning in the process of creating art and music. It would be amazing to integrate Magenta into Capriccio, either to extend music by matching our inputs against a database, or to generate chord progressions to enhance a simple melody.  
   
  In upcoming version (Smart Log V 2.0):Dashboard activity will be includedIt will list and track the logs(no.of success/failure,Export as Excel/PDF, statistics,etc) 
+ Building 100 or so of them, and hiding them around Toronto and our upcoming travels to France. Anyone can build one in their spare time in about 10 minutes, and for under $2, so we will likely run a small Meetup in Toronto for other who would like to build them 
+ The next step for Crystal Hub is to add more functionality and to make it even more complex. We are excited to see the upcoming version of Appian so we can improve our application. 
+ Introducing rewards through incentives (let users gain points to claim rewards from company partnerships) and sharing progress over social mediaUsing the raspberry pi box as a “push notification”. Green LED is lit when Eco mode is on. Otherwise, it’s red.Integration with Alexa Scenes & Alexa RoutinesLetting users share their energy saving achievements on social media 
+ Where do we start? There’s so much that we want to incorporate into the app, whether it’s features or bug fixes.We would firstly like to add more programming languages. Second, we would like to be able to spend more time developing machine learning models to train text recognition for handwritten words. We also want to explore other ways of processing the images in a way that OCR can more accurately extract text. 
+  
+ Next steps for developing this project include uploading samples to remote servers, and applying more advanced data coding for future use. 
+  
+ Future work in Ikhtiyaar may involve adding a comments and proper system of voting. Other features would include:Admin panel: Administrator should have access to a dashboard where they can view all complaints, sorted into relevant categories. The admin should be able to respond to a complaint, and change its status once the issue is resolved.SMS integration: An SMS service could be added, to enable users to post complaints using only their cell-phones without the need to visit the website. Users would have the option to select how and when they should receive notifications about any updates.Complaint statistics: Statistics could be generated on the website, for example, on daily, weekly or monthly etc. basis, with the option of filtering by category and location.Integration with Twitter: Tweets by the government officials to be automatically displayed on the website, integrating their current mode of communication with our system, making the process of posting updates effortless for them.InstallationThe website is dependant on the following libraries:Facebook PHP SDK v4 (https://github.com/facebook/facebook-php-sdk-v4)Guzzle, PHP HTTP Client (https://github.com/guzzle/guzzle). The dependancies are defined using Composer. Simply run the following command in the project root to install both of the libraries:composer installPlease note that Composer has to be installed in the system first.Thank you 
+ Add 8tracks supportAdd Grooveshark supportMake different conversion options such as concerts, studio performances, and lyric videos. 
+ I have a few ideas for improving the project. One feature I would like to add is the ability to translate the text that is read. (I signed up for early access to Amazon’s new Translate service but haven’t yet been approved.)I also plan to continue to improve my model to see if I can increase the model accuracy a bit as well as make it work with a broader range of books.Lastly, the text image cleanup function function, which feeds directly into Tesseract, can be improved. Specifically, it would be beneficial to be able to rotate and or warp the image before sending it to Tesseract. That way when a child isn’t holding the book correctly, it could still read the text. Motion blur was also a definite issue I had to contend with in image cleanup. If the book isn’t held very still for a few seconds, the image is just to blurry for the OCR to work. I have read about various techniques to solve this problem, like using image averaging over multiple frames, or applying different filters to the image to smooth out the pixels. I am sure that it's possible to achieve a better/faster outcome but it's tricky working on a resource constrained device. Helpful ResourcesThere were many online resources that helped me along the way but these links proved to be the most helpful. (In no particular order)https://becominghuman.ai/an-introduction-to-the-mxnet-api-part-1-848febdcf8abhttp://gluon.mxnet.io/chapter08_computer-vision/object-detection.html?highlight=ssdhttps://github.com/apache/incubator-mxnet/blob/master/example/image-classification/README.mdhttps://github.com/zhreshold/mxnet-ssdhttps://pythonprogramming.net/introduction-use-tensorflow-object-detection-api-tutorial/Also, many thanks to all the participants in the forums answering questions and especially to the AWS DeepLens team for getting my unstuck numerous times! :) 
+  
+ Perhaps an app? :P  
+ In the immediate term (days), we want to make the Epicus much more accurate. We could use these datasets to drastically improve our accuracy and sensitivity by using machine learning. We found a few research labs that publicly share EEG data categorized by emotions. However, they required us to return a signed confidentiality form to gain access, which was not possible over the weekend in a limited timeframe. And as the headband is becomes more widespread, we would have access to more EEG data that is specifically generated from Muse.In the short term, we could improve our mobile app to introduce another stakeholder. For instance, in cases of autistic children or psychiatric patients, it would be important to also develop a monitoring application on the guardian or caregiver side via a secure pathway.Also, we could integrate this technology to a smart-home environment. Based on the mood of the user, the physical environment could adapt spontaneously (lighting, music, etc.). In the long term, we envision that EEG sensors will improve significantly. This will allow for a device that is very low profile that is even more user-friendly, and has a higher sensitivity and accuracy. 
+  
+ We shall dig deeper into our project and add more features to this chatbot. At the top of the list is adding analytics services using Firebase. We plan to work with barbers to bring this to many barbershops.USAGETo run the app:    node app.jsYou will need to install the Bot Framework Emulator from here.Open the Bot Framework Emulator, and enterhttp://localhost:3978/api/messagesin the address bar. Leave App ID and Password blank. Hit connect and you can now chat with the chatbot!BUILD/INSTALLATION INSTRUCTIONSAll platforms    npm installContributor GuideCONTRIBUTING.mdLicense 
+ Build a better UXAllow anyone to create a wallet with their cards.Key updates using certificates and the Estonian government pubkey.TODOImplement Jacobi elliptic curve coordinates.Use base 4 or more instead of base 2 for the lookup table.Spread lookup table generation in multiple TXs.Implement certificate parsing to extract citizen number, public key and signature.Implement RSA (easier).Pin Estonian government root key.Verify public keys back Implement key revocation lists.TEAMremco@wicked.ventureslogvinov.leon@gmail.com 
+  
+ In the future, we plan to organize suggested articles by a political party. We also plan to make proper icons at the bottom that link to Pacific news websites. We also plan to make customizable settings to change the color scheme for Pacific users and also make logins that can keep track of the user's data so that they can monitor their biases. 
+  
+ The PolluWatch concept is extremely adaptable and has no real limit to the amount of sensor modules ones can use to gather data. This can come in handy to monitor the air quality around major cities giving access to real time data to all of its citizens, or can adjusted to be used to monitor private homes or farms.  
+  
+  
+ What's next in the near future is adding, and refining Assert methods code to include even more situations.Idea for the far future is to develop custom activity which would, when Framework is run, popup a GUI from where a developer can filter which tests to run. 
+ We see a bright future for this application! We can make a lot of improvements and our invoices workflow can be improved. 
+ As we moving forward with Call Assist, we hope to continue working on the website and application to better serve the needs of people. We hope to add more features like account services for a more unique user experience as well as a connection to insurance companies. Allowing users to share medical information and a photo of themselves is another feature we think would be beneficial for both them and the medical responders. We also would like to improve the UI design to create an easier to use application that is welcoming to all users. 
+ We have some interesting ideas in how to further the app by adding new exercises. 
+ Upgrade all hardware components, including the mechanical arm and robotic base. Add "eyes" - a 3D sensor with object recognition so that interact automatically with real-world objects. 
+ Notifications for challenges and the option to share a challenge on social media. 
+  
+ We will probably finish it up and make sure everything is working perfect and then submit it to the App Store for the world to use and see. 
+  
+  
+  
+ We're experimenting with sensor integration so that GROOT can stop guessing. Being able to measure soil humidity and sunlight would be invaluable data that could save a plant's life! 
+ CSS/styles. Implementing file uploads + a Ziggeo video recorder + app management. I'm really bullish on video applications. I'd also like to build an email processor (sendgrid & mailgun have great APIs for this) that lets hiring managers pass/save applications via email. (e.g. "reply save to save for later")Let me know what you think and I'll use it to improve these prototypes + pass it on to Product! 
+ Next, we will build image recognition so our users can take pictures of their prescriptions bottles and insurance cards and their information can auto populate in our server.  We’ll build dashboards for insurance companies to monitor their clients adherence behaviors and offer perks to clients with good medication adherence.  And we’ll build dashboards for doctors, so they can monitor their patients’ adherence behaviors and reach out through Remi if they see a drop in medication habits.  Because Remi is a lightweight text bot, it can have a huge impact not only in the U.S, but also in developing countries where texting and facebook messenger are the primary forms of communication. Our team has traveled to Nepal, Nicaragua and Tanzania and seen the impact text based telemedicine can have on their health care. 
+ Phishing for Good (P4G) currently uses open source data collected from Adrift.org (for probability values of ocean current drifts at particular lat/long values) and earth.nullschool.net (for real time values). The future, as we see it, is to work around linking these data sets to improve the accuracy of our data model, as well as using image processing and machine learning techniques to further simplify the identification process.In terms of implementation of the product with fishing nets and getting fisheries/manufacturers involved, we are looking to appeal to the government as suggested by UNFAO (United Nations Food and Agriculture Organization) to bring about a regulation for all involved manufacturers to adopt the proposed technology. Ultimately, we aim to achieve our goals in addressing the pain points of the given problem: that is, to identify and trace back the origin of the ghost gear and, in doing so, use this data to direct volunteers and diving groups to search for ghost gear. This would eventually allow us to identify fisheries that are more likely to lose their gears and probably reach out to them to address the fishing practices, quality of gear etc. to prevent future incidents.We are thinking of extending the functionalities of P4G to include a secondary market for mildly damaged and/or unclaimed, retrieved gear.  
+ We plan to launch our platform this year! Our team plan on continuiing this project after this hackathon. 
+ Making the device wireless. Improve the shape, form and texture of the device.  
+  
+  
+ Add new content to the game (1 hour gameplay at least) and get the most possible inmersive experience in Google CardboardI'm considering to make a more polished version of the game for Vive/Oculus using motion controllers (if i get ones). It would be so fun... 
+  
+ Expand the web service into a full fledged social network for avid travellers and adventurers. Incorporate crime data from more cities. Work on our AI to the facebook chat bot for the service Suggest itineraries for upcoming trips. 
+ We definitely wish to expand and create more tutorials, along with creating a friendlier UX for the main interface. 
+ If people like this project, we're going to talk with Holly and see if we can get it into the product! We will also look at expanding this to include information like sponsor prizes and maybe even pull the table number from Neal's expo app. 
+  
+ We want Bulbul to be even smarter! Nerdy little birdie that learns from you habits and activities. Real-time, easy and accurate. 
+ Provision the teamsite if it does not exists.Upload documents from within the Add in.Use the Exchange REST service to store the information in a Custom Property 
+  
+ Multiple SessionsFurther in-depth analytics from an entire semester's worth of lecturesPebble / Wearable integration!@Deloitte See our video pitch!  
+  
+  
+ Persona and Medical situation driven engagement solutions 
+  
+ A complete rebuild. With more sleep and less hacks. 
+  
+ More levels and better compatibility. 
+ Possibly saving past custom pages and a clean up of our URLs. 
+  
+  
+  
+ We're hoping when properly implemented, our app can benefit communities globally allowing citizens to get involved with the goals of the city as a whole and allow the city to motivate and reward citizens for maintaining a positive community vibe. 
+ We are currently waiting for an API update that will allow us to improve performance of the Add-in 
+ I plan to add more animals to the game, some easter eggs and other fun features. 
+  
+  
+  
+  
+ NomaD isn’t just an application, it’s a movement. If it gains enough impetus, it could turn into an independent  social media platform for frequent fliers and avid travelers. This application will enhance the travel experience by providing travelers with excitement tailor-made go their own travel taste and rewarding them for what they love doing the most; TRAVEL.  
+  
+ Uploading the final project to the website as a linux executable and finishing up the UI with displaying the JSON output on the camera feed. 
+ If we can make more than a few and get some initial interest, we will try to make a few more quickly and sell them at Maker Faire. 
+ We would like to create a database of many genes in order to incorporate AI and machine learning to predict which mutations in oncogenic sequences are the most important. Moreover, increase the functioning of the GUI and increasing the number of statistics on the data in order to help doctors and researchers as much as we can.  
+ Adding support for more sensor boardsRemoving the web server from the equationConnecting more Amazon web services such as AWS Lambda and AWS Machine Learning 
+  
+  
+ This can be transformed into a framework, for creating similar escape rooms. This could be used in schools around the world to teach kids about algorithmic thinking, as they try to implement their own game. DEMO + testing steps/walkthroughhttps://drive.google.com/file/d/1DpyueHWp9_oK6rHHGgnDpUG_CrlaCVjV/view?usp=sharing 
+ We want to enchance the experience of the costumers by making the bot more "humane" and by adding more features such as finding the closest Vodafone shop using google maps. 
+ It would be interesting if we could build use glasses with embedded cameras that are connected to our server instead of a phone. That would be more convenient. Also, we could add other options like description of places where the user is, an option of calling automatically their favorite number if they get lost (which tends to happen quite a lot) etc. 
+ The team is constantly trying to make AllTheFeels more personable to the user. The team is also looking forward to create a web app that allows the user to use this service with more ease. Finally, the project is being targeted to be uploaded into the Amazon Skills Store 
+ Ideally this bot could be used to become very helpful also providing assistance to customer's with issues. This would could become a more user friendly way to help these user's solve their problems.Since we don't have access to pushing notifications until it's been reviewed we would also allow the bot to possibly push deals every once in a while to the customer. Account linking is also possible with the app, and if we link a user's account we can send specified products based on the user's shopping habits. Messaging apps are becoming much more personal than email and this could possibly have a more powerful impact than sending emails if this is done correctly.The wit.ai engine is also very powerful natural language processor and in the future incorporating this fully could provide a significant improvement. 
+ We are building pre-configured packages for common processes and industries. There are complete solutions, chat bots and RPA settings for Human Resources, Cost Control, Finance, Customer Support, Sales, Contract Management and Project Management. Pre build configurations are built with leader in their industry: Banking and Financial Services, Healthcare, Manufacturing, Real Estate, Construction, Oil and Gas, Retail. 
+ We've just (February 27th) opened up public access to the beta, with the plan of a more aggressive roll-out (and product map) in the first half of 2017.The developer API is scheduled for release along with the iOS app in mid-Apri.LinksTaggrr.ioTaggrr Chrome ExtensionTaggrr Outlook Add-InTwitter: @taggrr_io 
+  
+  
+ Champollion 2.0 will bring much more active help for palaeographers. Next step - available during 2017 - will be to let the users build and share their own palaeographic references. First tests are pretty much promising... 
+  
+ Complete Disease directory 
+ More resource management systems(food, water, fuel, etc.), hopefully colonization of Mars. 
+ We're actually planning to continue work on this after the hackathon. Firstly, we're really close to adding ASCII art and centering the output to make the interface nicer. We're also planning to create a proper (web-based) GUI for writing and playing adventures, to make it even easier for beginners to get started with AdvLang. Eventually, we'd really like to implement a multiplayer mode. 
+ We've discussed and think that approaching healthcare, and especially private clinics to pitch this idea and see what the mass market thinks.  
+ We are planning to publish FlappyU on Steam VR game website!  
+ The roadmap for menU is now to start talking to more restaurants around our area to get in on this idea to help the convenience and safety of their customers and potential customers. Every restaurant business wants to increase convenience, and what better way to do that AND increase business visibility by having their mark on the map with local users!  
+ More countries :) more features :) more improvements :) more more more everythingTry it outitunes.apple.comwww.producthunt.comweatherwheel.co      Submitted to    Make School's Student App Competition 2017Winner                10 Upvote Prize                  Created by  Lukas Boehler 
+  
+ More integration with its IoT functions, being able to control your house anytime, anywhere should be a given. 
+ Once we have the central functionality in place (including a secure back-end which can support authentication), it's time to prepare for all of the data the app will collect.  
+ Slack and email integration 
+ Integration with Facebook and other social media platforms!  
+ We can learn to analyze the components of the trash so it will separate metal and cardboard to helpWebsitehttps://icantbelieveitsnottrash.github.io/ icantbelieveitsnottrash.techContactraymondchen@icantbelieveitsnottrash.tech 
+ Some of the future steps needed in order for the technology to be efficient would be:Improve its power and stabilisation.Add the possibility of moving the equilibrium spots.Find a way to visualize and mark the equilibrium spots for a specific particle.Improve the capacity of the levitator, allowing it to move heavier particles. 
+ Flexible configurationAuto-indexing of files (currently imgrep init must be called to index new directory trees)Better web-uiEfficiency ™ 
+ Eventually we want to replace all human communication with Markov-chain generated, perfectly tone-acceptable communiqués, so that everyone is happy all of the time. No one will ever have to say mean things on the internet. 
+  
+ Adding more features to the application that allows it to grow and create a community. Stuff like public discussions arounds links, publishing statistics about newsletters usage.Building browser extensions that automatically allows you to register to these newsletter through our platformMachine learning to identify the un-important links.ImportantTo see data in the application immediately, you need to login with this account:email: aya@gmail.compassword: secretThe reason is that when a new user sign up, new user still have to wait till the system receive new newsletters so he can see it. 
+ A high score tracker Nothing much more. I will be looking to developing new Alexa Skills hoping to use the Echo buttons. Thank you for reading! Hope you have a great rest of the day!  
+ Upgrading to a drawer that you can't cut a hole in.A smaller form factor for the device.  Ideally, we would like to be able to adapt it to any drawer.Be wealthy enough to have valuable items to keep safe in our drawer. 
+  
+ We're planning to develop more mini games and add more modes to the game. 
+ We are going to upgrade the current product and enhance the accuracy of diagnosis. We will continue research and lab experiments in NYU, consult NYU professors and mentors for future developmentMoving on, we will conduct further analysis on the market potential, competitors and industry outlook for the sector. If the growth potential is high, we will consider to commercialize the product and make real changes to people's lives. 
+  
+  
+ Expand concert search.  We'd like to accomplish this in two ways: First, we want to leverage other event search APIs, such as Songkick and Eventful, so MyMusicMate would have a greater library of concerts to parse through.  Second, we'd like to expand support for cities outside of the US, starting with the rest of North America.Fuzzy search and related genres.  We'd like to implement fuzzy searching to allow for more accurate resolution of misspelled genres and artist names, as well as a "related genre" search to be used when the current search scheme does not return a sufficient number of events.Headless browser to unfurl redirected content.  Our current ticket links contain a JavaScript redirect to each event's respective ticketing page.  We will use a headless browser to grab the redirect link so metadata can be unfurled inside the final Slack message.Amazon Polly Integration. . We originally planned on integrating Polly with MyMusicMate, to allow for seamless concert recommendations based on users talking to each other about their musical preferences.  Unfortunately we didn't have enough time to accomplish this, but we would love to revisit this idea in the future.Smarter YouTube searches.  We'd like to redefine our YouTube search to prioritize videos from Artists' official Vevo pages and use the YouTube Music Insights API to prioritize videos based on popularity by location, depending on the user's city. 
+ I hope to continue this project for my own learning and also for the potential users of this powerup. Here are some of the things in mind that I plan to continue working on for TreeView for Trello.Card or list duplication/archiving using the tree 
+  
+ Part 2 coming soon! 
+ There's still a lot of improvements that could be made!The web ui could be improved,Notifications should really be sent to your phoneThe accelerometer could be used to determine how much fluid is leftUse the angle you have to drink at to calculate itShow stats for amount drunk/sip etc 
+  
+   I intend to expand the solution to take network availability into consideration using a swarm of nodes (low-cost microcontrollers viz., ESP8266/ESP32 or Arduino Uno connected with sensors). These microcontrollers can be run off normal batteries for extensive durations using proper deep-sleep/wake-up cycles  All the nodes connect over LoRaWAN (LOw Power Long RAnge Wide Area Network) to a central gateway. Raspberry Pi is used as a gateway and is configured as an IoT Edge device   The gateway receives the data from the nodes and sends it over to Azure cloud (MQTTS) as per the current architecture to perform predictive analysis, reporting and storage. In the absence of a reliable network connection, the Edge device takes over and performs these tasks  The Azure could sends in messages (MQTTS) to the gateway device (Raspberry Pi) to switch on/off the water pump/irrigation switch gates. This functionality is also taken over by the edge device if the network connection is unstable. 
+  
+ Finishing it and launching it on the Oculus Store. We'll also be trying to add multiplayer to the game as chess is best played against friends.How to installFor the installation I have provided a ConstructVR link. Sometimes, building the apk file fails, but I think this is just a problem from ConstructVR. Simply reclick Build inside the app and you will get the apk file in the end 
+  
+ Adding a way to recognize which foods can or cannot be eaten given medical conditions of the user (from a database).Using fatsecret's js library to find more specific information about the foods that we can look up (as opposed to using a Java library, which does not give as much detail).Adding a more interactive U.I, where the user can tap on each food returned by the image recognition, to view more details.Training the IBM-Watson AI for more accurate results. 
+  
+ I want to tweak sensors variables from the meteor web interface. It's tedious to modify the code and reupload it to aduinos each time I want to try a new values.I want to have only the owner who can see its feed. He could then share a view or a feed with someone else as he wants.I would like to have a more customizable dashboard, we decide which feed to see and in which graph we'll visualize the data.I would also like to have alert based on certain data values, and send email of sms depending on preferences.Adding a new client to feed data is not user friendly right now, I want to have this part made easier.Run your own serverThis is actually not a good idea at this point since you need your own sensors that respond to the high level RPC protocol. I suggest you use cloudiot.meteor.com to test the application. You won't be able to edit the feed metadata but you'll be able to feel the application.Packages Usedmeteor-platformmfpierre:chartist-jsmrt:bootstrap-3accounts-baseaccounts-passwordian:accounts-ui-bootstrap-3anti:i18niron:routerpfafman:font-awesome-4meteortoys:allthings 
+ Kanye UnREST?  More API endpoints API keys  Clean up the code Daemonize scripts Serenade feature 
+  
+ I would like to expand the assets and maybe add a few game-modes. And maybe team up with other people to truly make it better in ways that I probably cannot see.  
+  
+ Our next steps are: analyzing songs not only based on lyrics, but also on Audio properties and user preferences (movie already seen or corresponding to overall taste profile: mix or usual suggestion with emotions and current moods);improving the quality of the algorithm by analyzing words based on their meaning within the context of the sentence;adding buttons for appreciating how is the matching between the mood and the movies.suggesting songs based on movie. 
+  
+  
+  
+  
+  
+  
+  
+ Provide more safety features, and more quick-access meansCreate an API for iOS and Android for any app to extend our quick-access features.Try it outgithub.com      Submitted to    CHIMEHACK 2Winner                Chegg: Young Innovator (University Students)                  Created by  I worked on UX/UI/Branding design for ReaXn app and deck design for our presentation.Luna Chen2015 KPCB Design FellowI worked on the iOS development, specifically focusing on the gesture detection and location tracking.aspinI worked on the iOS app, especially implementing the front-end and connecting with the Twilio API.Benjamin ReynoldsCreative coder and designer | Software, Game, and App Developer @ MITDhruv PurushottamSonny Li 
+ More style/customization features. Also: What if you can leave these virtual 3D email messages for anyone to find? What if you can leave email in the real world without having to actually print it?  
+     Created by  vercruyssetimXavier Louppe 
+ Trading algorithms to design production level trading engines, to match the demand and supply of tokens.PPT link:https://docs.google.com/presentation/d/13TUXo1WNRE4Qf5WFdIpcB4WYBAbzqUmjxwcDYCRyaIs/edit?usp=sharing 
+ Deep integration with the existing 311 systems is an important next step for MyCity. The information we collect from the community using MyCity can be used to further enhance the already existing dataset.Design MocksWe've spent time mocking the future design state of MyCity and based on feedback from user tests have come up with the followingNavigation AppWe're keen to improve the navigation app and build out as better mechanism for scheduling the response and resolution of individual tasks. This might include a system where the general public could be crowd sourced for some tasks reported (that are safe to perform by members of the general public). 
+ With more parameters to establish a better result to display to a buyer, we can potentially make it even bigger and a successful auctioning website. 
+ Learning algorithm to detect and report abnormal usages of water through the usage of notificationse.g. “You’ve spent more time brushing your teeth than normal today”e.g. “We may have detected a leaky faucet”Vacation mode: No water is expected to be used this period of time, notify the user of water usageHardware extensions to automatically limit the flow of water when excessive usage is detectedExternal incentivization (Money, Prizes) to have high scores on the “scoreboard” 
+ Native appImproved OCRSuggested responses with option for text to speech in conversation modeWorking proof of conceptDemo currently only works in Chrome for PC and Android Deviceshttps://sato.learncube.com/ 
+  
+ I would love to extend the current OneGraph application to enable users to add machine learning automation for processing and responding to alerts from the Security API. 
+ New features, polishing, and wider access :) 
+ MoodAmigo's concept is easily scalable to support patients with other mental disorders, with physical rehabilitation, or simply elderly people who are living alone and need assistance.Besides, there are many technical improvements required, which were out of scope of this hackathon, such as a database to store the individual records. 
+ By obtaining a bigger dataset for our ML model and collecting more data on cognitive impairment, we could improve the accuracy of our algorithms. 
+  
+ Liquidation tools would turbocharge DC. Imagine trying to pass down your synthetic assets to your heirs after you die.  Future iterations of DC would allow users to liquidate their assets back into a common asset like ETH before sending it to their heir's wallet. Transferring NFT's would be useful too, all that land you own on Decentraland needs to get passed down too! 
+ What I'm working on next is to add more actions to the Plugin, there is no need to update the Extension as it's set up to get the available actions from the backend.I'm also planning on adding some more features to the extension, both for the broadcaster and the viewer. 
+ Speed it up a bit, and then attack the overplotting, streaming, and latency problems that will show up with increasing data sizes.Source here. 
+ Probably a world tour... to save the Earth. 
+ Pretty much. But really, who knows. We'll complete the feature set and maybe add a plugins system. 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+ Aamd o raft Lahore, Aamd O raft Karachi, Aamd O raft Peshawar are on us. We would need more people to help us out to take this solution to whole Pakistan. 
+  
+ Now the app has already got more than 200,000 user in Windows Store. The next target is 1 million users.touch experience support added after March 15 for this existing appBefore March 15, the touch experience was not supported well and some important touch experiences were not supported at all. Before March 15, sliding of thumbnails with inertia was not supported; sliding with XAML slider in the thumbnail view was not supported; the sliding of images in normal view was weird and full of bugs; sliding of folders after we add a lot of folders was not supported, and the sliding in full screen image viewer mode was not supported either. Basically earlier the support for touch experience was really bad. With a lot of improvements and bug fixes from low level with native C++ coding for gesture recognition, the touch experience is now roughly as good as mouse. 
+ Upgrade the DBMS from sqlite to MariaDB or Postgres to allow for phonetic text search for miss-spellings coming from the Amazon device.Include encryption for uploaded phone numbers.Add web-admin section to allow users to edit their uploaded contacts. 
+ Connecting it to online correspondence chess servers. 
+  
+ -Implementing VR -Building a full arm for positioning in three directions-Building a second arm-Polishing just about every aspect of our project 
+ We believe Switter can play a real role in informal finance education, but to get to that point it needs to become more of a generalized learning platform. Here’s what we have in mind:Expand the number of news and social media sources used for displaying sentiment about different companiesAdd an extensive “resources” section with embedded videos and learning modules for financial educationTest the idea of a “mock investing” section with users to see if that would be a big enough benefit to justify its development 
+ Use this to get feedback from the industry. This was just an idea, I need to make sure there's actual use for it.packagesiron:routerfastclickjquerylessmomentjs:momentunderscorereactive-varvelocityjs:velocityjslinkscode: https://github.com/devshahani/kindsharedemo video: https://www.youtube.com/watch?v=IRaJX0dTSH4 
+  
+  
+ We see Cash Only becoming a platform like Lyft or AirBNB, where individuals can disrupt corporate monopolies and everyone gains convenience.  Future versions of Cash Only will include a gamified badge and rating system so users are held accountable for making exchanges. 
+  
+  
+ Securement of more than one communication tool and follow-up of rescue support according to the safety situation 
+ -Use Presence Insights service-Provide screens for iPhone. 
+  
+  
+  
+  
+  
+ We think we could include more functions, which would be activated by double-clicking buttons. We would like to integrate GPS, so Creepr could send texts with our location, and possibly tie in apps like Tinder, to enable sending pictures of who the user is with. 
+ World domination. 
+  
+  
+  
+  
+  
+  
+ Completing the application based on the attached wireframe.Testing InstructionsUnlock the Samsung Galaxy S5 from the MagicHELP team areaOpen the "My App" applicationHere you can do the following:** login with marius@api.ro / 123asd (MagiCAMP account)** login with alin@api.ro / 123asd (volunteer account)** register a MagiCAMP / volunteer account** create an "Accommodation" (Cazare) request type with a MagiCAMP account** accept / refuse an "Accommodation" (Cazare) request type with a volunteer account 
+ We'd like to provide access to street performances with tourists as well as resident new yorkers. We hope to help underground artists have an opportunity to shine and make their name.  
+ In the future we hope to add more security measures to the blockchain and implement two factor authentication in an effort to live up to our mission and make voting even more secure. To make it viable in the real world, the incentive for mining must also be expanded upon, so only those who accumulate enough credits will be able to run custom polls on the blockchain. Finding a way to make a more robust registration system which verifies an individual’s identity will also be a major leap in making P2Poll viable in important referendums and even elections in the future. 
+ Seamless sharing with friendsEvent managers can monitor poster exposuresDevelopers can create powerful connections with users via Eventual.ly e.g. link to ticket vendors on Songkick via Eventual.ly 
+ Concatenation of advanced functional groups that can assist students in learning organic chemistry and biochemistry.Fireworks! You can choose metal molecules that, upon death, will result in beautiful fireworks.Increased variety of starting molecules, with increased aesthetic design.Additional stages: instead of turning directly into a diamond, have intermediate stages, such as a buckyball.Increased difficulty of later stages >:^) 
+  
+ We have lots of idea in the making like a new Extension Backend Service (EBS) who will manage new things. Until the full release of the extension, we'll release limited information to the public. We save the coolest updates exclusively for later. 
+ We are hoping to improve the API so it is more obvious how to use it, and eventually, we want this to be independent of matplotlib, so it can be used to plot with bqplot, or altair as well. We also want to incorporate higher dimension graphs instead of just 2D plots. 
+ We would love to scale our application storage by storing the recorded videos in the cloud and making use of memory resources in an efficient manner. In addition, we would like to make use of information available at public criminal registries to distinguish between people who can cause harm to others. Furthermore, we are hoping to provide support for common security devices. We are excited about the potential and the impact our application can have on human lives all around the world and are eager to dive into it. 
+ Next up is automation for scaling this up to many products. Automate the identification of groups of products that can be displayed in this type of widget. Automatically scrape the silhouette shots and skip products that do not have white background silhouette shots. It would be exciting to try a really densely populated product class with more than two key attributes. 
+ Cross-Platform AvailabilityEmotion Recognition using CameraPhysical Activity TrackingSet and view appointments 
+  
+ We will continue to update and improve the website to provide more features. 
+ TravelSafe is a great idea and it can become even more useful by improving its navigation, UI and adding features such as reporting of water logging during the rainy season, reporting of encroachments by vendors on very busy roads. These are the kind that would make daily commuting safer for everyday users. 
+ We would like to expand the language to support further interaction with the user (being able to prompt them for program inputs, implement a simple drawing and animation API). We also would like to create a web front-end to allow users without an iOS device to program in icecream. Happy coding! 
+ Integrating mobile wallet for commuters to easily purchase transit ticket, expense tracking, and rewards from one single app.Oodles aims to revive & help the city of Detroit's businesses & their communities thrive.Oodles is excited and looking forward to working with Ford & the city of Detroit  to build out a safer & more reliable mobility solution. Further, Oodles Rewards would like to explore the option to partner with Ford, TechStars, Magna, McDonalds, Verizon, Michelin Tires under the Detroit Mobility program. 
+ Different and more efficient ways to find an item you want. A way to land things instead of trading them permanently. A reputation system that makes you feel safe about who you're lending your things to. 
+ The initial HoloMeeting-Client currently provides a shared virtual presentation screen with basic previous/next slide controls. It would be useful to have annotation options, shared audio (currently remote cilents have to join by phone for audio) and a more fine grained permission model. 
+  
+ We've only scratched the surface of roadmaps in JIRA. Up next are a quarterly view and markers to denote events or Versions from your JIRA Project. And that's just in the next few weeks. What comes next totally depends on the amazing customer feedback we receive. 
+ I will add lives and more levels.  
+ Next would be integration for sensors and mechanisms to control the PH etc... 
+ Make the app more user interactive and improve the user experience 
+ Listening to user feedback and watching for unhandled requests from users' commands are vital to making a 5-star Skill. I'll be monitoring user feedback closely - both in reviews and via direct emails from users - to see what sounds I should add next. Additionally, I'll be using the analytics I've set up with VoiceLabs to watch for different variations of spoken names of sounds which I did not account for so I can improve the Skill's ability to play the right sound no matter what alternative name a user may have for it. 
+ Woxi is currently tackling a small part, voicemail optimization, of a potentially huge cognitive smartphone assistant app used to automate tasks. In the short term, we want to expand our keyword algorithm to incorporate business scenarios. Woxi as an artificially intelligent secretary. In the future, we plan to utilize Watson's Retrieve and Rank service to improve our keyword algorithm and smart reminder feature using machine learning. Woxi will be able to learn from each voicemail you get and make more detailed and elegant calendar events. 
+ Integration with Jenkins/TravisCI/CircleCIAbility to show results of multiple build-servers in a sidebarA behind-the-firewall version 
+  
+  
+ Integrations, integrations, integrations! We wanted to link our app, the Skills tracking app, ZiBot and ASQ. This is definitely going to land on our todo list soon. Dynamically adding the office desks from admin.Improving and customizing the Front-end.Mobile version.Integration with Google calendar and show meeting rooms availability.Testing steps:Admin:Add a new employee in the zitec officeGo to https://hq.zitec.com/adminExpand Office settingsSelect the Office optionSelect one of the floor at which the new employee will be installed (for example: etaj 5)Fill in the employee nameAdd new deskMove the pin on the map corresponding to the position of his officeUpdate the changes.  
+       Submitted to    IoTHackDay 2017Winner                Crowd Favorite                  Created by  Before hackday, I help planning and acquiring materials. I worked on our control dashboard, integrate the GUI elements with backend codes to display live data. However, I ran into problem from using REST api and get data from Adafruit IO to plot the data live, so 10 minutes before time’s up, I created a set of dummy data to show the graph to our audience. In this hackday, I learned how to use ProgressiveBar JS, Node JS, and Electron platform to build the app. This was also my first time colloborate with someone on GitHub to create a working application, so it was a little frustrating at first when I have no prior experience working with GitHub through terminal. Thanks Priscilla for helping me a lot!Kiet Tranthe project was interesting to me because it is something i have looked into in the past in both the homeowner and the agricultural applications. when i signed up to be on the team i had certain ideas as to where the project would go and when i got to the hackathon i discovered the vision was different.i worked with the other team members to craft the project toward a market friendly product that would be appealing  from a finished product point of view. as we worked toward the end product i helped to keep the goal in focus and helped out as the team figured out what should be done in initial phase and where we could go down the road as we progressed if taken to market.  great team. talented partners. i hope it goes forwardtim joneshardware/software integration: gathering data from sensors, creating code protocol to send data-driven messages to the web & phone, integrating services into seamless user-friendly interface. jazzijTali NeidenfeuhrPriscilla 
+ Our project - just first step on the track of extending Pepper's capabilities by machine learning.It can be used in such areas like Pepper's teaching, performing simple human-like autonomous tasks and some other things that you can imagine.  Right now it capable of mirroring your hands movements but it's rather simple to add other behaviour like moving back/forth or even trying to dance with you =) 
+ Buttons and a more clean look with actual character designs instead of just shapes 
+ In fact, there is a lot to do in my code in the future. The skill can be equipped with ways to read a file, or write to a file. Adding the ability to make a list or array is also a great future works, which enables this skill to be used in writing more complicated codes. We are also enriching the mathematical and control-flow statements of our skill. 
+ For reduce users' tasks and focus on their important things, this bot will helpArrange group meetingArrange 1:1 with his/her team members automaticallyArrange meeting with external usersBook meeting roomFind restaurant, hotel and more.We want to reduce user's daily tasks and wish them to achieve more.How to tryIt is now private beta and we introduce how to use it only to judge people. 
+ We want to build more code quality visualizations and also provide statistics on the Java package level. We also plan to integrate an issue tag cloud. 
+ Well, as we have just released the very first version of our product, I guess our clients will tell :-) 
+  
+  
+ YC W2018NOTE: Please turn on the CAPTIONS on the demo video. It is intentionally lacking audio, to demonstrate the power of captions.      Submitted to    TechCrunch Disrupt SF 2017    Created by  Ravi MandalaBuchi Reddy BSiva Sa 
+ We plan to have a seamless integration with Atlassian Portfolio, multi projects analysis view, and many other features which will benefit enterprise organizations. we plan to make it a standard default addon, that every development team using Jira will install and improve its planning and tracking capability. 
+ Extend to other use Hajj cases and review the API for full coverage and ease of use and effectiveness.Extend the functionality and its usage to other events and use cases e.g.  Charity organizations to get notifications from refugees or vice verse. e.g. the Mediterranean Large pilgrimage events around the world.Other emergency services ( fire brigade, police, traffic, ..etc)Enhance the user interactivity, due to non-Arabic language support, we have tried using Google Assistant actions using the English language to request medical assistance. We would like to extend this to the top 10 most used languages in Hajj and extend the use cases and interactions to provide hand free interactive manipulation of such apps when needed.We started with the concept of trying to be easy to use language agnostic app, we would like to export more ideas in that regard. 
+  
+  
+ Improve UI/UX. Access the app without unlocking the phone. Publish on Android Play!  
+ Send a mail to the picked volunteer. Package properly and upload to Google Play. 
+  
+ Simplifying routine health monitoring tasks with simple voice commands.Giving recommendations according to health conditions.Flashing alerts when health is critical using deep learning. 
+  
+ A huge benefit the scalability of this solution. More information can be added onto the EHR and Blockchain integration will allow for an extra security measure to the server. Integration into current EHR programs would expand the functionality. Literature and SourcesMakiani, Mahin Jamshidi, et al. "Drug-drug interactions: The importance of medication reconciliation." Journal of research in pharmacy practice 6.1 (2017): 61.Menachemi, Nir, Adam Langley, and Robert G. Brooks. "The use of information technologies among rural and urban physicians in Florida." Journal of Medical Systems 31.6 (2007): 483-488.Ray, Pradeep, and Jaminda Wimalasiri. "The need for technical solutions for maintaining the privacy of EHR." Engineering in Medicine and Biology Society, 2006. EMBS'06. 28th Annual International Conference of the IEEE. IEEE, 2006.de Mul, Marleen, and Marc Berg. "Completeness of medical records in emergency trauma care and an IT-based strategy for improvement." Medical informatics and the Internet in medicine 32.2 (2007): 157-167.Bledsoe, Bryan E., Chad Wasden, and Larry Johnson. "Electronic prehospital records are often unavailable for emergency department medical decision making." Western Journal of Emergency Medicine 14.5 (2013): 482.“Internet/Broadband Fact Sheet.” Pew Research Center: Internet, Science & Tech, 5 Feb. 2018, www.pewinternet.org/fact-sheet/internet-broadband/. 
+ We'll release this features soon. 
+  
+ I Want to create a native component as container of my code activities and look into a limited GUI to for example select the mail folder. As a further step I also want to resend a mailItem object directly once for example when it is detected as not yet responded in time. And I was thinking of creating a component to send out calendar invites.Demo'sdemo: send mail with dynamic number of attachments and move mail automatically to an arbitrary folder link.demo: split mails into list of replied and unreplied mails  link 
+  
+  
+  
+  
+  
+ Spread the word and get people using the first version of the app.Recognise different stickers and count the numbers of Hackathons attended. 
+ Use the technology we developed for cyber-bullying prevention and future social-good technology applications[1] : https://www.youtube.com/watch?v=TCY2dOf2eMs&t=1016s 
+  
+ We would love to see this product adopted by customers in order to get some feedback. Although we already have some additional features in mind, we want to listen to users first to identify their needs, and invest time where we can help them most. And as not all of you are using Confluence in the Cloud, we also have plans to work on a server version in the near term. 
+ If you liked Red Riding Hood we will create an interactive version of The Jungle Book, where you will be able to decide if Mowgli was a boy or a girl (Mowgla), the plot would be different depending on that choice. Also, you would be able to play as Baloo and Bagheera. In each case you would make many decisions and discover multiple alternative paths and endings. Wouldn't that be great? 
+  
+  
+ Next I plan to add more levels with more programming concepts for players to learn, I also plan to add other game modes to make the game more fun and also add better visuals.Note: This game is intended to work both as a VR and 3D application, but it has not been tested with any VR hardware yet. 
+ An ICO ;) 
+ Stream directly in a Facebook live video ( I couldn't finish this feature before the deadline :c )Video & Audio streaming to improve the experience Show in the browsers the website result Record a session and publish the video in the siteMultiple files supportSnippets CollectionStatical Analysis using lintersBuild IDEs plugins to provide this features too 
+ We would like to add more functionalities to SnapSort to enhance its usability, some examples:More items identified: Now we can only classify one object at a time. We want to allow the user to have multiple objects identified potentially and select on each thing to see its categoryMore informative suggestions: If the user identifies say a plastic bag or food box, we can give a more informative suggestion with added recycling-related schema such as telling them if the plastic box contains stains, it's not recyclable and otherwise, it is.Report: A user report with more educational/meaningful information could be provided based on user data.PK Mode: There can be a  social media aspect introduced so that user can see their friend's statuses regarding their garbage classifications and how much energy have they help save.  We would also like to deploy it to app stores or fine-tune our web version of the interface so that people can use it and we can get user feedback. 
+ Find friends/familyLocation based newsCommunication between friends/family (Chat, voice, video)Calendar / EventsTranslate tool for common local phrases 
+ We're thinking about implementing an array of these devices along riverbanks with GPS sensors to effectively estimate the time when the flood will affect the community. We also want to use a cellular connection rather than WiFi to send flood data. 
+  
+ The future of FamBillBot is to help users manage the payment of all household bills (gas, broadband, Telephone, DTH, & etc) via different payment options like Internet banking,Paytm, etc.How we planned & executed 
+  
+  
+  
+  
+ Future possible implementation: Obstacle Avoidance -Automatically detect and avoid Obstacles.Auto Pilot Mode - Think about a Destination such as Kitchen or Hall and it will get the user there in Autonomous Mode.Emergency Braking System - If user abruptly closes his eyes sensing some danger, then the Wheelchair will stopStaircase Climbing Mode - To assist the elderly to help climb the stairs. 
+  
+ Given more time, Matchstick will:integrate Uber / Lyft ASAP in case of emergencyorder test-strips directly through SMSprintable summary reports on customized time basis 
+  
+  
+  
+ We plan on extending this extension and adding a sync feature. This can be used by users to sync their passwords across multiple devices. We also plan to develop a mobile app and a firefox plugin. 
+ In the future we plan to expand our company and product and make Robovison a global brand. We envision us expanding our product beyond the device bot we have created here to additional products such as drones to accompany individuals, and will be released at a cheap and easily produced format to revolutionize the medically impaired assistance industry. People who are unable to pay the high cost for guide dogs but do not want to sacrifice their safety or mobility will now have a viable alternative. 
+  
+  
+  
+  
+ Implement A/B testing so marketers can determine which versions perform better in real time.  
+  
+ The next steps for WeeFee include implementing an account management system with authentication and billing. There is definitely a need for WeeFee - we just need to get the word out. 
+ TODOLinkshttp://jmfurlott.com/tutorial-setting-up-a-single-page-react-web-app-with-react-router-and-webpackhttps://facebook.github.io/react/docs/getting-started.htmlhttps://facebook.github.io/react/https://github.com/deslimstereact/de-slimste-reacthttps://github.com/butskri/DeSlimsteMens 
+  
+ MapMyNews will integrate facebook and twitter feeds and display based on location. Also, we are planning to incorporate location-based advertisements as a part of our business model. 
+ I'd really like to look into adding some traditional-style guitar effects (distortion, etc). Reducing the latency is probably top of the list for now though. Not entirely sure how I can do that! 
+ We’re excited participate in this challenge and were very happy with everything we were able to build out for Roll Together from scratch in such a short amount of time. The initial reaction we’ve seen for Roll Together has been tremendously supportive - many of our friends who have tried the app wish they could start tracking their own trips and pledging to new transit routes in our home city of San Francisco. There is still much to do before Roll Together can be launched in a new city. Based on the feedback we receive from this challenge, we will make some changes to our platform, try to raise funding for Roll Together, and choose a city where we can launch our first public beta. Who knows - perhaps we might find ourselves in Sao Paulo before too long! 
+ More functionality and move from read only to read/write functionality   
+  
+ Blockchain based Risk Management is a very nascent field. But it provides tremendous hope and opportunity. I plan on pursuing this as P2P finance can create a more Egalitarian TaxiCab Sharing ecosystem that rewards taxi cab drivers, passengers and Car Manufactures.This model can work in Morocco, Mumbai and Mexico City. It is globally scalable.  
+  
+  
+ More complex models trained in-house and social feed integration (i.e Facebook, twitter) 
+  
+ A prettier UI, support for Bitbucket and maybe automatically generated pull requests. 
+  
+ Better integration with Cisco AXL API to automate advanced call routingCreating PRI Trunk groups in SplunkAdding support for non PRI voice service (SIP and POTS)  
+  
+  
+ go to Alaska and break some ice 
+ Maybe more n-dimensional projects 
+ Connecting on social networks, sending invites.Create a Map of Connections - where, who and when did you meet somebody.Enhance the algorithm for detecting handshake gesture.Give the possibility to the user to define its own gesture. 
+ More Modules and changes up gradation to Higher school with equation solving to be integrated. 
+  
+  
+  
+ Funding! More testing! Hiring an app developer, illustrator, voice actor. 
+ Pointing tool (laser pointer?)More robust CV pipeline? Machine learning?Optimizations: run stuff on GPU, cut latency down, improve throughputMore 'multiplayer' stuff: arbitrary rotations of pages, multiple keyboards at once 
+  
+  
+ We hope to one day see this implemented in real life.  
+  
+ Buddy will be venturing on to increase the depth of our phone usage analysis by not only including screen-on time but also usage by app. We also highly value user experience so we are looking into creating more customizable options such as different species of pets, colours of fur, and much more. An IOS app is also being considered as the next step for our product. 
+ Dream.it currently is capable of generating shoes, shirts, pants, and handbags from user sketches. We'd like to expand our training set of images and language processing to support a greater variety of clothing, materials, and other accessories. We'd like to switch to a server with GPU support to run the cuDNN-based algorithm on CUDA. The next developmental step for Dream.it is to connect it to a 3D fabric printer which can print the designs instantly without needing the design to be sent to manufacturers. This can be supported at particular facilities in different parts of the country to enable us to be in control of the entire process.  
+ I plan to make Lexy smarter by implementing more investigation flows and a broader range of verdicts.Educationally, I'd like to take this game to the next level and introduce more concepts from the legal system such as an alibi, an objection, and more. I currently chose not to store any information about the users to make sure I comply with COPPA. I plan to look into it further and see how/if I can create a more personalized experience and create more value for returning players.Thank you for reading and I hope you enjoy it! Would love to hear feedback at Pretzel.Voice@gmail.com 
+ viewing logs in realtime integrating with Arachni and SQLMapintegrating with ADintegrating with Jenkins and adding the option to launch scheduled and/or recurrent scans 
+ Automated image recognition, and finding the people near you without even telling the app through an API. 
+ We are hoping this solution is considered as one which really stands out. We are also looking forward to a time where this solution would be recognized nationwide and globally. Even if we do not win the Hackathon, we are still winners because a solution like this would really go a long way to restoring the nation to glory.If this solution is considered, we would strive to bring it a reality. We are taking the little steps by participating at the hackathon now, the milestone would have been achieved when this platform is already in use by the whole federation. 
+  
+ We really want to add a feature which allows doctors to keep a track of their patients and send them a report accordingly and also to book an appointments and visits to the doctors. 
+ More instruments and better music. 
+ Adding an autocomplete function using NLTK to the morse code input.Improving accuracy of gesture detection.Finding a method to adapt the scripts to all websites - or to provide easy steps to integrate the system into existing websites.Adding browser control - switching tabs, opening settings, opening history, etc.Switching between pages on the same website 
+  
+ We want to lessen the manual parts, try to automate as much of it possible so that the streamer can focus on their stream. Also we hope by viewers seeing the types of mission ideas certain streamers are getting, they can send the same mission to other streamers. 
+ Bringing this app to market would revolutionize the travel industry and open up the tourism market to smalltown locals all over the world.  Recruiting these cultural experts as modern "travel agents" will ensure no one will ever have the same vacation twice ever again!  
+  
+ Next steps will be:Developing hardware system for vehicle stations and vehicles itself. Combining ready solutions for piloting gyroscooters and developing our own technology to ensure user safety.Creating integration with EMBERS Routing API by exploiting OpenStreetMaps outdoor map encoding.Adding Parking and Traffic API for stations and routes respectively.Contracting with actual office buildings to deploy technology to real world. 
+ Get instagram's approval and be able to make it public.Use the images captions to obtain more information about the emotions related to the picture. 
+  
+ More intelligence, better prediction using more sophisticated language analysis. More flexibility for constructing templates. 
+ We hope to onboard as many organizations as possible to the platform on our mission to accelerate the development of cures and therapies. 
+  
+  
+ Although we're satisfied with the progress of LeARn thus far, there are a few more features/fixes we'd like to implement in the future. For one, we began to implement voice control via Houndify. Unfortunately, we didn't have time to bring that feature to fruition, but we would like to see this completed down the road. We'd also just like to devote more time to improving the user experience and visuals. 
+ I plan to use machine learning algorithms to predict what users want every time they use the "Pick For Me" button 
+ The next release of ORB will involve an easier level system and also a store, which has already been completed. The store has all sorts of add-ons, such as the function of shapeshifting so the ORB can fit through crevices in between rocks. To purchase items in this store, there is a collection system and a streak system. Once you've tested it, you'll realise that I obviously plan to make the game easier - the difficulty curve is not perfect as yet!The latest build of the game (when uploaded to the App Store), will also have a checkpoint/milestone system. If you pass a streak of five (or any other multiple of five), you will always start at that checkpoint.  
+ Create missions and stops. More conversation with characters in each stopMulti levels and achievementsMore playgrounds. GameplayRequired Bluetooth GamepadThe game is compose of 3 scenesScene 1: Everilda is talking to you asking you to take the message to the king to save the city.You  have to leave the village to continue to scene 2 in any direction. You navigate using the analog controller of the gamepad.Scene 2: is the game Main Menu to start play the game, select Run.Scene 3: You are in the road running to deliver the message to the king facing obstacles all the way.Game speed increase when you reach some milestones; at 500 and 1000.Gamepad  control:Y: JumpA: RollB: RightX: LeftFire1, Fire 2 and Fire3: Throw weapon, Toggle  between First Person Camera(recommended for immersive experience) and Third Person Camera.Feedback is appreciated for better game. Enjoy the experience! 
+ We currently have a commercial version of our software in use at five hospital systems around the country.With respect to the technical aspect of our company, we have the following items in our roadmap:Further allowing for integration with major EMR systemsFacilitating quicker development of surgical workflows 
+  
+ During this limited time we mainly implement the necessary features. But we have planned to add new features to smooth the user experience of Pinage. For example,  till now the message lifetime of Pinage in server is one day, but we have a plan to extend this so that user can have multiple option for the message lifetime such as one hour[for short message], one week[for long lasting message] or message with lifetime validity. We are also thinking to add message conversation for a particular topic in private or public mode.  We will also add the social network like facebook, google+ for signin or to allow user to  import their contact or share their public message. 
+ In order to use it:Download the Google Drive folder (bit.ly link) and extract itOpen Chrome, go to chrome://extensionsCheck "Developer mode"Click "Load unpacked extension..."Navigate to the downloaded folder and click 'OK'.Enable to extension and open a new tab to begin your adventure.Or follow the instructions on the github page. Enjoy! 
+  
+ The solution we built needs to hook up to the existing backend. And the web and android app has some more coding to do. We will provide the code we have and guide Khan Academy on what remains. 
+ For next release we are considering integration Group Calendar and making an Excel add-in for organisation that are tracking many deliveries 
+ Developers will deploy my solution in the majority of their VR Websites. 
+  
+ Maybe this is be the landing space for my thoughts as I enter more hackathons and chronicle the experience of getting better at coding  
+  
+  
+  
+ Recap will soon feature more classroom management, to make it easier for peers to connect their notes and for professors to track their student's progress. Additionally, it can support transcriptions, and then let students know which part of the lecture they might have accidentally slept through.  
+ Project Julius is in a state such that it can be applied in many situations, however it isn't ready to be released fully. We hope to continue development and create a fully refined and deployable application. We would like to contact Epilepsy Action in order to verify that our program would be effective and available for as many people as possible.LinksWebsite: projectjuli.usGithub:    github.com 
+ Next we would love to add a feature that allows folks to identify a Bird they have seen using various physical markers such as coloring, length, beak size, etc. 
+  
+  
+ The subscription model for our system as freight delivery is a massive and underestimated B2B sector. Companies paid us for service access and all blockchain expenses every month/year etc.Solve difficult supply-chain cases and give more info about cargos. 
+ Coming to the App Store soon.  
+ We're going to hook up our API, build out our contracts, work out distributed data storage for these large rich documents, and verify that we're collecting all the necessary data we need to make this as beneficial as possible for the community. 
+ Include more users and industries that rely on environmental monitoring & control. Sensor data posted onto an IoT blockchain will create more advanced and efficient AI, and eventually an autonomous network of agriculture IoT. Web3 for Industry 4.0 
+  
+ With more time to learn about android and iPhone development, a proper app could be made, so the users would not rely on a web app.Try to standardize the format a bit more, and explore possibilities in machine readable labels, that look better and more memorable than QR codes. 
+ We plan to further explore what can be accomplished with the blank canvas of virtual reality when it is applied to making learning fun. 
+ Backup / Restore the plans in Planner including the attachments and conversationsCopy / Move / Repeat tasks in PlanLink dependent tasks. Based on dependent tasks, automatic calculation of Due Date 
+ We will see 
+ We envision PillPal being a household amenity for the growing baby-boomer generation.  
+ Hopefully we will expand it further to include a wider range of pokemon and moves that will allow the game to be as close as possible to the existing games. We are also looking forward to add voice recognition and motion capture for body movements. 
+ We’d love to expand on every aspect of our app. This means we’d love to include more and more social media outlets to better refine our data set, and thus use this to refine our machine learning algorithm as well. We also believe that this app would be effective across more platforms - from mobile to tablets to smart watches. If there’s an influx of negative social media coverage for a particular company, having a mobile app ping our users would be highly effective in helping them save money in the stock market.  
+ We would like to continue to get user feedback and improve the experience of the app. After that, we could easily release it on the App Store or create an accompanying Android app. 
+ Push to Rice apps where Rice students work together in every week for some interesting projects. Make logging website, and make Android, Windows Phone client. 
+ We will try to work on future updates where we will have our application responding to dialogs and user's voice so that full application can be used by saying voice commands and quick gestures in order to make it more adaptive and accessible to the visually impaired population.  
+ We want to add functionality to express-refill prescriptions from Amazon Alexa, but we would need permissions from Hy-Vee to do so. We would also like to add a shopping list feature to add groceries you look up. 
+ Parse PDF and paper invoices to generate digital invoicesAutomatically detect supplier and pay through Visa direct secure channelIntegrate with exisiting invoicing toolsProvide financing optionsMake Money! 
+ More planned updates in future 
+  
+ Auditing the existing contract, adding a global token layer and accepting collatoral in Dai, experimenting with different curves, and experimental interactions between memes-as-an-NFT and memes-as-fungible. 
+ We hope that Munch launches  across campuses in the US and then globally! 
+ work on NFC payment gatewayfield test our solution with Umrah/Hajj service providers 
+ Render the Mapbox Layer of features we assigned in the map like points and paths in Unity.Integrate with indoor position reference provider such as Bluetooth beacons. 
+  
+ I may publish it on the App Store upon crediting the free Icon packs and quote images I used.   
+ To improve Face Recognition accuracy to distinguish between still images and an actual human. 
+  
+  
+ The back-end and front-ends can easily support real time updates via a WebSocket connection - we just didn't have time to implement it. That'd be next. Maps integration (show a map from the user to the parking lot) and filtering (by which lots the user has access to) were among the ideas considered but were not implemented due to time constraints. 
+ More features! The Gnu Project is nothing if not gnu. It has a long life ahead of it. 
+  
+ Adding AI to correlate more data (sources) and use intelligence to reduce the number of false-positivesIntegrate SOC services like vulnerability scanning and new(s) malware reports for our customer (CISO) to give them a peace of mind  
+ Going to turn it into an Open Source XR platform and hook up the time machine to every LifeScope user! 
+ Integration of additional sensor data, including (but not limited to) accelerometers, GPS, and gyros. Construction of a more durable and marketable frame for extended use. Attachment of physical container for cargo and luggage transport. 
+ Implementation in parallel to optimize performance on supercomputers. 
+ Code release, open-source the underlying code which can be integrated into other apps by developers.A tutorial to get people started with working with the Azure services along with the code. 
+ Adding 1k movies to our database.Creating new great search filters like: choosing movie by color, filtering by character's clothes and so on. 
+ Open-source production ready solution for oracles with a significant amount of inputs with new SNARKS and great UI/UXContract addresshttps://rinkeby.etherscan.io/address/0xc9f8561988c02ea62697dc1331f4c36baf351a88Small presentation about itHere linkBot demoHere linkWe have a bot which demonstrates how to push data with snarks@votesnarkbot in Telegram!Video demoHere link 
+ Hopefully Applause.Please clap. 
+ The App Store! The app works really well, and the design is polished. We plan on completing some additional user testing and then publishing the app for anyone to use with their friends! 
+ Norton and Thevenin Equivalents. Yikes. 
+  
+ Making Bob more human-like. Let the user customize their experience with Bob, allowing user to decide what kind of sentences structure corresponding to what commands by using IBM Bluemix.Table number860D2 
+ Paperless plans to create more user-friendly features. We plan to make the system a resource to manage finances as well.  
+  
+ We need to make it more secure... it's very hackable at the moment. We also want to let people monitor their bandwidth and recover other devices using Facebook auth or Uport. 
+  
+  
+ A better interface and clear functionalities. To make the interface friendly to the general public, we need to restructure the UI and list the functionalities more clearly.Get more data. Currently, we have the entire dataset of Google Fonts, but we need to get more data with valid licenses.Investigate the representation of vector paths. The existing work uses simple VAE and sequence models to generate characters in a one-pass manner. We have ideas of extending the work to a multi-stage refining process of the paths with a global context, a potential topic that can turn into a research paper. 
+  
+ Become ProductHunt's "Product of month" =) 
+ Additional features to be shipped in in the next phase and also expect a cross platform desktop app made on electron js  which is currently on idea phase. Hamaisha goal is to be a  complete platform with a web app made with react. 
+ We want to be showcased as the platform that drive users and engagements to the games and we want to be go-to-app where gamers come together to socialize. 
+  
+ Watch with us, Type with us, Learn with us... 
+ Changing the structure of the software architecture by adding NoSQL support (MongoDB) in order to get all data from a single source (not hybrid sources as we do right now).Also making available to web. 
+ Depending on the feedback I get from customers, I might add a list view where users can select what they want to watch.Add new media files.Automate the media upload process. 
+ Assembling the wiring and circuitry of the smart fishing rods, making decoy fish, programming everything on the teensy, programming the motor and testing the mechanics of the motor driving the wheel under the wooden platform. 
+ Add support for many more photo categories like "show me fall photos" or "show me animal photos". 
+  
+  
+  
+ Trying to find the support to turn this drone into a reality where it can be utilized out in the field. What would be ideal is to use holograms on the propeller blades, instead of aluminum, and to use a high-powered UV laser. The future drone will also come with a companion rover that is a land-based robot that can manipulate obstacles and objects in the environment to deal with unfamiliar terrain and situations.Important video links that should be viewed to show we've done technically! Since we were not allowed to demo our hack the way it was meant to be used indoors:1) Ultrasonic distance sensors working: https://youtu.be/2WZT5U6yAT42) Sputter coated aluminum propellers: https://youtu.be/uWcDtlGyKJg 
+  
+ Open sourcing the project, making it available to project teams actively involved in the field who might be able to implement and really see this kind of technology change things for women in a meaningful way. We are keen to do what we can to support these endeavours.  
+  
+  
+  
+  
+  
+  
+ Develop other apps that companies want us to make. 
+  
+ We want to actually finish this game eventually and post it on itch.io or Kongregate.  
+ Right now we have a solid little game. The next step is to let people play it and get some feedback. We have some ideas for how to extend the concept with some new features and game modes, but it'd be good to watch some complete strangers get to grips with it, as that's a good test for what works and what doesn't. 
+ This is too cool to not be put out into market. We hope this can be on the legs of people who need it most with the help of the university and the health tech community. 
+ Extending the same support for images and voice messages as well 
+ With so many data input options in the hospital environment, we feel that the ability for patients and professionals to sort through the data in a quick and meaningful way would further catalyze the patient care process. Additional functionality such as larger multi-media support, with some autocomplete and search options could make Median even more useful. We are also planning on integrating Median with medical FHIR API's to integrate data and data analysis into our application.  
+ Introduce more types of multi routes options, like uber API, and carrot, unfortunately looks like carrot does not have any API exposed to developers. 
+  
+ This is only the first step of the Ingage platform. The bigger picture stretches far beyond the mobile application for employees. Companies will have access to an admin dashboard with they can track the status of employees, create healthy events or interventions and immediately have their employees notified and capture confirmation/attendance, as well as integrating biometric data and HRA for a complete wellness picture of their entire company in real time. 
+ Additional environmental feedback devices should be added (e.g. smart heaters, other lamps etc.). Also better analysis of Ōura ring data should be done in the long term, possibly by applying machine learning/deep learning algorithms.Long term tests of the productivity and impact on health and employee satisfaction should be done.The  team will be evaluating the future prospects of this technology and possibly look for interested investors. 
+  
+ In the future, we hope to add more functionality to our program by adding logic and other features such as conditional statements and variables. This would add another layer of depth to Pseudo Code and we would love to continue spreading our passion of coding to the world of beginning programmers. 
+ Making it fully interactive. 
+ We'll get feedback from as many users as we can, focusing on making the best experience possible while at the same time providing a valuable product.  
+ We plan to work on neat UI, so Maria could completely enjoy her experience with OutfitMe App. Also, we need spend couple more days to train our AI algorithm on a bigger dataset. And then, we plan to provide API for our app, so online shops can embed it into their websites. 
+ We hope to test our prototypes, then scale up to produce these for low-resource settings.CreditsEmbedded Systems Mentor: John NaultyHardware: William Wnękowicz and Marion LBHardware Hack Inspiration: Midori Sanchez, Miguel Moscoso, Kevin Flores, Jhedmar Callupe, Elizabeth Albarracin, & Tomás Vega 
+  
+  
+  
+ We've just pushed a new version to the App Store, now supporting Gmail, Outlook.com, Yahoo! Mail, iCloud, or any IMAP mail server. We've also built in more customisation of how you manage your email (eg mark as read or move to folder instead of archive). Next up is the Android version and better integration of Context.IO including utilising their Exchange connector. Then possibly voice recognition.  
+  
+  
+ I have several ideas in mind for where RokkSalt can go next, but I feel that the very next step for RokkSalt will be to integrate Facebook Ads with Infusionsoft and add to the value that RokkSalt brings to the table. I think that by adding other integrations it will help to improve the reach of small businesses to connect with more of their target audiences across their markets. 
+  
+ We’ve completed our pilot phase and are bringing on our first paying customers. Now we are focused on building our brand and filling our funnel as we bring on new customers and communities nation-wide. 
+ I am presenting this at my work and will continue my efforts with help of community to further test it with real time data and take it from gamma to prod state in future. 
+ Combine multiple data source from wearablesMake effective use of anomaly detection inferenceNatural language user interface to humanize the HTM algorithm 
+ Vikram is going to take this idea and our product as the start for his final project in his Master studies. He is going to improve it, add a backend and finally publish it. Ha is going to help as an advisor for Vikram to bounce ideas off. Possibly we are going to all have a giant party together once he is done and passes his Masters with flying colors.  
+  
+ Improve speed and accuracy. Open to public. 
+  
+  
+  
+ Android app, working more with Photon, emergency response directions from Pebble.Demo login and passUsername: sohan@account.comPassword: vichare 
+  We need to extend the use case. Of course it was not possible to make all data in all variants available in the Hololens Solution in such a short time.  Extend the use case with new scenariosIncrease amount of dynamic data and the visualization of itIncrease customer collaboration capabilitiesAdd additional calculations and predictions for transportsAdd Decision Support functionalitiesRemote Guidance with Skype or other tools (e.g. with Truck driver, loading, ...) 
+ • Market our product for those in California wildfire-prone areas• Finalizing and selling our product to CalFire• Securing a .tech domain  
+ One functionality we wanted to implement but didn’t have time for was built-in sound file conversion. Currently, our program only works with .flac files and we have to run two shell commands on any other sound type file to get it to fit our requirements. Our goal for the future is to be able to call these shell commands from within the program after the user uploads a file before it is sent to the cloud storage.We are also hoping for embedded YouTube video functionality. Instead of uploading a sound file, the user can paste a link to a YouTube video. Our software would extract the audio and process it and allow the user to essentially search the video for the word they want.Finally, our current implementation only allows for single-word search in the audio file. A relatively simple but largely helpful update would be to allow the user to search for phrases within the audio. 
+ Handover for an MVP to the T-Labs.Repohttps://github.com/CryptoManiacsZone/VIC.cardsSlideshttps://github.com/CryptoManiacsZone/VIC.cards/blob/master/RAW/VIC.pdf 
+  
+ Looking forward to customer feedback and of course implementing new awesome features. 
+  
+ Using Notifications to inform about a change of the WiFi Credentials outside a conversation session (e.g. by the App). 
+  
+ Data gathering from multiple companies, ML for feedbacks, federated machine learningcredentialszihack@zitec.comdemozihacksecurity certificatePlease access this URL first and accept the security certificate:https://api.adm.zitec.ro/api/problem/1  
+  
+ To create awareness of the project/application and also preach about it benefits which are listed below :To provide a local connect among the above entities so as to improve education in Nigeria.A good resource for students to find where to learn and who to learn from and also for parent to find instructors/teachers for their kids.Provide revenue for instructors/tutorial centers/work-space owners.Reduce rate of unemployment in Nigeria. 
+  
+ We think live bus has a great potential to be deployed because it is web based and can be shared instantly but also because the way it's built allows it to be used all around the world.  
+ We need to wait for the game to develop more, but we want to add the Twitch-Auth both in the extension, as in the game. The game will be a twitch exclusive. 
+ We are working to integrate accelerators into the Spark framework, thereby enabling even higher performance and reducing the cost of the overall solution. 
+ Legal and Finance would have to be brought into the conversation, understand this fully, and give the OKIntegration with returnsQA and testingPress releasesTesting and codeYouTube VideoDownload the bitpay app on your phone and set up a test wallet BitPayNavigate to dev and use Mike Joseph's VM (Joseph, M)git repos: resourcesphptemplatesresources_image_storage 
+  
+ We plan to add different difficulty levels for players to choose. Also, we would like to add enemies that symbolize current "enemies" for women engineers, e.g. stereotypes, online harassment, employment...etc 
+ Maybe adding more songs, designing new levels and layouts, and adding extended notes. 
+  
+ Getting users input data to generate network effect and train our machine learning modelsDeploying to mobile for user accessibilityConducting more user research  
+  
+ We can hook it up with an external server that has algorithms written with opencv to uglify the people you hate professionally 
+ The next steps for Aid Connect include finish its implementation. 
+ Monetization - Users would connect to therapists only after paying a fee based on the experience and a "rating" that a therapist holds.In-App communication - Wellness will contain a more robust communication system within the application that allows for easier messaging as well as video and phone calls.Note:All the code for this application is in a private repository on GitHub. I will be willing to provide access to the judges if required. Please email me at everythingskc@gmail.com for access to the repository. 
+  
+ I think save for finishing the game AI, the app is feature complete at this stage. The only huge undertaking left is game AI. After that it becomes a matter of polish and release to the app store. Cannot wait for that first publishing and I am already full of ideas for my next project! 
+ We plan on expanding the features within the overall platform. Things like uploading images, gifs, videos. We would also live to expand the collaboration from two people to also having an ai being involved with suggestions and assisting with the expansion of the over all Compan-Oekaki- Colaborative Vision Board. But also seeing the wide range of how this collaborative vision board can be used, from Artists to the Foster care system, to people like me who can't communicate at all and is always drawing out what I need with others for them to understand me.  
+  
+  
+ Discussing with one of the mentors we decided that there are a few future applications of STORM. One would be to refine the experience in order to assist those suffering from mental health issues express themselves to those who have not. Another possible application would be to expand our database in order to collect information based on age, height and weight with the intention of performing some kind of metadata analysis.  
+ Filterting of the projects and further developing the visualization. Depending on the reception we might be interested in developing it further. 
+ Exit to EA 
+  
+  
+ Our game currently only has two beatmaps, both for the same song. Our next step is to get more songs and beatmaps into the game, and expand upon possible dancing mechanics not possible with traditional DDR machines. For example, one idea was to create a foot slide mechanic, or use the Vive controllers for hand movement as well. There will also be graphical updates in the future, to improve the look of our UI and game world. 
+ We need sleep. 
+  
+ You don't wanna know. 
+ I plan on adding gif functionality to have movable QR codes! 
+  
+  
+ Better Web/mobile app and a Twilio SMS program. 
+ Create / update comments on mobileUpdate comments on webTime-based pins that expire after some time (I.e., pins only visible for #N hours) 
+  
+  
+ Collect feedback from new users.Add new skills to the bot with a set of new actions: mail, http requests, create card, chat (it's a bot after all!) but we need to check first that it would not turn it into a bad bot.Write a post on OCTO blog to describe how we use Checklist Bot in real lifeAttract new contributorsCreditsPowered by OCTO Technology, 2017www.octo.comDesign & code by Louis Jeckel, Christophe Durand and Aurélien RambauxThe concept of checklist templates was inspired by Iain Brown' s Little Blue Monkey Pimp Your Trello Cards implemented on Google sheet. Thanks Iain for making it available and open source back in 2013! 
+  
+ Support for directly sending files stored in Creative Cloud to JIRA 
+  
+  
+ Celebrate our successes! 
+ Currently the app only handles uploading images. SharePoint File Uploader will be able to upload any type of file. I want to speed up the app by caching the sites and document libraries. I also want to surface the recently used drives to help the user upload files easier.I want to give the user to update the DriveItem after they upload it. I am going to use the Graph API to pull down the fields on the DriveItem, build a dynamic UI for the user to edit the fields, and then save the user's edits to the drive item.Exploring the document libraries also will be added. The user can view the files they have already uploaded, edit the fields, replace the with new content. 
+ We are so encourage by our POC, we want to keep going and make ShareMD available to the healthcare industry.  We will take the POC and extend the functionality to cover most of the patient centric authorizations, consents and disclosures.  Look for a white paper in the next 120 days.     
+ We want to add optional additional fields to the initial prompt, like "City crime rate", and "Distance willing to travel to work". We just focused on financial reasons to go to a location since we had limited time this hackathon, but there are many more aspects that would be great to compare. 
+ Enable folks to downvote! Enable DM when more than one result is returned for a track. Also allowing to search by album, and much more!  
+  
+  
+  
+  
+ 1.Keep improving guiding strategy and visualized guide patterns design of Tunnel Comet.2.Apply the concept to urban traffic and develop other vehicle locating and guiding technology that can cooperate with current system. Provide more possibility and flexibility to Tunnel Comet and other Intelligent Transport Systems(ITS) in the future.1.繼續改善雪隧彗星導航策略和視覺導航圖形的設計。2.應用這種概念到都市的交通，並研發其他和現有系統匹配，車輛定位和導航的技術，藉此為未來雪隧彗星或其他智慧型交通系統提供更多的可能性和彈性。 
+ იდეა იმდენად საინტერესოა, რომ ვგეგმავთ რეალურად განვახორციელოთ ეს პროექტი (მივიყვანოთ საბოლოო სახემდე) +რაც შეიძლება მალე, კონკურსის შედეგების და ზოგადად, ყველაფრის მიუხედავად ୧ʕ•̀ᴥ•́ʔ୨ 
+  
+ Our mission with wells is to improve your hydration via a simple, smart experience. We definitely want to pursue the project beyond the hackathon! 
+ Networking needs to be developed additionally and the system needs to be tested thoroughly. User interface needs to be prettier and we need to add more functionality to it. Probes power consumption needs to be optimized even more. Capacitive sensors need more accurate CDC (Capacitance to Digital Conversion ) solution and etc. This isn't a product, but a working concept with stable foundations. With additional funds and time this could be the low cost scalable solution.  
+ Smart Floating Farm has to transform into real appropriate platform which support sustainable agriculture in remote areas and limited access also. It should be realized precisely through combination with mariculture platform by build the indoor vertical farm above fish cages. In addition, smart floating farm will be realized for urban farming in smaller form, by using mini-dome concept with limited amount and type of plants in order to make stand-alone and full monitoring from a distance. Smart floating farm and its information technology system can be applicable for indoor land based farming in this moment to develop future farming prediction of growing season and automatic harvesting concept. 
+ Use real life data for transactionsWorking peer comparison featurePotential expansion into a chatbotSourcehttps://github.com/zaynetro/invest-mattihttps://github.com/zaynetro/invest-matti-api 
+ Launch as Set protocol's first relayer 
+ Lots of things. The OCR text recognition can still be improved as well as the recommendation engine. The latter can be improved by adding additional lists with compensated drugs which were not available at this time.Some other features that we look to add:more subsidized prescription drugs,option to save and print the drugs added to the prescriptions list,recommendations for drugs with a lower concentration (this is allowed by the Romanian law),bar code scanning for the prescription,UI/UX tweaks. 
+ We are thinking of making our application more secure, scalable and including more functionalities to improve user accessibility.We would really like to publish it in the app-store and play-store in the future. 
+  
+ It would be great to have assistance from a front-end developer to streamline the application and reduce some of the dependencies on Azure Functions. Extensions to the application could include;the ability to force a user to change their password on next logon (if their password is contained in the compromised list)the ability to force a user to register additional MFA methods (e.g get the user to use the Microsoft Authenticator App over SMS) send the user a notification informing them of their security posture and how they could improve ita report/export/pdf button for a Service Desk Operator to send a users profile to a Cyber Security Officer for reviewsubscribe to security graph events for users 
+  
+ It is possible that we could continue development on this, but no decisions have been made at this time. We have contacted a number of non-profits who all seemed very excited to see this idea brought to life. 
+ help the community and connect with the local government to develop the community.  
+ More modular sets in different subjects and an interface for creating custom activities. 
+  
+ In depth study of the aztecProtocol to see how it can benefit our idea. 
+  
+ Adding OCR integration to natively support RPG games (e.g. "Ok gamers, what do you think?" -> image taken of screen -> poll automatically created) 
+  
+ Clean up the code baseHave the client much less involved in the actual processingMake the dialog more natural and fluidKeep a profile so it really understands what you are in the mood forMany many more featuresAdjust site to be mobile friendlyAndroid appiOS app 
+ Multiple user support (using a signin system, or something like google accounts?)More commandsMore flexible speech inputNicer interfaceWeb dashboard 
+  
+ New UI to make it fresh and clean for TechCrunch Disrupt.Warmly will be free for anyone to use but we will monetize B2C via a subscription with premium features. We will also allow for enterprise customers access via B2B options. These customers will be PR firms, journalist, lawyers, and large sales teams. A few premium features that have been requested by PR firms.1) Upload CSV document of emails and create personalized messages. 2) Real-time updates3) Training Warmly 
+  
+ We plan to fix up the front end bug and roll out a new version based on the updates on rDai 2.0 contract, in September. A truly Stable-revenue-stable-value synthetic token is coming. Stay tuned! 
+  
+ BLHDTry it outdrive.google.com      Submitted to    SheCodes Hackathon 2019    Created by  thu21Vu UyenTglhuNguyễn Xuân 
+ The site currently only shows how a single tweet will affect a single change on the S&P 500. We believe the user experience will be more fun and impactful if changes made by each tweet can be persisted so that users can simulate themselves tweeting throughout the day.Our ML models can definitely be improved. Getting higher API limits and permissions will allow us to collect a more meaningful number of Trump tweets and it may also allow us to return to our original goal of using news headlines to make predictions. 
+  
+ Train the model with more celebrities and get the chrome extension to output whether the videos in your feed are DeepFakes or not as you scroll. Specifically, this would be done by decreasing the run time of the machine learning algorithm in the background. Although the algorithm is not as computationally costly as conventional algorithms created by experts, the run time barrs exact real-time feedback within seconds. We would also like to use the Facebooks DeepFake datasets when they are released.Specifically, deepfakes are more likely to become a potent tool of cyber-stalking and bullying in the short term, says Henry Ajder, an analyst at Deeptrace. We hope to utilize larger data bases of more diverse deepfakes outside of celebrity images to also prevent this future threat. 
+  
+ Publish a guide to help other hackers set up this easy-to-use hub themselves. Refine the interaction with Amazon Echo.Punny DomainitMegahertzWhenIP.com 
+ Improve UI designImprove calculations by performing proper Data AnalysisRemake into Web AppUpdate data set to include future classes and scores/remove classes no longer taughtExpand app to analyze datasets from other UniversitiesImprove storage algorithmsImplement course compatibility flagsTo RunDownload Here or Visit the GitHub!Note: You must be logged into your OSU account to download.On Windows: Download and unzip folder. Run main.exe 
+  
+ Adding more and more DeFi projects into it. 
+  
+  
+  
+  
+  
+ Not all users may have access to spare electronics parts and it may not be convenient for classrooms to salvage all their parts.So a partnership with a charity organization such as Free the Children would be optimal. This partnership would be used to distribute a basic starter kit toclassrooms with all the components and resources necessary such as:-2 servo motors-1 auxiliary audio jack-1 solderless breadboard-1 foot of copper wire-10  1 ohm resistors-1 9v batteryThis kit would have an estimated cost of KES 720 each ( $9.50 CAN) which is much more affordable, practical and durable than other electronic starter kits such as arduino. 
+  
+ Obviously, more fine tuning of parameters in order to produce even more beautiful music. While I did consider chords in the neural network, harmony is probably the most important missing feature. Harmony analysis is a 36 hour project on its own, and would greatly improve the project. In addition, I'm hoping to expand to concertos and contemporary music. Sonatas are fairly easier because they are generally piano only, with only a left and right hand. Opening to more types of music would be very fun.PS. Unfortunately, I have no pictures! There's not much to show about a neural network... However, 10 MIDI files of varying quality can be found on the Github. 
+  
+  
+  
+  
+  
+  
+  
+  
+ Customizing our design for other organizations.      Submitted to    We Code: Women's Hackathon    Created by  Facilitated tasks, planned schedule, initiated check-ins. Supported multiple framework iterations and code revisions. Co-presented purpose, prototype and demo.Kegan SanchezHelped write the questions, the CSS and HTML.Mary Ann AschenbrennerWebsite designer and developer focused on projects for small businesses and nonprofit organizations.Content Creator & PresenterRowena TchaoFront-end. Framework started with back-end.Tab MemmottWorked on some of the Front End, coded the clickable mosaic. Sharay GrimesEmily BrownKaitlyn CrawleyKaren MillerMichelle Levine 
+  
+ Ready to market! Nous avons passé plusieurs heures à developper le bot de façon à ce qu'ils soit prêt pour une soft lunch, et developper la version "premium" de speedlunch. Présentement, notre site web démontre déjà les outils pour l'installation de masse de @numnum en version gratuite :D !!!!! HOURRAY! 
+ Adding an ignore option for images embedded within footers or signatures.Removing corporate-generated images, i.e. avatar images, social media links, etc.Implementing a feature that will allow users to remove images from the add-in and prevent these from reloading.Handle duplicate images within replies or forwards, or even separate emails.Utilize Microsoft WebHooks to provide live inbox updates to the task pane.Adding web workers so processing can be handled on a separate background thread.Refactor everything: make Dremo even faster. 
+ Productize it 
+ Get the hardware and software to properly communicate! Customizable locations and icons, and getting the LCD touch screen working. 
+  
+  
+  
+ Many more recipes and meals! 
+ Implement it in an actual vehicle, add a social media aspect 
+  
+ Link our backend to Facebook Messenger, text messages, and even news sites. Then we can get acquired by Microsoft's GroupMe or Facebook.  
+  
+ Eventually will be continued to be a 3D Platformer game for Virtual Reality contentDevelopment RigMobile: Asus Zenfone 2 ZE551ML, 4GB Variant, PowerVR G6430, Android. 5.0VR Kit: Google Cardboard by iamcardboardBluetooth Controller: 8Bitdo NES30 PRO, CDR King wired controller 
  

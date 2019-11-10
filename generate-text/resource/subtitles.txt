@@ -1034,3 +1034,597 @@ These procedures provide the option to do web scraping from Cypher. Sometimes yo
 A computer vision app to perform OMR on handwritten sheet music 
 We create socioeconomic justice by mining cryptocurrency &amp; providing people in need with a basic income
 Custom Activity which would satisfy low budget client without UiPath Orchestrator and differentiate the generated log
+The Pokémon Go + Geocaching on Ethereum with DIY authenticated BLE beacons for under $2 in parts.
+The smart choice for work fast lovers
+Because being energy conscious isn't just a first world problem.
+Improve your coding skillsets by compiling your whiteboard anywhere, anytime
+An entirely offline, self-propagating messaging platform that connects users in internet deserts.
+Gamify collection of sound samples of dying indigenous languages
+In order to help indigenous people during disaster situation and Indigenous version of FOSSASIA project
+An initiative to raise awareness in KPK public and provide them with a platform to give voice to their rightful needs
+Converts your favorite Spotify playlists to YouTube so you can watch music videos and share them with friends.
+This is a Deep Learning enabled application which is able to read books to kids
+Trustless peer-to-peer auction-based marketplace of non-refundable flight tickets
+Voice powered journaling with realtime emotional analysis
+A device that knows how you feel and keeps you emotionally healthy
+Ask us a medical question, and our AI will help you find related questions and answers, and generate advice specifically tailored for your query.
+The chatbot that automates your haircut reservation process
+A world's first at ETHBerlin: Ethereum transactions signed with a government issued ID.
+You've been captcha'd
+News has become extremely polarized and people's media diets more narrow, so we created BiParse to expand people's perspectives.
+Easily extend any HTML page for custom highlighting.
+PolluWatch encourages Montrealers to be more conscious about the environment by showing them their real-time impact.
+An augmented reality virtual pet for your Amazon Alexa device
+Desktop Productivity on your iPad
+Tired of testing workflows manually? Framework for running unit tests will help ease the development and save time.
+Programmers should follow one simple principle: DRY (Don’t Repeat Yourself). Then why our Finance team should add invoices twice? #uipath #automation #saga #xero
+We help you get emergency attention quicker! Through Call Assist, civilians can automatically send their information and current location to first-responders. 
+The next-gen fitness app
+A robot that can be programmed with intuitive gestures.
+Search for challenges ends here
+Discover online social circles that envolve into offline friendships using music.
+Get as many rings as you can before you die!
+A traditional LucasArts-and-Sierra–style Point and Click Adventure Game comes to life all around you!
+Green screen meets infrared.
+Happiness Made Easy!
+Plants as team members.
+Apply for jobs with Devpost
+If we can improve medication adherence, we can decrease hospitalization, physician visits, and lower healthcare costs
+An integrated software &amp; hardware platform that allows volunteers, fishers, researchers to report ghost fishing gear
+Esusu, it is informal loan club, helping to save or have a short-term loan through the susu concept.
+Tongue controlled technology for SCI independence
+A landing page design for the vanHackathon's AxiomZen challenge
+9 months in the making!
+a retro game fps/puzzle hybrid
+A set of BLE sensors that operate a magical minime house
+The journey is it's own destination
+A jsfiddle.net Google Chrome extension that navigates you through a series of application development tutorials
+On stage or in the expo put your Devpost page to work!
+Reducing Things EcoFriendly
+Like music to your ears. Literally.
+Reimplement the lost functionality of Outlook 2010.
+Cloud-based CFD simulation app to calculate control valve characteristic curves.
+A webapp that provides real-time presentation feedback;  
+Find things to do near you in Montreal
+Behind every happy family is a happy woman!
+Beyond Patient Portal
+Image recognition resistance finder
+Have a break, have a GitKat. Have code from github automatically updated in your word document.
+Open-source real-time transit information for the entire world
+A game based around reaction speed and dodgy wifi and pizza.
+Send smiles seamlessly
+Notifications on your browser. Water you waiting for? Nothing, because Water waits for you. 
+Screen for early-stage melanoma using your iPhone's camera
+Small: A stealth &amp; exploration game in VR inspired by the borrowers, wind waker and metroid.
+Incentivization of tasks to motivate community involvement and education
+Manage your Planner tasks directly from any Outlook client
+Go on a Funny Adventure to Australia and Explore wild Animals. Let's see if you survive............ 
+Image changing your screens resolution but then you platform on the stretched mess. That's SCALIER.
+Maze solving algorithm implemented in sed
+Safer &amp; better mobility through verifiable, blockchain-enabled Driving Event Data Chains.
+Shelfie will use cameras to count how much supply for each brand of drink is in a cooler.
+The NomaD app is built to gamify airline experience for users by implementing a point system based on their travels
+Friendly Ethereum - UI friendly protocol to sign transactions via messengers
+Using Machine learning, you can teach your computer to identify everyday objects
+Get alerts, info and messages more naturally
+Using FASTA sequences to identify oncogenic mutations most likely to cause cancer.
+Exploring the world of the Internet of Things through the Augmented Reality lens.
+Gas profiling for Solidity smart contracts
+An IoT solution to help farmers check soil nutrients and also sell produce.
+Escape from the Zitec Headquarters!
+Lab27 Bot is a chatbot designed to solve Vodafone's customer serrvice problem.
+Allow blind people to stay aware of their surroundings
+Alexa custom skill - Curates list of playlists depending on how the user's mood for that day is
+A Messenger client here to help user's purchase great Wayfair goods. It's your new friend in your pocket :)
+It brings conversation capabilities to UI Path robots and adds cognitive services to the DRUID chat bots.
+#JustTagIt! Tag anything - emails, websites, documents, media - and we give you collaboration awesomeness!
+Its the pictionary implementation you never knew you wanted!
+Karaoke For All!
+The scribe for savvy paleographers
+We use voice recognition and text analysis, accessible through a webapp, to control a minion (robot)
+Health Related diseases at one place
+Space COPS Space COPS
+The adventure simulation language
+We provide a simple solution to taking your medicines on time with QR code so that we all can get better soon :)
+VR version of intensive Flappy Bird 
+ menU displays your favorite restaurant's menu specifically tailored to your needs and dietary preferences.
+Probably the most beautiful weather app in the world.
+Data-driven algorithm which helps companies prioritize bugs they need to fix.
+An innovative system to prevent wasting water in almost any environment. Now with IoT functions
+Binnacle helps job seekers find the right job in less time by leveraging internal data to create search strategies.
+Enhance the interview selection process by including team feedback as soon as possible
+An intuitive skill for the Amazon Alexa to allow users to post tweets to twitter or send text messages to any number.
+A smart garbage can that sorts garbage and recycling 
+It's LevioSound, not Leviosaa
+A grep for images
+Be your best self when writing emails.
+A humanizing resource portal for portland's unsheltered population
+We created a platform so you check links from your favorite newsletters without letting newsletters near your email
+A fun counting game for all ages where players have to substitute "quack" for certain numbers
+A smart drawer that auto unlocks using BLE from your smart phone!
+The static code analysis tool you need for your HTML.
+Rubber-band gun that shoots you if you look too happy
+Pioneer lung cancer diagnosis tool. Upload CT scans &amp; get accurate cancer nodules diagnosis within minutes.
+Smart parking solution with emphasis on social interactions
+Find the perfect outfit and create the style that represents you the best with just a few friendly questions.
+Friendly chatbot that helps you and your friends find a concert to go together based on your collective music tastes!
+Displays Trello lists and cards in a tree view for easier visualization.
+An automatic bike transmission system.
+A Heart-Pounding Adventure that brings many to tears with it's modern solutions to life and it's challenges 
+What if your tea cup was just as smart as you? Constantly measuring and improving your tea drinking experience?
+Drive Your Growth - Instant delivery for businesses
+A fully managed, cloud based, server-less, and smart irrigation system
+Repair exchange server
+Chess played in VR in various relaxing environments. The experience is meant to help release stress in your free time
+Data Visualization Components for Ebola Cases in the World, Employee PayRolls and US/Euro-Exchange Rate over Time.
+Android app that lets the user take a picture of food and lets the user know the nutritional values
+the concientious citizen
+All your things on the cloud
+The world's first Kanye West RESTful API
+Preview how your email subject lines &amp; preheaders will look in Gmail on Android
+The beautiful re-plastering of a mathematical concept into a fast paced 2d platformer. A true test of co-ordination.
+Rates different routes from a source to destination  on a safety scale of 1 to 5 
+Do you struggle to choose a good movie? Can't you find the right movie for tonight? We have the solution: Muvie!
+Complete ChallengePost redesign. Just For Fun™.
+Android app for college students to help them discuss with their fellow students and share resources like books etc.
+KashBot makes it easy to send Bitcoin to anyone over Facebook messenger
+A web app that eases the process of networking between students and recruiters through facial recognition software.
+Yelp! for schools
+Download the Internet and share it with friends — without the Internet
+Have over 9000 browser tabs? Click to collapse into just ONE!
+ReaXn enables women to react to dangerous situations in one-step via mobile devices.
+Load that special email as a hologram - anywhere you are - or transporting you to anywhere you want to be. 
+Automating the creation of a Cegeka CV, preventing you wasting hours upon hours on making it manually.
+It's first of it's kind WRC Trading Platform which won't only define WRCs but also have the option to list or buy.
+Enabling communities to create accountability for the cities of the future
+A full-stack web application to improve land productivity for farmers
+An affordable analytics system to encourage lower water usage by making water tracking fun and accessible!
+Instant translations of Documents and conversations in Real-time
+Building gardening communities through plant, information and space share to improve environment and emotional health
+OneGraph enables organizations to respond to security alerts with speed and intelligence using the Microsoft Graph
+A voice recording bot for the popular VoIP chat program, Discord!
+The companion on your journey to happiness
+Data-driven marijuana testing for safer driving and working environments
+A light hearted 3D VR catapult game where Chib-Chibi flings herself at her nemesis Mega-Chibi
+Choose your heirs before you die. Earn interest while you're alive 
+With bits the viewers are able to send actions to the game to either help or destroy for the broadcaster.
+Traffic pattern vis in Tucson, AZ
+What do you do with all the empty aluminum cans you acquire over the span of a Hackathon? Make electronic drums!
+An SMS gateway for IRC
+Your development environment in the cloud.
+Mapping ideas and crowdsourcing feedback in real-time
+Electron-based note-taking app, with Wolfram search
+AutiBot is a health hack capable of analyzing brain activity to detect young children's risk for developing autism.
+Environmental storytelling with a noir aesthetic, join Det. Sunderland on a case that is anything but open and shut
+An action/adventure 3d platformer with combat and puzzles
+5 characters, 4 ghosts, 3 rooms to choose from. Sleep No More meets Sixth Sense in VR
+Saving smiley moments for rainy days when you need them the most. Save, Share &amp; Shake your Happiness. 
+Team turtle-ninjas has developed the future of e-commerce
+Wagons k rastay
+App built with Meteor and React to store useful and reusable meteor snippets to make dev faster
+Best Photo Viewer in Windows Store that supports both touch and mouse
+Sync contacts and send text messages directly from your Amazon Echo
+Computer chess without the computer
+Mobile and Web application.
+Bionic hand system that replicates human hand movements in real time
+Switter - A wealth of knowledge! Helping ordinary people make smarter investments
+food banks/shelters collect cash vs food donations / use savings from bulk buying to fund donation pickups for goods
+Coding game for girls - Team 6
+Leverage all the major javascript events without ever leaving your CSS. 
+Avoid ATM Fees with Peer-to-Peer Cash
+User can easily control the car by using my WearCar APP in the Gear.
+We are building the best mobile medical grade image capture, archiving and sharing solution for healthcare. 
+manage  urgent status information that is sent to a company from Colleague.
+InstantCall is Call System for shelters.
+Coffee machine controlled by the cloud with a mobile device
+Never miss a bus again!  TimeCheck tells bus drivers to wait for you!
+Discover, measure, create, and order stunning frame collages for your space using your smartphone's camera.
+It's time parking lots caught up with the 21st Century
+Pick your best photos, keep your camera roll clean.
+the discreet way to get away
+A theremin for the future!
+An app for hackathons
+Create electronic music, alone or with randomly selected people from all over the world!
+Stroll in the sky, no sicking!
+Helmet mounted Bicycle turn signals controlled by arm signals and the Myo 
+The avid hackathon-er's best friend!
+EmPowered A tool for Disabled Citizens To Control Their Employment Search
+Connecting families of children with cancer with volunteers who can help with their daily challenges
+Authentic street performances
+A distributed voting application that uses a blockchain to prevent election tampering and voter suppression.
+Turn photos into calendar events
+Learning can be fun! Chemistry can be fun! Playing games is fun....combine all of this and you get MoleculeMash!
+An end to end video translation platform built using Amazon Artificial Intelligence Services
+We are creating a new way for broadcasters to deliver multiple languages cast on their channels.
+An improved API for creating multiple plots with matplotlib, in an already organized fashion.
+Do you feel unsafe when you are home alone? Would you like to immediately send suspicious activity to the police?
+Browse to find that "just right" product by incrementally changing attributes such as height, width, roundness, etc.
+Connecting patients and doctors for a smoother and simpler mental healthcare experience
+Augmented reality mobile application for indoor navigation to improve the independence of students with disabilities.
+DJ Trump
+TravelSafe is an app that has been built for the community of Indore and its people to provide them with safety tools
+Program using emojis.
+A smart journey app to find train, bus, ride shares cheaper and faster, provide driver ratings and earn rewards
+Connect with people by lending, borrowing or trading items you don't need anymore.
+A PowerPoint Meeting Client for the HoloLens with a virtual shared presentation screen
+Don't underestimate the power of BLOW
+The BEST way to plan a product roadmap and keep stakeholders in the loop
+ Swipe the people into the train as the train scrolls up and  the animals on the on the opposite direction. 
+Lightweight local webapp that manages and maintains schedules on crops
+Personal search engine that allows the user to store and retrieve information more conveniently.
+High-quality ambient sound loops on Amazon Alexa to help you fall asleep faster, sleep better, relax, and focus.
+A cognitive voicemail assistant. 
+View and control automated build plans from Bamboo Server without leaving HipChat
+New way to learn languages with VR  (3d, audio, voice, text and touch). Specially for VR.
+#2% Helping an NGO to help others. Your 5 minutes will save the planet
+Zitec office map. Fast way to find your co-workers.
+Never worry about over or under-watering your plants! The Forget Me Not plant watering system is here to help.
+We created a behaviour for Pepper that allow him to recognize some human's actions and repeat them.
+An exciting chase or be chased game.
+My Code helps students to kick start learning programming and algorithmic thinking. It's simple and easy to use.
+You get secretary for making time and enjoying life
+Shows code quality metrics of SonarQube in a Bitbucket repository and creates pull request comments for found issues
+Office 365 / Azure AD Authentication &amp; Identity Management for Atlassian applications (e.g. Jira, Confluence, Bamboo)
+Publishing events using Apache Kafka, processing them using spark streaming and storing results in cassandra or ...
+An Arduino Mega-based table features a matrix of 196 LEDs that shine up through sections of diffused acrylic.
+Real-time captions for Livestreams for hearing-impaired and non-native audience
+Estimate the amount of work your team requires to complete it's sprint - right in the board !!!
+A data driven platform to enable rapid development of HajjTech apps. The core for future pilgrimage or event apps.
+SemQuery is a search engine intended for querying codebases.
+Smart Buoy for marine preservation and ocean monitoring
+Twist to call - Flick to send location - Quick save in case of emergency
+Dream Volunteer allows to choose at random a person from any Office 365 Group within your organization.
+A virtual perspective on Google Cardboard for drone enthusiasts and drone racing
+This skill provides an interactive holistic skill featuring health info,medical profile &amp; medical record analysis
+The Magic Board allows Boosted Board users to replace their wonky old controller with a sleek new Myo Armband!
+Making medical information accessible to those without internet access using a SMS-based service.
+Blockchain applications have to be easy to use and provide the best UX/UI like we do in Multy =)
+Prescriptions made easy, for when life isn't
+Activities to :Send emails from shared mailboxes, add dynamically attachments and chase emails from MS Outlook
+Your college companion (saathi) which contains all basic amenities like timetable in one place.
+Track your ERC20 token funds distributed across smart contracts on the Ethereum Mainnet
+Crowdsourced shipping
+Store your Microsoft OneDrive files on real objects
+Our way to engage millennial with the Karen language and stay true to the roots  
+Your laptop stickers are evaluated with OpenCV. You are given a 'hacker score', so you can compare with others.
+Providing a clean and safe internet environment for individual users and corporate workspaces
+Build a relationship; see the product, live the brand.
+Build consensus quickly with live video chat inside the Confluence editor
+What if the Big Bad Wolf didn’t eat Grandma? Find out for yourself. Choose your own adventures are back!
+ClovAR is the Pokémon Go for plants. The platform encourages little ones to go out into their local communities, explore and learn about the biodiversity around.
+Navigate through a fully-animated virtual marketplace using only your bare hands.
+Learn coding fundamentals in 3D or VR
+Bundle TokenSets (incl DAI) for ETH in a single transaction using Kyber Network
+Because everybody can learn to code, we provide a tool to reach it no matter where you are
+Our app aims to help people recognize and recycle trash in an informative way with image capturing and cloud image recognition. 
+ Mobile platform providing information and low barrier communication between refugees and aid organisations
+An inexpensive flood detector for 3rd world countries
+Empower children to use deep learning in their projects in a graphical and friendly way. Inspire children in programming. Teach basic concepts of DL training and inferencing interactively
+A bot which helps you manage your family's mobile recharges, bill payments, etc..
+WA Reader is a platform to read WhatsApp conversations from email text backups in a easy-to-read UI.
+A rewarding social app that supports recovering addicts, alcoholics, mental illness and more. Sharing stories, achievements, troubles, etc. and getting support from others is key to recovery. Add Kin!
+Hacker Glove ft. Interactive penguin environment OS
+Simplificarea gestiunii ZON-ilor, prin conversia lor intr-un virtual currency bazat pe blockchain si smart contracts.
+Reading your thoughts is now a reality. 
+A travel web application that helps you find a spontaneous getaway!
+SMS-based diabetes management
+Epic and wonderful interactive journey to abandoned planets in the galaxys far far away. 
+Ollie Williams Tells You The Weather - Using @mailjet, @weatherunderground, @crunchbaseapi
+you can't stay away from your phone and stay focused on your work ? Whenever you want to concentrate, plant a tree
+Use the most secure password to fortify your online accounts : your voice
+Assisting the visually impaired through a robotic companion (like a guide dog)
+BroadbandTV Meal Nutrition API challenge
+Physics-based dogs learn how to run using a genetic algorithm!
+Providing a sustainable and organized web-based solution for OCCC family and friend visitations
+Sign2Line is a sign language translator that uses the Leap Motion.
+Change your Native Android App in real time,  easy-to-use Web platform to make changes!
+LeapMed was created to solve the problem of inconvenient physical therapy in a fun and innovative way!
+Americans waste $37 billion every year on unused mobile data - stop the madness and get your money back with WeeFee.
+App for playing the popular TV Quiz 'De slimste mens ter wereld', to be written using React
+Mastermind API
+Did you ever had the chance to experience all of the news happening in the whole world in a single page? News in Maps
+Wireless amp system using mobile phones and WebRTC
+Roll Together is a platform for crowdfunding new metro routes based on the trips people take in their car every day.
+Your friendly cloud bot Nimbus allows to interact with different cloud providers. Currently supports: AWS,GCE,DO,SL
+Think simple ™.
+Blockchain based Egalitarian Routing and Financing of taxi shared taxi-cab rides
+Real Time Text to Braille Translator 
+Talking to yourself has never been this much fun.
+Use state-of-the-art machine learning architectures to stylize any image using another painters work as inspiration.
+Transient chatrooms generated by what's trending on Twitter
+Updateor automatically notifies you when your Meteor projects' dependencies need updating
+Get your friends and have a blast with Trorenad! Combine the real and digital worlds and enjoy the code cracking fun!
+Enterprise Level PRI Capacity Monitoring and Automated DR Call Routing
+Right info, Right time, Right place thanks to interactive smart stickers
+Wearable triggers give a voice to people who have limited mobility or difficulty speaking
+Quick chat up lines, and a quick get away!
+An up to 5-dimensional version of the classic game
+Don't waste time for exchanging contacts, just shake hands and automatically connect.
+An Education app for kids using hand written recognition 
+Live SMS Chat + Automated SMS with deep Infusionsoft integration on the web and iOS
+Your Wearable Personal Trainer 
+The VR Social Destination! Meet new people, connect with friends, talk face-to-face, customize your avatar with IMVU!
+A picture dictionary enabling refugees to communiate and learn English no matter their literacy level or language. 
+Use your desk as your computer: individual pieces of paper are windows!
+Build your own world in VR using voxel cubes.
+FairShare allows you to scan your receipt, indicate your split options and PayLah! the amount you owe. 
+BlockChain technology to prevent modern slavery
+Interested in how K-Pop idols go through survival shows to finally debut? Play our game and find out!
+Save time while you look after your pet buddy!
+If you can dream it, you can wear it. 
+No more fighting! Take your rivals to Kids Court and watch them get what they deserve. 
+Automating security audits: learn how easy it is to #beSecure with ZSec or regret it later!
+Easy and fun way to split the check with your friends!
+An online election platform that would enable citizens vote at elections anywhere in the world
+An end-to-end gasless onboarding experience in Ethereum powered by meta-transactions.
+Never Forget your Meds.
+Emotion Powered, Cat Generated Music
+Facial gesture enabled web control using computer vision
+Conspiracies can't melt steel beams! 
+Crowdsourced missions from viewers to streamers, and streamers receive rewards upon successful completion
+Local Experts Spreading Culture Throughout The World
+Jackpot brings happiness
+Autopiloted indoor transport system for large and complex buildings
+If your life was a movie, which would be the soundtrack of it? Use Tune My life to discover it!
+The Chrome Extension for Real News
+Empty your inbox faster
+Empowering patient communities to connect their audience to research studies
+The In-Flight Manager helps the astronauts stay organized and on track.
+See your HTM run.
+Learn about health, science, physics, and much more with this collaborative augmented reality app!
+Finding food made easy!
+A fun, arcade game that emphasizes fast-paced, mental arithmetic.
+Run to save the city
+Workflow management tool for the operating room that enhances communication, awareness, &amp; efficiency and reduces cost
+An anonymous forum with resources that allow those who have experienced harassment to find and give support
+Leave Your Message, Lead Your Life
+Just check it out.
+Show your Devpost pride all over the web
+Do you like Tinder? Do you like proof reading? Finally you can combine the two!
+FedEx Tracking the easy way directly from Outlook
+Through my solution developers can build VR websites through Dataflow technology with the ReactVR framework.
+exploring the weird intricacies of the New York Times Wedding announcements
+After a rocky start to my very first hackathon, team less and inexperienced - I give you 'THE SUBMISSION'
+Predict the viability of organ transplants using deep learning
+Mobile Payment Concept for Cardless Transactions at Train and Bus Stations
+Voice-enabled Pocket Client. No computers, no phones.
+Smart Notetaking
+Seizure Prevention Software
+BirdBot is an alexa skill and lex chatbot that can answer basic birding questions.
+Turns a bare single image only tab into a fully functional image editor.
+A tutoring and mentorship platform for Rutgers Students developed at HACKRU 2016!
+System for tracking statuses of cargos in a big supply chain for all participants securely and interactively
+How well do you know our Republican Party nominee? Test your knowledge through Trump or False.
+Making science undeletable with decentralized distribution of peer reviewed studies
+An indoor plant that can be monitored and controlled via the Ethereum blockchain
+A documentary experience where you discover and understand the Korean D.M.Z through the memory of a former soldier.
+Draw a picture with markers, we will turn it into music. Each color is a different instrument.
+VR science playground for classrooms
+Integrated task management / email to task for Office 365 Planner, SharePoint Online and Outlook Tasks 
+A game about solving puzzles and escaping the room in which Hack Cambridge took place
+A smart, bluetooth enabled, pill dispenser for prescription management
+Have pokemon battles in Virtual Reality!
+Helping you invest.
+Create and explore virtual art in local parks.
+Rice Package Delivery Killer App
+An Android Application for visually impaired people to access medical prescription 
+Alexa Skill that allows users to query HyVee grocery prices and other information from the store.
+An efficient and secure way for modern businesses to pay invoices
+An Custom Activity used to display the structure of folder and lists the files and counts of file type.
+How about a portable Jukebox with a lightshow built into a computer bag? Tweet the song you want played next!
+The First Decentralized Meme Market
+Never miss another campus food event again.
+A smart band designed for Hajj pilgrims
+An App that helps users navigate and explore points of interest using AR
+Flood prevention IoT-System
+An IOS app providing a variety of tools to help those battling with different mental illnesses
+Redefining user log in. From Usernames and Passwords to Users with Password. 
+Tired of advertisement while you are watching online videos? Just solve a quiz right to skip the advertisement.
+SVG Animation Editor
+Peer-to-peer reporting on parking lot availability
+Discover the gnuest [noo'-est] cafe in the area!
+React to videos in real time with the world
+Ever wonder how to actively monitor the cyber security of multple customers 24/7? Check our Cloud SOC as a Service
+Create a personal Time Machine in Social XR
+A personal following cargo robot for all of your personal following cargo robot needs.
+Convert "r"s to "R"s
+Helps reduce online bullying by asking senders to reconsider their hateful/intimidating messages.
+Choose movie to watch using hilarious search filters (e.g. number of gunshots)
+New way to transfer data to blockchain 
+Dinorun Controlled by Applause.
+Send Gamified Messages to Your Friends!
+Augmented Reality Circuit Visualizer and Solver
+See, Build and SHARE 3D AR dioramas on your Echo Show!
+A chatbot that change how reminder app work.
+An app that strives to eliminate the use and waste of paper by pushing receipts Paperless to your smartphone app.
+Which of your choice would lead to large amount of carbon emission 
+Share your WiFi to earn cryptocurrency
+Ready-to-use Plug &amp; Play BOT for Email Automation which can be published under the umbrella called as BOT FACTORY.
+Ready-to-use Plug &amp; Play BOT for Email Automation which can be published under the umbrella called as BOT FACTORY.
+Font retrieval, generation, and manipulation
+IBM Watson Discovery Service UiPath Connector
+Securely create and sign a founders and SAFE agreement online
+ Inspiring meaningful engagement of students into a competence based curriculum !
+Play your favorite games to find locked treasures &amp; loot-boxes that contains Kin loot, barter with other gamers on kin-based marketplace to get keys combinations to open treasure.
+SeeThru is a blockchain-enabled platform that prioritizes price transparency to change the ecosystem of healthcare.
+Coding tutorials with a built in code editor for you to follow along!
+Smart Living 
+Watch the best movies in the public domain
+bigger, crazier, electronic version of an old childhood game
+Load beautiful photos by voice command
+BlockParty gives your viewers the power to add to the fun in your world and everyone in it, from right inside your stream!
+Multiplayer VR for experiencing movies.
+Web app to ease bill splitting during group outings
+Reflecting UV light off of aluminum-coated propellers of an autonomous drone can inactivate deadly viruses.
+ელექტრონული გადახდის საშუალება ლიფტში
+Turning public bathrooms into panic rooms and life lines -aiming to free victims of human trafficking  
+Collaborative Goal Setting App for Refugees and Case Workers
+Displaying cards for easily learning vocablulary, languages and other stuffs
+Cute Crusher is an adorably fun little game where you have to save your well from nasty little critters.
+Miniature 3rd person platformer where you solve puzzles, and repair broken machinery to keep Cityscape running.
+Talk to characters with your voice.
+Snapchat for locations
+Helping businesses excel during an IT crisis through mobile applications. 
+Together we are stronger - an app for young people with life-long or life-limiting illnesses 
+an adorable, 'magical girl' themed shooter-platformer for desktop. 
+A multitouch-focused sci-fi fusion of soccer and pool
+An exoskeleton leg for people who need it most.
+A personal chat assistant that never fails you in a conversation
+A messaging app for centralized narrative communication in a dyanamic healthcare environment.
+share our routes is about the spirt of collaboration
+Gain intelligent insights from YouTube videos
+Ingage allows employees to participate in challenges at their own pace and sync with their favorite devices.
+Increase employee productivity, health and happiness through better sleep. Measure, motivate, track, regulate.
+A mobile application that transcribes speech into text. AVA, let's you see in realtime 'who' says 'what' around you! 
+Learn how to code. In English.
+When you are far far away from home, you miss your mum nagging reminders at you...that's when you look for TaMaDeBot!
+Collaborative economy application that enables the distribution of idle resources between neighbors.
+OutfitMe helps people, tired of exhausting online shopping, find quickly excellent outfit by just uploading a picture
+A device to help correct the foot drop gait in affected people
+Every want to get away from Trump? Space not an option? Fly to the furthest point away!
+Off grid web server
+Accelerating sales at rocket speeds...
+a mobile app that reads your email out loud, with low distraction UX
+Connect Confluence Cloud to Salesforce to quickly extract the information that matters to a wider audience
+An Oculus Rift full of zombies, all on a treadmill.
+Combine the power of Twitter Lead Gen Cards with the awesome marketing power of Infusionsoft.
+Intelligent audio level control based on the noise level of your surroundings. Enhance your listening.
+Making Healthcare administration amazingly simple
+Hard drive failure prediction using SMART data set
+It's an Apple Watch app that you compete against for fitness goals.May Fortuna reward you with good health ! 
+CoWork24 brings busy people together at a casual self-created coworking space anywhere on demand
+Call me on your payphone, late night when you need a home
+Query + Curious – A Short Message Information Service
+Learn how to solve a CSI murder case with Labster’s million dollar virtual laboratories and Gear VR - for free!
+Angelina Risi and Rachel Qiao Han
+Get your power back
+Crowdsourcing emergency response to save lives when 911 cannot get there fast enough, over Pebble, iOS, and Web.
+Bringing UPM's transport visualization to the next level - to increase customer loyalty!
+Use machine learning to predict California's Fires!
+Quickly and Accurately Navigate through Audio Using Google's Powerful APIs.
+«Very Important Contact Cards» to prioritise your communications
+Everyday to learn new things about Astronomy. 
+Create content collaboratively with Confluence, and publish directly to WordPress.com to deliver your ideal website
+SmartR offers a convenient solution to determine where waste belongs.
+Share WiFi Credentials with your guests via Alexa by showing a QR Code on Echo Show or dictating it by an Echo (dot).
+An app that increases pedestrian safety in downtown Boston
+A platform that offers a fair framework for decision making process by empowering individuals 
+It’s a race against time in the Word Slice Bakery - Sharpen your vocab with this sweet daily word game!
+In need of a skill and willing to learn? Let us connect you with an instructor that have the skill you desire.
+Compare the level of your particular traits, obtained from personality tests, friends assessments and genes
+Crowd-Sourced location sharing platform to provide accurate public transport location data to users
+Charity brought to the next level
+Ultra Fast and Low Cost Personalized DNA Analysis and Diagnostics with a Spark
+As a customer I want Wayfair to accept cryptocurrency so I can spend my bitcoin on furniture and homegoods!
+Easy editor for modern listview Column Formatting
+Start from "Hello World!", girls learn programming through Stack Overflow postings and participating in AthenaHacks!
+Energetic VR Rhythm Game
+Nocturnal epilepsy tracker and prevention software
+Everyone has a story to tell. Learn your student's and continue writing it for them. 
+A digital clock calibrated to Mars time and a web calendar
+A chrome extension that blocks your ex-boyfriend/girlfriend photos
+ Help me get to safety
+A platform for users to monitor their emotions, read articles related to mental health and connect with therapists.
+First aid diagnosis and advice for the developing world via SMS
+Conquer Mars for your faction in a game combining chess and risk style gameplay.
+A digital space for real time collaboration for visualizing ideas, art, and strategies for life or for fun. 
+A text editor for web developers
+Using Deep Learning to perform Style Transfer of Famous Album Covers
+Artistic journey of the inwards experience of mental health issues, aiming to raise awareness and understanding.
+Eye catching visualization spreading awareness to the public on efforts and projects preventing torture.
+Experience a club like never before in a VIrtual Space party
+Decentralized crowdsourced-capable 3d modelling and labeling with a personal drone, for VR touring and mapping.
+Web Design with Voice
+Dance Dance Revolution but in VR!
+An art game about a man traversing his dreams.
+70+ years of Marvel Comics, rendered as 3D books that are fully controllable by your hands using the Myo Armband.
+FLAPPY BIENE
+Turn Any Image into Visual QR Code!
+Non-invasive blood pressure and heart rate monitoring
+LOLA--Laugh Out Loud Aid: Laugh while learning goals every day
+Give Hope is a charity that empowers disadvantaged individuals with widely available technology
+Localized maps as social network allow you to create topographies with pinned locations special to your community.
+Create fire as primitive man.
+Discover Venice in bite-sized travel adventures.
+Adds checklists templates for cards and launches actions when items are checked (move, archive, add labels to cards)
+Boost your Jira with the power of tables
+Let your design team attach assets to JIRA issues directly from Photoshop, InDesign, and Illustrator.
+A Swiss army knife for your phone!
+Command line interface for Tinder, written in Go
+An amazing fun filled app to motivate kids to be active, eat healthy, get fit and share with friends.
+Quickly add files to your Sharepoint Document Libraries from your phone
+shareMD created simple RESTful APIs to automate transparency and patient centric control for healthcare industry
+Makes it easy for students and young professionals to decide which jobs/co ops are better for them
+Let guests tweet songs to add to the party playlist and tweet to vote, the one with the most votes plays next!
+Glasses that wake you up when you drift off to sleep.
+A webapp answering the needs of couples sharing their love across long distance
+Presentations as dynamic as you are a speaker. StreamPoint: the world's first on-the-fly presentation.
+Transmits data with audio
+pass through like comet goes
+Website, where you can watch movies with your friends in real-time.
+გაეცი ცოდნა , მიიღე ცოდნა
+Wells is a smart bottle cap that tracks your water intake, boosting your well-being one drop at a time.
+Simple, extendable, scalable monitoring solution
+Cultivate the future, start from the sea
+Have a Matti buddy that helps you invest instead of misuse
+Set Protocols First Relayer
+Find the cheapest generic drugs available that were prescribed to you. Same quality at a low-level price.
+Turn your old-unused cheap smartphones to A.I. powered smart home surveillance system
+Call bullshit on clickbait.
+A single pane view of a individual users' security posture for Service Desk Operators and Cyber Security Officers
+Your medical diagnostics assistant.
+Platform for developers to volunteer for non-profit organizations
+A bridge connect the community and technology
+Modular educational Augmented Reality tiles tied to a smartphone app to bring engaging activities to the classroom.
+Cari aktivitas yang bisa dilakukan di Banyuwangi dengan Jelajah Banyu!
+Privacy on Ethereum - Secret recipients and hidden value transaction using zkSnarks 
+Vue.js application for accepting Bitcoin Lightning payments, using the OpenNode API, and notifying the iozeta CryptoVend.
+"Ok gamers, right or left?"
+Join the club to poke Trump and maybe throw some PokeBalls
+A food delivery service that takes on a conversational interface
+Control your browser with your Alexa device.
+Racoon - will help people to sort their garbage in new way.
+Use AI to never send a cold email again. 
+An end-to end solution for easily measuring &amp; tracking fish!
+Earn Compound interest with your rDai collateral, while providing liquidity for hedges against variable Compound interest. Get high on interest! 
+Dogs make your day. Doggify makes dogs.
+Bạo lực học đường
+How much can one person's tweets tip the scales? Try your hand at manipulating the market.
+"YourPacifier" is a smart pacifier to support your children and you.
+Automatic DeepFake detection: protecting democracy from the next wave of misinformation. Uses machine learning to detect whether videos are authentic or deepfakes.
+decentralized merkle-proven identity-attested non-fungible immutable interplanetary digital documents on blockchain
+Voice controlled (via Amazon Echo) IoT Raspberry Pi hub that enables communication with non-IoT devices.
+Should I take these classes together? With this Python program, they can figure it out themselves!
+VSCode extension for LC3 ( An assembly learning tool) with syntax highlights, snippets and keyboard shortcuts.
+A revolutionary gateway enabling developers to build &amp; deliver DeFi applications faster. DEFI (Defi Algorithmic Trading API)
+Memes bring people together. That's a fact. Finding people of culture with similar taste in memes is hard. That's a fact too. We make it easy!
+პირველი ქართული პროგრამირების ენა
+Visual CAPTCHA that classifies products on the way
+Crowd-sourcing delivery system so anyone can request anything, anywhere.
+Like Schedulizer but smarter.
+A mobile app that turns your cellphone into a microcontroller and IDE
+The fun way to get children outside, active and educated.
+Algorithmically generated musical literature using neural networks
+Travel inside the human body to get a new perspective of the systems that keep us alive!
+Experience a dark, horrifying fairy tale in this double-immersive VR game from outside and inside a mysterious book.
+Solve puzzles in an ancient underwater world using intuitive and comfortable VR mechanics
+Virtual reality meets Diablo and Zelda.
+Discovering social networks in VR
+Walk through an intimate data portrait of yourself.
+Making the most out of fast food.
+Paint42 is a VR application to create and experience amazing 3D worlds with beautiful colours and materials.
+Showcasing diversity within your organization
+Leave your laptop unattended, worry free
+Building effective working relationships
+Search inline images in Outlook
+Using wearable to monitor elder and Pepper robot for confirmation and assistance of the elder. 
+A Harry Potter-inspired clock that tracks the location of your family members via an app and updates a physical clock
+Using midi file format to improvise music from lead sheets.
+'Rocket Builders' brings back part of that childhood pleasure in an engaging VR experience
+How do we help asylum seekers and refugees own their own data?
+Voice-activated smart cooking fun with our dear friend Alexa!
+Facial recognition metrics to rank a driver's awareness and inspire safe driving habits. 
+We believe that Life is Worth Recording - So we built JRNL to help you capture, store, organize and reflect on yours.
+Summarizes flooded and nasty group chats into topics with clean bullet points of key events.
+Continuously monitor and complain to Metro Airports Commission about elevated aircraft noise in your neighborhood.
+Time is running out. Help junior put the sheep back in their cage!

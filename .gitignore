@@ -3,6 +3,10 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# tensorflow models
+*/models/*
+*/checkpoint/*
+
 # C extensions
 *.so
 
