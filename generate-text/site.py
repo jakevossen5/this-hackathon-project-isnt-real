@@ -1011,8 +1011,6 @@ def get_prediction_from_proj(proj):
 
             # Add has photo status
             data.append(project['photo'])
-            if len(project['photo']) > 0:
-                all_photos.append(project['photo'])
 
             # Add has video
             data.append(project['has_video'])
