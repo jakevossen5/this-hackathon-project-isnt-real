@@ -16,15 +16,18 @@ def gen_to_file (filedir, text):
 
 # function to get the words trained from each category
 def train_data (inputFile, outputDir):
+    tf.reset_default_graph()
     sess = gpt2.start_tf_sess()
     # train for the input file 
+    
     gpt2.finetune(sess,
         "resource/"+inputFile+".txt",
         model_name=model_name,
-        run_name=inputFile,
-        steps=10)   # steps is max number of training steps 
+        #run_name=inputFile,
+        steps=5)   # steps is max number of training steps 
+        
     # generate 50 examples
-    for x in range(0,15):
+    for x in range(0,10):
         print("here")
         #tf.get_variable_scope().reuse_variables()
         gpt2.load_gpt2(sess)
@@ -36,12 +39,16 @@ def train_data (inputFile, outputDir):
         tf.get_variable_scope().reuse_variables()
 #    os.rename("checkpoint
     
-train_data ("accomplishments", "accomplishments/")
 train_data ("challenges", "challenges/")
-train_data ("built", "how_we_build/")
+#train_data ("accomplishments", "accomplishments/")
+#train_data ("built", "how_we_build/")
 train_data ("inspiration", "insp/")
 train_data ("subtitles", "sub_title/")
 train_data ("titles", "title/")
 train_data ("does", "what_it_does/")
 train_data ("learned", "what_learned/")
 train_data ("next", "whats_next/")
+
+
+
+#### ran
