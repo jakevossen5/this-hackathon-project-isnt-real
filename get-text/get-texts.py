@@ -8,11 +8,15 @@ import csv
 def main():
 
     # Doing: 0 - 50
-    all_projects = ["title", "tagline", "responses", "tech", "is_winner", "like_count", "members", "photo_url", "has_video", "comment_count"]
+
+    all_projects = [["title", "tagline", "responses", "tech", "is_winner", "like_count", "members", "photo_url", "has_video", "comment_count"]]
     data = []
-    num_pages_executed = 50 # 6 elements per page
+
+    start_page = 0
+    end_page = 50 # 6 elements per page
+
     root_url = "https://devpost.com/software/search?page="
-    for i in range(0, num_pages_executed, 1):
+    for i in range(start_page, end_page, 1):
         req = Request(root_url + str(i))
         req.add_header('Accept', 'application/json')
         # urllib.request.urlopen(root_url + str(i))
@@ -92,6 +96,8 @@ def get_responces(url):
     alt_headers = ['Inspiration', 'What it does', 'How we built it', 'Challenges we ran into', "Accomplishments that we're proud of", "What we learned", "What's next for", "Built With"]
     text_list = []
 
+    text_list.append(len(all_text))
+
     for i in range(0, len(headers) - 1, 1):
         text_list.append(get_data_between_two_headers(all_text, headers[i], headers[i+1], alt_headers[i], alt_headers[i+1]))
     # for i,t in enumerate(text_list):
@@ -117,6 +123,6 @@ def get_data_between_two_headers(infile, start, end, alt_start, alt_end) -> str:
         if copy:
             data += line
 
-    return data + '\n'
+    return data + " "
 
 main()
