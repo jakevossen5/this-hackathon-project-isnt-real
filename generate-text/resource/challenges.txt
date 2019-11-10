@@ -1,25 +1,301 @@
-Being unfamiliar with C# and javascript. Various test cases that broke the code.  
+Using MapBox APIs. Connecting and setting up database.Understanding Android Studio.Combining design with code. 
+ None 
+ One of the major difficulties in implementing the drivability score was the lack of historical data and crash statistics for tuning the regression coefficients used to factor the score.  This model will need to be improved in the future though more powerful APIs and larger datasets. 
+  
+ We ran into many challenges in compiling the code. The coding part was the most grueling due to the nature of blockchains and our previous inexperience in ever creating a blockchain. However, we were able to learn many things about how the code behind a blockchain works. Specifically, we ran into challenges with abstracting the code and having the main Java class, where the interaction of a person making a transaction is made, triggers the addition of a new block in the blockchain. We also had difficulty abstracting most of the code into more efficient classes and methods so we could solve the previously mentioned problem. 
+ We had to figure out how to use Twilio. Another challenge we faced was linkingour HTML pages to our python. 
+ Connecting everything 
   
   
- Updating to current network standards and then fixing buffer sizes and communications between the clients and server. 
+ From the start, we had no prior experience working with some apis and services. We had trouble retrieving data from google firebase. We had trouble determining the best way to cluster data points. Taking user inputs and predicting the weather inputs was also a challenge.  
+  
+ deciding on the project! We pivoted a couple of times 
+  
+ How to get data and how to display data. 
   
   
- Being unfamiliar with C# and javascript. Various test cases that broke the code.  
+  
+ It was tough to get this done in 24 hours, for one! I think that the most difficult part of getting this project done was handling the relay of completed events using the Java API. 
+ Creating the API, gathering data, and handling dataflow in iOS were the most challenging aspects of this project. Although we knew Python beforehand, applying this knowledge and creating a RESTful API service using Flask as the backend was a new area for all of us and had many challenges as well. Further, although there are many databases available about food nutrition, there is not nearly as much about expiration dates since they are not federally regulated and depend on the manufacturer's discretion. Thus, we had to use web scraping to gather our own data as curated datasets were not available. The dataflow in iOS was also one of the biggest challenges we faced since SwiftUI is a relatively new platform and there are many differences in it, especially how the dataflow is handled. 
   
   
- Updating to current network standards and then fixing buffer sizes and communications between the clients and server. 
+  
+ The main challenge we encountered (and overcame) was learning how to use APIs through the Unirest library, as no one on our team had any prior experience dealing with APIs before this event. 
+ Certain programs were still on the site, despite no longer being programs run at Shodor. The design of the original website was also confusing in the way that navigation/links were set up for users to explore opportunities.  
+ Limited clean datasets.Hyper parameter tuning to build a top-class model.Sleepless night. 
+ The first challenge is the limitation of ARFundation in terms of its transform systems since the orientation of the spawned objects are restricted. To create the effect of having a portal we have to use shader to modify the underlying rendering pipeline to present the "illusion" of seeing things from a restricted window. The fact that we need to render massive scenes behind the portal increased the difficulty due to performance problems.  
+ Formatting the data was a challenge because there were a lot of columns that had information that was not relevant to our visualizations. There were also differentiations in the way counties were named and we had to standardize it. Accomplishments that we’re proud ofWe were able to code this web app with our team being at least 50% novice.What we learnedWe learned a lot about R, HTML, .csv files, pandas, Python, Github and most importantly, how to work as a team!What’s next for On The MoveIdeally, we would love to have more features like 3-D visualizations and more datasets. Given more time, we would add a feature that includes a ranking of the best counties based on all of the features we have.Built Withcssdatahtmljavascriptjupyter-notebooknode.jspythonrTry it outgithub.com      Submitted to    HackDuke: Code for Good 2019    Created by  I worked on front-end. Using HTML and CSS I helped design an interactive website that linked with our web app. Alvin BaoI worked on the front-end. Using HTML and CSS, I designed a website that holds the data visualizations and other information on the web app. Stephanie YaoI built the structure of the web app using Shiny in R to create the auto-generating visualizationsKeshav ShenoyI worked on gathering and parsing data, along with finding insights. I mainly worked with data analytics in Python.Ayush GoyalI worked on handling and parsing sets of data to allow data visualizations to be created. I mainly worked with python and its libraries for data analysis.Richik Ray 
   
   
- Wifi and many distractions  
+ I found it extremely difficult to create the project on my own.  
+ Nobody knew Django until today. 
+ The framework that we based our application on was unable to conform within our design process. 
+ Figuring out how to connect to the SmartCar API was difficult.  
+ The first challenge we met was that the request sent by Apex function cannot be received by the local server. The second challenge was that we are unable to generate reports crossing multiple database tables.  
+  
+ Initially we wanted to use Salesforce to serve as the database and the hub for all the data that we would pull in from Google; however, we ran into some serious troubles after several hours of being unable to complete the OAuth2 step to connect with their API. After we realized that we would most likely be unable to meet the deadline if we continued using going this route, we shifted gears completely and decided to reconstruct a solution using React as the frontend.  
+  
+ MacOS build was broken, so had to work with CODA team to set up alternative. Also was expecting more data to be returned from query. 
+  
+ One of the greatest challenges we stumbled across in the development of ConnectMe was the integration of the Twilio API into Google App Engine. It was difficult juggling two documentations and libraries within each other.  
+  
+ Google App Engine does not like python and javascript 
+ Finding recent and authentic datasetsIndexing at scale takes a lot of time and infrastructure, for personal PCsUnderstanding Visualization libraries, for users to easily understand 
+ I ran into one issue in particular the first night. I could not get the questions to appear one after the other and store the user's input at the same time. I took a break, went to sleep, and figured it out in my dreams. 
+ Learning React, figuring out how to manage the states 
+ Finding APIs to scrape for airport restaurant data.  
+  
+ Sending information between devices without pairing 
+  
+ Lots of moving parts, with 5 different repos. Lots to take in without context. Great project though. 
+ we intended to use IBC to connect to the DEX and query price data in order to mint new reDAOmint shares using a bonding curve. It proved impossible to integrate IBC with the DEX code due to its usage of an old version of the Cosmos SDKwe didn't have time to implement IBC methods for staking delegation and withdrawing rewardsthe IBC support is generally at an early stagewe don't actually have an on-chain geospatial index and that is a project of its ownthe bank and supply modules don't provide an efficient way to query the holders of just a single asset - this is something we would like to improve in the futuresimply not enough time for testing and debugging everything! 
   
   
- At first, the girls wanted to code their game directly on Thunkable. Thunkable's sprite and gaming features are very new and prone to malfunctioning and updating at inopportune moments. The girls could not get their sprites to talk or move around the phone, so they turned to Scratch (a format that they are very used to) to make their game. They embedded the game into their web page, and then integrated the web page into their app. 
- We couldn't figure out the code to change pictures, enter text, and add links. 
+ [x] Getting the application deployed to Heroku[x] Preprocessing the data so that tfjs can use it without errors still is finicky[x] Having the native Geolocator to work, navigator.geolocation((loc) =>  loc.coords) we scraped that 
+ Understanding the scope of Payroll decentralisation 
+  
+ Configuaration of the hyperledger network as it's quite complicated 
   
   
- Length 
+ We ran into challenges with the authentication, the database, the API and creating the categories 
+ The learning curve of the completely new tech stack that we are building. 
+ Google Databases. 
+ not too much doc and new to js 
+ Unfortunately we're all first and second year computer science students with very minimal knowledge in using app development frameworks so we went ahead and created a visual high fidelity prototype that showcases what we want to accomplish. 
   
- Mostly just understanding the ISP functions, which once implemented, turned out to be quite easy to use. 
+ Indexing things is hard. Parsing big data is annoying. Dash applications do not like to be pretty. Orbits aren't easy. 
+ Front-end: Interacting with the smart contract through web3 library on the react app was challenging as some of the web3 functions were not included in the base node modules.Back-end: Breaking changes to Solidity depending on version and compiler. Generating factory contracts and lack of error messages. Flash loans are new so documentation is sparse so we were paving our own way. 
   
+  
+ Picking the right software for the backend. We started off using elixir, scrapped it to build it in express and mysql instead, and then scrapped that to use django and sqllite.  
+ -Tool compatibility    Excel filters not hiding values from Figma- The Noun Project    For sourcing visual assets- Material Design User Interface Kit    A library of UI elements, app templates and style guides combined into a source file for Figma -Data sourcing    Finding reputable, current, and relevant climate data.-scope creep    Staying focused on creating a prototype that demonstrates core features,not getting distracted with extras.-time estimations    Setting realistic goals about what we could build in the alloted time.-communicating our missionTrying to refine our message to convey both the immediate problem solved by the app as well as the larger context of the app. 
+  
+ This was my first time using React as a front-end templating framework as well as the Google Maps API. In comparison to VueJS, React does not provide as much control over your application. The Google Maps API, in particular, was difficult to work with because there was a lot of things you couldn't do to customize it. Furthermore, I worked on this project alone for the entirety of the hackathon. 
+ Serialization issues in Cosmos. Needs moar logging 
+ Float points came to bug here as well. Need to expand the logic to allow for fractional interest rates. Also need to refactor the json formatting to allow for block-times to be included so that the chain could calculate correct interest rates from the start time of the borrow position. 
+  
+ Creating the rectangle selector for pinpointing different Placing the python script to call the API on the cloud was difficult as the documentation and setup were unclear. It took us a while to configure the cloud properly for use. In addition, the script took a while to be registered on the cloud which slowed down our debugging process. Also, the Google Cloud Vision process had common errors at times, which had to be manually fixed through string parsing algorithms. 
+ We originally wanted to have almost everything be hosted in Google Cloud, including the back end, database, and front end. We ran into a lot of issues in trying to figure out how to get different parts of the project to communicate, and so in the end, as we began to run low on time, we decided to use a more simplified version for the final submission. 
+ No one on our team was very familiar with Javascript, which is what Chrome extensions are built with. We spent a lot of time learning the fundamentals of this language. We also had difficulty finding good sources of data to pull from.  
+ We found it difficult to train the machine learning model which faced inaccuracies due to training data (movie reviews) that isn't completely compatible with sentiment  
+ Towards the end issues with SSL prevented us from linking the AR dashboard to the GIS API. We also had difficulties using the AR web app on a variety of devices due to nuances in gyroscope function. 
+ The server was bad. We don't have an all encompassing data set.  
+ We ran totally into the Capital One challenge. Also we got into the Home Depot challenge, because we think that Ethereum connected to your bank account is a very good opportunity to provide better financial inclusion, and can provide value for companies by allowing payments in Ethereum/backed crypto. 
+ Front-End: Working with MaterialUI, general styling and designBack-End: Getting RabbitMQ to work with Java and Go 
+ Some challenges we faced were inputting the users input from the app into the correct pages that go for each category. This problem was specific to android studio since it converted the strings into bytes.  
+ Had issues running fitbit sdk and was unable to integrate for demo. Ran into numerous bugs in loading index file to local server. 
+  
+  
+ Using Firebase, mongodb, connecting database to frontend 
+ Hosting and deployment were the biggest challenges.  
+ The complexity with regards to mapping and API.Ensuring cohesive overlapping between the GUI, SMTP/Twilio infrastructure and HTTP mapping framework 
+  
+ Our group ran into some challenges that we had to learn how to overcome. The biggest challenge was that each of our group members had a unique set of skills, which meant choosing a project that could utilize the unique strengths of our group members was necessary to our project’s success. 
+ The AccuWeather API is rather cumbersome and can be hard to get the data that was needed to perform the analysis. 
+ We had issues with pulling and pushing to Github. There was a challenge in getting relevant info from the power outage API as well as the static map image API, then understanding how to traverse the JSON we got back. Having our bot run on Amazon Web Services was also a significant obstacle since none of us had any prior experience with it. 
+ Simple things like animating and making the code function. Coming from a zero programming background, everything today is a learning experience!  
+ We had some difficulties with geolocation and match the right driver and carpooler together. However, we managed to accomplish it. 
+ The majority of our time was spent understanding the NPO services landscape and choosing the right problem to solve; it was challenging to narrow down the scope to a single problem, especially since individual NPOs seemed to be experiencing many pain points and work-flow problems. After many iterations of user-flow and technical discussions, we took a step back and re-focused on our target users (SF residents) and how we thought we could make the biggest impact for them. 
+ This was our first time using Android Studio, and so there was a steep learning curve, especially when tweaking the user interface. We mastered basic operations, but spent a lot of time in doing so. 
+  
+  
+ Not enough time 
+ We ran into challenges testing the smart contracts. There are multiple test-nets with fragmented liquidity which makes it difficult to test a protocol that has dependencies on other protocols. We required Maker and Compound Oracles and Uniswap exchanges to test our code. 
+  
+ This exercise is non-trivial and required large amounts of reading and yielded many failed iterations. 
+ We had no experience in React Native, so it was a strong learning curve, but we were able to rise above it and learn fundamentals effectively.  
+  
+ Our next step was to build a Predictive Regression Model with Azure AutoML, but due to technical difficulties and Azure not working nicely with us in the end, we were unable to get one up and running in the end.  
+ Using the MongoDB stitch web interfaceAuthenticating anonymous users and setup permissions for event organizers 
+ Neither of us really knew how to use Javascript or call API's.The combination of the two gave us the most trouble. 
+ Figuring out how to integrate API calls into UnityFiguring out how to synthesize different API dataNavigating the Marquee APICreating markers without a printer 
+ Getting the bot up and running was challenging in itself but due to the Make You Own Chatbot workshop, it was made feasible. We had to stop the bot from responding to itself, and the python syntax was a pain as a single space in the wrong line of code can mess up the entire program (which had happened). 
+  
+ We had a lot of interesting challenges, such as being down a laptop (from a car breakin in the city a few days prior) and having to wait for stores to open to buy a mouse after a different laptop's mouse broke. Shoutout to table E4 for letting us use a USB drive to repair the operating system. 
+ IBC 
+  
+ Some challenges we ran into was cleaning up the dataset and reducing the dataset so it wouldn't skew the data when we created the model. Another challenge that we ran into was using Flask to attach the backend to the frontend because it was difficult passing the model into the flask code.  
+ Other than the first group falling apart? I spent a lot of time getting distracted showing people videos on procedural animation or generative modeling. 
+ Using Cloud Functions for the first time led to several design challenges that we as a team had to work through to fulfil our design goals. Implementing a mobile application using the Flutter framework lead to many issues in regards to technological and community support. 
+  
+ We ran into issues passing the state of the application across multiple fragments of our app as well as getting the Google Autocomplete to work in the cleanest way with our app's flow. 
+  
+  
+  
+  
+ Our team was not very strong in javascript, so creating the front end was a bit of a struggle. We also learned how to use pymongo and learning non-relational database methodologies as we were implementing the database. Finally, there were some problems understanding Azure's resource groups and subscriptions, which blocked us from provisioning the machines that we needed. 
+ Considering various scenarios that can happen with the introduction of LSPs. 
+ Making a contextual aware system to ask meaningful questions is where had challenges  
+  
+ Aerodynamics for sure. It was difficult to make a somewhat accurate flight simulator in a decent amount of time. 
+  
+ Ambition 
+  
+ I had to self-learn a lot of JavaScript for this, and my code is not completely error-free... 
+ Although we would've liked to have added support for messaging between friends, we found developing back-end technology for this to be especially difficult. 
+ Calendar API was still is a challenge using cloud functionsDate time formatting continues to be inconsistent 
+ Creating a cryptocurrency is not easy, especially when there are many competing ideas and protocols that you need to choose and be able to justify a reason for. We tried hacking a new cryptocurrency for the Backfeed decentralized collaboration protocol on the Waves Platform, but! We weren't sure if we wanted a centralized mechanism that controlled the supply of Probos, or if we needed an automated way to burn/issue Probos. We weren't able to find a straight answer for automating a protocol that controlled the supply of Probos, so we didn't go through with actually using the Waves Platform to create our cryptocurrency (even though it was extremely accessible and user-friendly). 
+  
+ Our main challenges were understanding how to communicate with Azure. We learned new concepts like event-driven serverless computing, React, and Blobs. We struggled a lot in getting the batch processes ready as this was a fairly complex task to set up and had a lot of moving parts. Additionally, scraping news articles was difficult as well since many news websites have dynamic search result pages, meaning we had to use Selenium for virtual browser sessions in order to dynamically interact with the webpages. 
+  
+  
+ We wanted to incorporate a character that would lead the user through the experience, but it ended up taking so much time that we had to abandon it. We also found that the Quest automatically degrades textures far from the user in order to boost performance, which made it more difficult to optimize our models.  
+  
+ We switched project ideas like 12 hours in and didn't know Game Maker Studio. 
+ All of them. Specifically, reinforcement learning was slow to run on our old laptops, and the structure of the project did not make it easy to develop on two computers simultaneously. 
+ The Metamask plugin system is in beta, and the Agoric chain is currently in testnet.  Both are currently moving targets.We had stretch goals of using generic RPC mechanisms to communicate with the Agoric chain, but instead hand-wrote each bridge function.  This caused several bugs that were hard to find and fix, which should have been systematically easier. 
+ Understanding blockchain itself 
+ Learning a new language 
+ Challenges included mastering the setup of a ZKP payment channel such that one could architect a proper blockchain-backed escrow account on cosmos. 
+ The biggest challenge for us was the preprocessing step of our data. We had to create a homogeneous synthetic dataset and then we had to make the real data compatible with that.  
+ Each team member have very different talents, so coordinating all of the parts of the project and combining our individual styles was challenging.  In addition, learning a new framework was a challenge since we were unfamiliar with Renpy. 
+  
+  
+ One problem we ran into was incorporating relativity into the simulation, and it was difficult to accurately depict the particles decaying based on their half life. Another difficulty was finding data because there is a lot of variation in the information we found. 
+ Flutter is fairly new, so it has some bugs. Two of us were using Linux so the build files were messed up for the Windows users. 
+ It took us some time to get used to the API and for many of us, it was our first time working across the web stack. 
+  
+ Our text message took a lot of debugging to display the results properly. What we learnedWe learned a lot about various coding languages from each other, as well as new opportunities for ethical hacking.Built WithpythontwilioTry it outcs.wellesley.edu      Submitted to    WHACK Fall 2019    Created by  andreeas98 Sabaugchavez1costello-bethanyDania-Abuhijleh 
+  
+ -Finding free APIs that would enable the user to schedule reminders-Disabled Twilio accounts-Slow Internet 
+ The direction of the blaze tends to be affected by many factors such as wind velocity, presence of environmental factors like coastline/forests/residential areas, etc. Hence it's very difficult to isolate possible regions that could be affected. Additionally, a lot of tweets such as those from news agencies and/or emergency services are broadcast from the headquarters, hence using them as base-points for ground zero is unreliable.  
+  
+ We all decided to learn new technologies and languages this hackathon rather than sticking to what we were already familiar with. Most of us have never used Azure or MongoDB. I was using Javascript for the first time. However, we learned a lot and it was a great experience. 
+ Translating our idea into code; we all had no experience coding in HTML or Javascript  
+  
+ structuring 
+ Learning game developmentPerforming 2D FFTDivergence for numerical integrals, conservationMeeting Performance constraints (target 60FPS) 
+ Animations are weird and hard to implement without sufficient time. Unity makes simple actions difficult. 
+  
+  
+ Labeling 1000 videos takes a while. Writing chrome extensions can be difficult.  
+ The json data was slightly messy, so we had to cleanly parse through that 
+ We ran into several challenges creating the backend implementation of our webapp. Specifically, working with unfamiliar technology like Flask and React. The biggest challenge we faced, however, was server-client integration.  
+ The backend part was kind of challenging since neither of us had used Firebase as backend previously. But we made to learn how to use it and integrated with our Swift codes. Also using MapView in Xcode to locate user was hard at the beginning since we had not used this component previously. Debugging in the TableView part for displaying hospitals was really tricky. Last but not least: Hold on and don't give up! 
+ Connecting to MongoDB: We couldn't connect to our database through the events WiFi, so we had to connect through an independent VPN. Scraping thousands of items from Goodwill websites: We needed product data in order to make reccommendations, so we scraped Goodwill's website using python.Populating MongoDB database with processed data: We were not familiar with MongoDB, so we had to learn how to query data, and how to process and input the scraped goodwill data into the database.-Matching surplus with scarcity values for goods: We had to create an algorithm that matches shelters together based on their respective needs. 
+ Building the physical Chladni plate came with a host of challenges. Given our lack of construction resources, cutting the materials down to size and drilling the necessary holes took a good deal of time. Also, the patterns produced on the physical Chladni plate are very different from the complex patterns produced in the simulation, due to the nature of the build and the limitations of the materials. Plotting the equation ended up being more difficult than expected, as the library we used does not have an easy way of representing implicit curves (like the equation we are using). Another big challenge was getting the interactivity to work properly. However, we were able to eventually get over these challenges and arrived at the final product. 
+ -Optimizing the computation in Python was challenging since we were dealing with big inputs.-2 of our teammates didn't know how to program in JS, which made the animation progress slow.-None of our teammates had knowledge with connecting backend and frontend which made the communication between the JS and Python script a challenge.  
+ Right now, to vague the name in the pdf, we transform the imported pdf into text and scan the whole fire. As the system detects the name, it will make all the characters into star. However, we face the technical issue of transfer the text resume back to pdf. This is an technical issure, and we believe it can be resolved if we’re provided more time. 
+ We had initial difficulties with connecting the chrome extension to the MongoDB database. We eventually decided on using Stitch to act as an intermediary and run HTTP POST as an API call to send the scraped data. We also had to identify the most appropriate way to store and enter data without allowing for duplicate class unique numbers and updating the time stamp and size as necessary. Finally, we had challenges with deciding how to present the web app to a user of the extension. We ended up using a button in the extension menu as a link to the web app.  
+ Modern and quantum physics are complex to model given their high uncertainty and instability, especially for students with very basic physics backgrounds. Not all team members mastered JavaFX. 
+ There were a lot of them. Come by and we will tell you. 
+  
+  
+ Downloading and working with all the tooling 
+ We had to learn CSS, Html, and Javascript from scratch as we built the project. We attempted to use Google Sheets API but found it too cumbersome (multiple authentication hurdles) for our application, so we had to adapt our approach.  
+ For some in our group, it was their first time working with react. Members spent time learning the documentation and not necessarily progressing the project. In addition to the time to learn, we spent a decent amount of time doing research for the suppliers list, environmental protections indices, labor protection indices, and modern slavery indices. Regarding the code, one member that spent a lot of time on an autocomplete component that ended up getting scrapped because of a misunderstanding of react architecture. One member spent a dedicated amount of time to starting and integrating the azure service. Another spent time building the neo4j database.  
+ Learning React and Marqeta APIFinding API with needed libraries 
+ One of the first major challenges we ran into was that no one knew AR. We had to learn ARKit and thankfully Apple had great tutorials for ARKit. We tested our app first on water bottles until the application was able to recognize the bottle in 100ms. We also ran into an issue that when we took a picture with the application it wouldn't give us the image file. Instead it gave it to us in 64 bit encoding. This made it extremely difficult to do any OCR on the image. 
+ Creating forest, setting up hardware. 
+ It is NP-Hard to determine if a quantum state is entangled, as such it is difficult to determine individual quantum states, even if the system is not entangled.  
+  
+ Debugging asynchronous calls in JavaScript, integrating multiple different APIs with each other, and creating a system that maintains user privacy were our biggest challenges. 
+ Convincing one of the teammates to use the Git client instead of Git command line. Also, setting up port forwarding on Google Cloud to host a Flask server. 
+ First off, we had problems debugging the code because the solver was a bit rushed, making hard to debug. Turns out the output speeds were inverted, which meant that, physically, nothing works!. While fixing that, we noticed the coordinate system we use (spherical) has a "built-in" singularity  with our equation which makes convergence very difficult. We explored (and wasted time) on multiple avenues: Trying to set boundary condition using known symmetries (only applies to specific cases), multiple coordinates systems (only worked a bit on it on paper). This delayed the whole project. 
+ Began the problem with orbiting planets and sought to find a cost function for a particle with existing planets; however, we found it difficult to produce the cost function itself given the most generalized set up of an arbitrary number of planets and their orbits,  as well as initial conditions  
+ •Making the Heatmap•Many members of our team had little experience with web dev work•Integrating systems•Linking the backend to the frontend•Navigating APIs (getting access, integrating APIs, finding the right API) 
+ Imperfection with html and JavaScriptImport, storing and export location dataComing up with strategies to build the database. ( we find the strategy of encouraging normal people to walk the path of disabled people)Finding the real need of disabled people and looking for solutions to help them. (Identification of the topic) 
+ Initially, we wanted to numerically solve the heat equation first to make sure we were on the right track.However, we were running into problems related to gradient explosions. We thought this was related to how we were dealing with boundary conditions, but in the end we realized that using a a different grid size solved the problem. Then, we tried to solve the Schrödinger equation, but once again gradients were exploding. At the time, we were only plotting the square of the amplitude and so it seemed like the wave function was not evolving fast so we increased the number of time steps per frame. This resulted in the fact it didn't take long for the gradients to explode. Eventually, we decided to plot the real and imaginary parts and realized that the simulation was extremely sped up. We decreased the number of time steps and the gradient explosion problem was solved. 
+  
+ One of the biggest challenge we faced was getting our JSON parser to properly connect and work with our front-end in Android Studio. Since we had trouble working with the parser and our realization came too late to get mentorship and help, we will have to hack around it. 
+  
+ Seamless mobile integration was our goal from the beginning, which proved to be a formidable yet rewarding task. Also, our fellow hackers proved to be very challenging opponents in spike ball. 
+ One of the main challenges we ran into was not knowing enough about HTML in order to execute our full vision. Right now the user has to check their own answers for the quizzes and we weren't able to include a game or anything more fun as we didn't have enough time while trying to learn HTML at the same time. 
+ Twitter Analysis:Initially, we wanted to use Tweepy to pull relevant tweets of specific locations and date ranges because of previous experience in using it. Assigning locations was a bit odd: rather than taking in a location by keyword as a string (ex: "Melbourne"), Tweepy actually requires the input of the top left and bottom coordinates of corners of a geographical box selection of that location. Pulling from the Google Maps Places API, we were able to pull this information. We then realized that Tweepy strictly pulls from the most recent tweets... there was no way to access past posts. We then decided to pivot and try to use Twitter's official API, until we learned Twitter's API has specific regulations on accessing tweets only within the past two weeks.With some in-depth Google Searches, we found a script on GitHub called getOldTweets that pulled historical Tweets using a unique method. Unfortunately, the update of the code from python2 to python3 was incomplete, thus while  location searching was available, date range queries weren't. However, both features still existed in the python2 version of the code. We decided to just write and run this scraping of the Twitter posts in python2, and write everything else in python3.Another challenge was that we are both computer science majors who did not have much experience in data analysis. Dealing with huge datasets in the hundreds-of-thousands was new territory to us, and it truly taught us a lot about how to deal with data. For example, we found that many entries of the data had to be discarded due to being unreasonable outliers or sparse entries. We also had to implement an efficient algorithm that could process all of this data in a reasonable time, which was done with a bit of dynamic programming in addition to concurrent processing to speed up our dataset retrieval. In addition, we had to figure out how to implement a Java GUI to show all of our data plots, so getting Java and Python to interface together was an interesting challenge.  
+ Learning how to use API's and format the data. 
+ We ran into many challenges throughout the night. Implementing the Machine Learning model and integrating it with our code, we didn't know how to send the images in between the two programs. Also, the model that we used was very unpredictable at first, the accuracy was below 20%, but after refining the images, positives and negatives, we achieved 85< accuracy. We ran into challenges and disagreements when debating to use AntD or CSS for the React interface. The database was also a challenge to set up since we were experiencing troubles with MongoDB, but those ended up being resolved. And last but not least, we set up our own backend service, instead of using things like Firebase, for example. 
+ The biggest challenge for Flare was trying not to over-fit/under-fit our deep learning model to get accurate results. 
+  
+ We had to ensure that we could apply the readability score to any piece of input provided by the user and process enough user data to to provide a meaningful measure. Because readability can vary from sentence to sentence and from measure to measure, we had to give our project leeway in case some implementation wants to use a measurement besides Flesch-Kincaid. We also had to learn from scratch how to use intents and contexts in Google's DialogFlow to properly sequence conversations. 
+ Dealing with hit-boxes as well as programming the specific controls for both particles and the cameras. Also the problem with the balls moving together.What we learnedWe've learned about quantum entanglement, quantum superposition, as well as basic UE4 skillsWhat's next for Quantum Entanglement and Quantum Superposition Video GameFix many bugs we've created(balls move together, walls, etc.) and add more levelsBuilt Withblenderunreal-engine      Submitted to    McGill Physics Hackathon 2019    Created by  Danylo PerkovDragonGhost7Zeph0528Justin Joven 
+ Some challenges we ran into are the raspberry pi we used was previously a pi hole and we had difficulty setting it up as a network. We had to wipe the raspberry pi multiple times. Another challenge we faced was creating the communication between the sockets. There were multiple instances where we had to maintain a client-server relationship between two devices.  
+ We had issue with selecting the input/output of the neural network since there were no "real value" for predictions. We eventually decided to utilize less data for traning set, and use known data as our target.Lack of training set. 
+ The challenge we ran into while programming is that our senor was not getting reliable data because it was broke. Additionally, right after that, we found that our raspberry pi is broken. We weren't able to send the data to our real-time database to the computing which set us back many hours of troubleshooting. Also connecting the database to work in the raspberry pi and retrieving that data using javascript was a difficult process. 
+ Lack of data in American Airlines API and lack of forecasts far in advance from the Dark Sky API. We also ran into many challenges with the front end as we were not very familiar with CSS. 
+ One temperature sensor was broken while we tried to install it to the appropriate location, so we had to restart with a different type of sensor that isn't compatible with our previous code. We also had some difficulties getting the graph's color legend to stay constant and to generate a GIF with our data via code, but we eventually managed to fix those problems. Finally, near the end of the competition, it was raining and hailing outside and we had to find creative solutions to protect our setup. We first had an umbrella, but it was too fragile, so we broke up a plastic bag and covered the equipment.  
+ Creating a model took most of our time; getting a lot of data for people who stuttered was incredibly difficult. No data source had words of people stuttering. In addition, deciding on what type of data to feed the model (phrases versus words versus sentence) posed a serious problem. Finally, porting the model over to an iPhone app and allowing for realtime feedback also posed a challenge. 
+ We ran into issues from mating the back end in Django to incorporate HTML requests. On the formatting side, our group had to learn HTML from scratch as none of us had any experience before this hackathon. We faced many issues integrating CSS and utilizing the design features to give our site a smooth feel. Accomplishments that We're proud ofOur entire build was a series of firsts. We recreated a 3d model of the Shodor logo to house an animated version on our website for the first time. We created both a front and back end for a website for the first time, and 3 of our members attended a hackathon for the first time.What we learnedWe learned how to do everything on this project; HTML, django and CSS. We learned to create a new idea and work together all night to achieve it. We learned how to properly use git push and git pull. Most importantly we learned if you eat too many awake bars you no longer feel their effects.Built WithcssdjangohtmlpythonTry it outdocs.google.com      Submitted to    HackDuke: Code for Good 2019    Created by  Cole DavisAli KazmiRachel Mittalallison6753 
+ Incorporating our Python code into the container website proved difficult, as we could not find a way to seamlessly combine the frontend and backend of our project. Ultimately, we have a working program and a mockup of what the mobile app will ideally look like with full functionality. 
+ Getting phones, iOS devices that could support ARKit.Developing multi-peer connectivity. 
+ One of the largest challenges we ran into was setting up the user input so that it updated the bar graph instantly; this challenge was overcame by changing the file hierarchy so that functions could be passed between the graph and bill components.  
+ The greatest challenge I faced was being able to integrate all parts of the Google Map API to create my web app. I was also faced with the challenge of creating the web app with my limited knowledge of Javascript 
+ With a collective of very little experience in hardware and application development, getting started was a lot hard than we first envisioned. Nevertheless we had a goal in mind and worked as a team to further strengthen ourselves more into the subject we knew could use some polishing. Documentation on the TI CC2541 sensor tag was difficult to find since the company has since released newer versions of the sensor tag. This made it particularly difficult for us to properly extract the information we needed, but with some heavy duty digging we were able to find what we needed to make it all come together. 
+ Neither of us were very experienced with socket programming so there was some learning curve with that.We also spent a lot of time trying to host on AWS with Apache and it turned out to be more difficult than anticipated. 
+  
+ From a project management perspective, one interesting problem was developing common interfaces for multiple moving components of our project, especially front-end and backend.What I learnedWe learned a lot about APIs, non-relational databases, and software engineering best practices.What's next for BitWiseWe hope to integrate fault-tolerance into the product, as well as develop a fraud detection model. The fraud detection module would randomly ask the user to answer a binary classification problem for a prelabeled image as a test of user aptitude. In addition, it would remember players who consistently fail the aptitude test and/or give answers that turn out to be outliers. These players would receive a punishment that leads to their answers having less weight compared to other users. Likewise, players who consistently pass the aptitude test and give strong answers will receive a reward that increases their importance. Players could receive some indication of their importance and perhaps receive a monetary reward if they do particularly well.We could also attempt to gamify the experience by adding a player leaderboard, with players ranked by number of questions answered. Another idea is to add daily quests that lead to a monetary reward. Both of these ideas make the users feel more connected with one another. Furthermore, they provide a competitive push for them to classify more images.Built Withexpo.ioflaskgoogle-cloudjavascriptmongodbnltkpythonreactreact-nativescipywordnet      Submitted to    HackTX 2019    Created by  I worked on the backend, specifically the Flask API, WordNet tree generation, and the MongoDB databaseAidan DunlapI worked on the backend, specifically with tree binarization and LCA algorithm.Anand IyerWorked on LCA algorithm and fault-tolerance module (specifically the statistical testing).DavidXu9000I worked on the back-end and the fraud detection system.Sanjit BhatI worked on the React-Native front-end framework and integrating the UI to interact with the API.Benjamin Li 
+ Once I understood how each step of the emulation process fit together, the largest problem was debugging. Several hours in the late night were spent perfecting opcode interpretation and eliminating segmentation faults. 
+ This was originally going to be built on Android device, but due to technical difficulties, that idea had to be pushed to the side. As a result, this was built as a game for MacOS, with the resolution set to match that of a mobile phone.  
+ Yes, the project was started with considerable struggle as we attempted to deploy Angular (TypeScript) on a Node.JS web server. At the same time, we were trying to connect a database to the Angular frontend. After some refactoring, we were able to come up with a slightly different stack that worked much better for us and allowed us to continue working on other things.  
+ We had trouble interfacing the Google database with Python. This was our first time using RFID, so we took some time to learn the basics. 
+ Having no experience using IBM tech, it was difficult to learn how to use IBM watson and various other technologies in the given timeframe 
+ understanding the api documentation 
+ Authentication and real time updating were our biggest challengesWhat's next for Smart MirrorFuture versions of the smart mirror include adding a camera within the frame of the mirror so that when a certain user approaches the mirror a customizes smart layout can be displayed.Built Withcss3javascriptnode.jsraspberry-piTry it outgithub.com      Submitted to    HackTX 2019    Created by  I worked on concatenating multiple APIs together for an immersive experience on the display. I used nodeJs and CSS for developmentAmer DinI worked on putting together the hardware as well as developing a configuration for the modules to get displayed together on the main screen. I thoroughly enjoyed working on this project and look forward to making significant contributions to it in the future!sachin-subramanianI helped assemble the components for hardware aspects of the smart mirror. Armale KhanThis is about my third or fourth time using a raspberry pi. While I wasn't super familiar with it, It wasn't very difficult to learn how to use Raspbian because of my team members who taught me more about it!Sebastian Moreno 
+ Real-time detection with a less powerful machine is very hard to achieve in the real world. We had to use the GPU of our machine to run the "Detection". We had planned on deploying this method to the drones directly but it has been pushed to future hackathons. 
+  
+  
+  
+ Our biggest challenge (being that we have limited Javascript, and Jquery experience) was getting the data from the form to be sent to the backend. We attempted for a long time to write the data into a .txt file that would be sent, but this did not work, and we realized too late that we should have posted to python using jquery ajax. 
+  
+ One challenge that we ran into was the lack of free API services for speech-to-text. Speech-to-text is such a useful feature, but it is almost impossible to create a decently accurate speech-to-text service in one day, making it essential to find a good free one. We spent time trying to implement several such as Google's and Microsoft's, but only had success once we found the Google Web Speech-to-Text. 
+  
+ We wanted to add user accounts to the website, but we had to spend more time focusing on implementing the interview process than we thought. Also, the visual component of our website is sufficient for demoing, but we definitely want to expand upon it in order to provide an impressive experience to any user that visits our website. 
+  
+ A lot of this was new to us. The Google Cloud API, MongoDB Atlas, and Flask were all new to us. We had to learn so much before we could even attempt to use these technologies in our app, which turned out to be a success. 
+ People who are joining the lines are anonymous, so we can’t prevent the situation where the same person is in one line for multiple times. Also, currently people who in line have to keep the website open in order to get notifications from the owner of the queue, so if they accidently close the website, they have to rejoin at the end of the queue. The other problem we ran into was finding a way to estimate the amount of waiting time. 
+ Figuring out how to create/serve dynamic webpagesGetting everything set up on google cloudDetermining best metrics to account for when checking if content is real vs. artificially generatedSetting up our domain on time 
+  
+ -Integrating the front- and back-end proved difficult.-Finding the right way to track interesting events was a difficult choice to make. 
+ The whole team was not familiar with React.js and its versatility is various applications and functionalities, so we spent a lot of time looking up specific functions, methods, and React.js-specific syntax. We also had to utilize the Google Maps API, which also took a bit of time to understand and integrate into our application. 
+ The data was few and far between. Finding reliable data sources was very difficult. We had to make lots of custom web scraping scripts, but would end up with dirty data. We also got blocked by google, because they thought we were bots. So, we had to do a lot of data cleaning and joining. Designing the website was a challenge, as well. 
+ Mostly the time constraint of building a smart contract from scratch, and integrating with a protocol we're unfamiliar with. 
+ SMS characters have a character limit.I wanted to narrow the search down the store but it made too many API calls and stalled the application.I didn't have time to figure out how to include a Wegmans pdf map to my messages.## Accomplishments that I'm proud ofI'm proud of creating something I'd actually use.## What I learnedI was somewhat familiar with API calls so I learned how to integrate the response component of Twilio's API.## What's next for Where's my groceries?Making my code work.Making a better user experience by providing information seamlessly.Adding an image of the respective Wegmans to product search function.Adding a shopping list/price management.Try it outgithub.com      Submitted to    UB Hacking 2019    Created by  clincl Lin 
+ problems with Firebase, Domain registrar, and FTP libraryUsing Machine learning for first time 
+  
+ There were many problems we encountered along the way, but it was definitely the most challenging for us to connect the front-end with the back-end.  
+ Setting up the development environment for our Android app was a pretty big challenge, especially because the person doing that job is not really a developer. (That's me, hi!) I've had trouble setting up Android Studio in the past, and this time was similar, causing me to use Expo instead. Other than this taking up a good chunk of time and being a bit frustrating, it wasn't too costly, though and was definitely a valuable lesson we'll get into in "What we learned."  
+ I had never built an iOS app before, so picking up Swift and the XCode IDE was a bit difficult at first, but it was not as different from developing an Android app than I originally thought. I also had challenges connecting Firebase to my app, but it worked out eventually. 
+  
+ We used cutting-edge libraries with limited documentation and unrefined code. It was quite a challenge to get a working prototype with them. Furthermore, due to how state-of-the-art our technology is, we had to work with unpolished academic paper code, taken straight from the most recent academic research. 
+  
+ Firstly, we had troubles with the image scraping script, as some of our members had issues with their computers that didn't allow the script to run, which essentially relegated scraping to one member of the group. Then, we had issues with IBM Watson. We couldn't decide which of the services to use, and once we decided, we ran into issues where some group members couldn't train the model due to errors or infinite loops. Once we got it working, we had an issue where three fourths into the hackathon, our account credentials expired and our model was lost, so we had to retrain the model. We also had issues with the Twilio API, which changed some things that made some aspects unfamiliar. 
+  
+ Not enough time to actually deploy this web app to the web 
+  
+ We ran into issues regarding how to filter through all the recipe entries and how to analyze sentiment on twitter for each one. 
+ In the beginning we had trouble with Azure and getting our React app to be deployed to it. Eventually with the help of Microsoft we got it up and running smoothly. It was now time to divide our tasks. Shelby had a lot of trouble with MongoDB because it was his first time using it. Once he set that up, he then had to connect it with the app and be able to retrieve and store info onto it. That was also another challenge that we eventually accomplished. It was Sam's first time using React and TypeScript and that came with a learning curve. After many frustration hours of corrupted files, sleep deprivation, and slightly going insane, we managed to push out this project that we are really proud of. 
+ We had a hard time getting information from the APIs, but we finally figured the problems out by searching solutions on the internet. 
+ 1) Figuring out IBM Watson Studio2) Lack of mushroom knowledge3) CORS 
+ Connecting all pieces of the project proved to be more challenging than initially expected. Training the machine learning algorithm to recognize audio. 
+ The Azure Python SDK had a lot of module compatibility issues and wouldn't work on one team member's computer regardless of the virtual environment settings. Making all of the APIs, selenium, and input tracking run in parallel was difficult to manage. 
+ We ran into a lot of challenges, and a lot of frustration. Most of them came from Firebase integration with our App, and front-end integration of our natural disaster predictions. We also spent a considerable time developing the UI by keeping in mind that our users will be in stressful situations.  
+ SmartCar testing proved to be more difficult than we expected, as the data it generates is completely random. Fortunately, due to the random data, we are confident that our Chargeo API is dynamic and fully functional. For the purposes of the demo, we managed to reduce the range of data to more accurately reflect the demoed location. Having the application refresh in the background also proved to be more difficult than we initially thought, and we had to browse to make sure our application kept refreshing the battery level while also not draining too much battery. 
+  
+  
+ Peer-to-peer connectionReliable geolocation updatesData store ML planning wasn't implemented 
+  
+ Time series forecasting are the hardest Supervised ML problems. Data transformation for a forecasting algorithms are very different as each model predicts in rolling forecasts or as a whole.MultiProcessing to run multiple models simultaneously.Getting from Unstructured to Structured data.Accomplishments that we are proud of:Getting Hybrid Modelling algorithm to deployment which is presently an area of research.What we learned:We as a team have done a splendid job with building a dashboard that is user interactive. Though it might look simple to the front it has a lot technical and software aspects that's running it. Nothing is easy to build we have made errors and we worked hard to resolve the errors and in that process we as a team learned a lot. What's next for Ploutos:We have tons of cool ideas for Ploutos that our users are gonna love and we are 100% sure that we can accomplish it but, due to the time constraints we were unable to fit everything in though we have things ready.A novel method we want to implement is Spatio-Temporal Forecasting ie 3D Forecasts where we consider Spatial aspect with time. In future we want to implement all those ideas that we have and more over take users feedback and suggestions and improve towards the dashboard for their liking.Built Withangular.jsflashforecastinggcpgunicornherokulimemongodbprophetpythonreactscipysklearnstatisticstensorflowtwilio      Submitted to    UB Hacking 2019    Created by  I worked on MongoDB and Twilio. I was surprised at how powerful they are!David RichwalderWill PritchardSai Krishna SeethalaGowtham Nayak 
+  
+ We have no experience with Uipath, and we don't even know how to start at first. But we decide to learn it, and watch lots of demos online. For analyzing data part, we have tons of if statements to deal with. (eg. check if it's bed time, lunch time, work time and etc.) However, it's impossible for us to put every time in the condition. We try to convert the time to integer and then use > or < to find a time range, but it fails since time (eg. 11:30) cannot be converted into 32 integer. And then we try to convert time to string variable and compare strings. But it fails since for 1:00,  the second character is ':', but for 11:00, the second character is  '1'; ascii of '1' will be definitely smaller than ':', so it will show us that '1:00'>'11:00'. Finally we figure out this by using time.Contains(), and we made it! 
+ Outdated software, new code 
+ Getting the api's to work 
+  
+  
+  
+  
+  
+  
+ learning how to use android studio 
+ The biggest challenge that we ran into was the lack of experience within our group and the lack of direction. Due to this being all our first hackathon, we were not ready for the challenges inherent to this type of group project. In not knowing how to work with databases, servers and general website development. The majority of the time spent was not in development but stuck in the learning phase. Due to the time limit of 24 hours, there was always the stress of getting things done but lack of skill prevented significant forward progress. Another barrier to creating this project was in the utilization of online resources, where finding online resources became challenging as the sheer number of information was overwhelming. 
+ Variational autoencoder requires a complicated loss function to do back propagation right  
+  
+ A bug that caused the camera to stop working 
+ Coding is hard 
+ Implementing the runnable interface to get the objects to run smoothly over the course of the game 
+ ManyManyEspecially when building shinyAlso, R runs really really really really slow... 
+ We try to make timer and to show availability.  
+ Implementing voiceflow and AJAX Http requests 
+ Trying to get the circles to work was challenging in fully understanding the framework of tkinter. Also getting the 'relaxing gif animation' to work so that the music would line up with the animation to relax the user. Trying to get the music to work with the GUI was difficult as well because the music would either not play or freeze the program. Initially using playsound which gave the difficulty, and switched to pygame providing a simple solution to give the program the background noise we were looking for.  
+ Configuration issues with connecting a physical phone to Android Studio.Theory on how to handle scoring an input character. 
+ A lot of the challenges that we faced were programming based, since we were all new to Javascript, HTML and CSS. Due to the lack of knowledge on Javascript, we struggled to apply the API that were provided for us, and understanding the use of APIs as well as JSON was time-consuming, and therefore limited what we could include in our web application. So although we had many more ideas, our lack of knowledge of the programming language limited us. 
   
  
