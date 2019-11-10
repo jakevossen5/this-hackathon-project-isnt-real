@@ -4,7 +4,7 @@ import csv
 genDir = "resource"
 
 # open csv 
-with open('../data/20-sample.csv', 'r') as csvSampleFile, open(genDir+"/inspiration.txt", 'w') as inspirationFile, open(genDir+"/does.txt", 'w') as whatItDoesFile, open(genDir+"/built.txt", 'w') as builtFile, open(genDir+"/challenges.txt", 'w') as challengesFile, open(genDir+"/accomplishments.txt", 'w') as accomplishmentsFile, open(genDir+"/learned.txt", 'w') as learnedFile, open(genDir+"/next.txt", 'w') as nextFile:
+with open('../data/300-sample.csv', 'r') as csvSampleFile, open(genDir+"/inspiration.txt", 'w') as inspirationFile, open(genDir+"/does.txt", 'w') as whatItDoesFile, open(genDir+"/built.txt", 'w') as builtFile, open(genDir+"/challenges.txt", 'w') as challengesFile, open(genDir+"/accomplishments.txt", 'w') as accomplishmentsFile, open(genDir+"/learned.txt", 'w') as learnedFile, open(genDir+"/next.txt", 'w') as nextFile:
     reader = csv.reader(csvSampleFile)
     # iterate through
     for row in reader:
