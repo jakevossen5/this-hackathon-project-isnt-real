@@ -1,25 +1,301 @@
-We learned how to use Google's Cloud Shell and it's various services that we could use like the Vision API. 
+Limitations and benefits of firebase.How to create an app using Android Studio.Java 
+ We learned the updated APIs for Firebase. 
+ None of our team members had significant experience with web frameworks.  We gained valuable experience with jQuery, Flask, and REST APIs while implementing the demo web application. 
+  
+ We learned about the possibilities of blockchain, how a blockchain is coded and created, and how the blockchain interacts with external resources ( such as the code behind a transaction). 
+ We learned that making a functional website containing any form of API's could be very challenging.However, we also learned that we could solve coding problems if we ask for help when needed and also by putting in extra hours in coding. 
   
   
- Learn to walk away from the keyboard to think of ideas to fix the code. 
+  
+ We learned how to use certain apis like twilio, accuweather, and hosting apps, and analytics and prediction modeling. 
+  
+ about memory retention through sound, finance advocacy 
+  
+ Basic skills in data mining and data analysis.Crawling data based on the “Hefeng Weather” API;Analyzing the weather parameters, and build the bar graph. Build our own Clothes Library matching with the weather. 
   
   
- We learned how to use Google's Cloud Shell and it's various services that we could use like the Vision API. 
+  
+ Give yourself more than 10 minutes to deploy to AWS, and IntelliJ doesn't work on Mac all the time :). Seriously, though, learning how to write discriminators in JS to sort cards on the client side was very enriching. 
+ We all learned about the value of communication within a team. Although each one of us had our own tasks to work on, we all needed each other and work together in order to actually develop the application. We used a lot of delegation and constant communication to get help from others and solve problems together. None of us had any particular front or back-end experience and we learned a lot about working outside what we know. In terms of technical skills, we all picked up a new application of languages we knew, whether it was Flask for Python or SwiftUI. These skills, along with the communication skills we learned, are truly invaluable. 
   
   
- Learn to walk away from the keyboard to think of ideas to fix the code. 
+  
+ From this event, we learned how to receive data from an API using the Unirest library, and we also learned how to receive individual objects and then values from the JSONNode Objects that the API would return to us. We learned how to use Github, and we also learned vital teamwork skills that will be extremely valuable in any future career path. 
+ The thought process and consideration that must go into creating a user-centered product. We also learned new features of HTML for web design.  
+ Learnt using Lamp stack.Building models using deep learning.Twilio API for alert SMS. 
+ We learned about shaders, ARFundation Image-Tracking 
+ We learned a lot about R, HTML, .csv files, pandas, Python, Github and most importantly, how to work as a team!What’s next for On The MoveIdeally, we would love to have more features like 3-D visualizations and more datasets. Given more time, we would add a feature that includes a ranking of the best counties based on all of the features we have.Built Withcssdatahtmljavascriptjupyter-notebooknode.jspythonrTry it outgithub.com      Submitted to    HackDuke: Code for Good 2019    Created by  I worked on front-end. Using HTML and CSS I helped design an interactive website that linked with our web app. Alvin BaoI worked on the front-end. Using HTML and CSS, I designed a website that holds the data visualizations and other information on the web app. Stephanie YaoI built the structure of the web app using Shiny in R to create the auto-generating visualizationsKeshav ShenoyI worked on gathering and parsing data, along with finding insights. I mainly worked with data analytics in Python.Ayush GoyalI worked on handling and parsing sets of data to allow data visualizations to be created. I mainly worked with python and its libraries for data analysis.Richik Ray 
+ Considerations designed around the interests of the homeless and donors is crucial to attracting the target demographic to use our set of web and mobile tools 
+  
+ I learned about rapid- prototyping in trying to develop a simulation in such a small time frame.  
+ Django 
+ We learned how to integrate the cross platform React Native framework with backend APIs such that there is a seemless lifecycle from client to server communication. 
+ We learned how to extract data from an API, create animations, and work with data files.  
+ We learned that it's very important to define the scope of the functionality and clearly understand the requirements of customers.  This project requires clear thoughts about what the team should be doing as well as what each self is doing; instead of a broad knowledge of computer science, it requires every team member focuses on each individual's expertise.Regarding getting familiar with Salesforce, we think that is the most difficult process during the past 24 hours of development. Long story short, since Salesforce is well-known robust software technology, there are too many things we have to cover first before we put into practice.Another thing that we want to address is the process of development makes me benefit a lot, for example, teamwork, building a system from scratches.  
+  
+ We learned a lot about using REST APIs to develop an application and we learned how to better use React and Reactstrap to deliver a simple website. This entire experience was something new for us as we have never really worked with any of these technologies before. After this experience we are confident in saying that we are at least experience with these technologies.  
   
   
- Teamwork skills! 
+  
+ We learned that it is not that difficult to launch functional applications with the help of resources such as Google App Engine! 
+  
+ Everything 
+ Team workVarious visualization requirements How to have fun in tough times 
+ I learned a ton. I learned about forms, DOM event listeners, retirement, components, databases, Git, and subdomains. 
+  
+ Improved front end skills with React.  
+  
+ How BTLE devices communicateBuilt Withandroid-studiocatalystgcpiosjavakotlinmongodbnode.jsswiftTry it outdocs.google.com      Submitted to    HackDuke: Code for Good 2019    Created by  John GarrettSam Perlmutter 
+  
+ I need a teammate! 
+ there are potentially hugely transformative ways that DeFI can help the planetlooking at a problem in the real world can lead to interesting architectural ideas which possibly have applicability well beyond our immediate use case 
   
   
- The girls learned how to use Thunkable in new ways and some of them learned how to code a webpage and embed a Scratch game into it. 
- We learned that everyone has their own strengths and that there are many different ways to accomplish things. 
+ That sleep is very important 
+ React Transactions API  
+  
+ I learnt privacy in the blockchain and how permissioned blockchains work. 
   
   
- Math 
+ We learned about different web frameworks that we could learn in the future such as Ruby on Rails, some members on our team used React for the first time. 
+ How to build a blockchain. The promise of the future. 
   
- The better I get at making skills, the more features I can add. This means it remains a challenge! 
+ there is so much change in ths industry that what doc is out there is pretty outdated 
+ We learned how to turn a kernel into a broader idea and then simplify the solution with a big emphasis on user experience. 
+  
+ Cubimal chick 
+ A lot about the Aave protocol and interacting with decentralized exchanges and also the concept of a flash loan and how we can use it in de-fi. 
   
   
+ Databases, graphql and more databases 
+ - Application design process - from idea to prototype - using tools such as Whimsical and Figma (Corwin, Jon)-How to integrate a database into prototype (Mischa)-Collaborative product design 
+  
+ Work with languages you're familiar with. 
+ Learned about how Cosmos works and its flexibility. Learned about Oasis Labs' privacy features. 
+ A lot about L1 blockchains, Cosmos, Compound 
+  
+ Coding is hard. Staying awake is harder. 
+ As a team, we learned about the best way to send images between the front and back end of a web app as well as how to use a few of Google's API, including Google Maps and Google Geocoding API. 
+ We learned how to use MongoDB and Javascript, as well as a lot about emissions and the environment in general.  
+ We learned how to integrate various platforms through the use of servers and back-end technology. We used a lot of new tools which many of us had little exposure to prior to this hackathon, including TensorFlow for the machine learning, HTML/CSS for front-end development, and creating a server, which none of us had really known much about before. We learned about the challenges which arise when training a machine model to accurately assess negative and positive thoughts through text message. We also learned how to use JSON files to send information between the mobile app and the server, as well as between the server and front-end website. 
+ Start integrating with your API as soon as possible to reduce potential for complication. 
+ How to use bootstrap to make a website look visually pleasing.  
+ We learned to identify users by their Ethereum accounts and provide an interface to sign transactions. 
+  
+ We learned how to design and plan out an idea from scratch, how to use android studio and how to build a mobile application.  
+ git, html, css, google cloud functions 
+  
+  
+ The use of firebase, how individual people come together to make a big difference 
+ We learned a lot about Bats, the environment, Django, and web development and deployment. 
+ Gained hands-on technical experience working with modules and APIs that I wasn't familiar with  
+  
+ Even in the short timespan of 24 hours, our team learned and developed a lot of skills in completing our project. In order to create a fully functional program that implemented machine learning algorithms and graphical user interfaces, of course we developed in our programming skills to fit the nuts and bolts of our project. Many of us were new at programming in Python, and we were able to make substantial progress in using the language to create a function program that would further social good. Additionally, our project topic revolved around teamwork and building an effective team, which has a wide impact on society. We were able to incorporate the research we found into our own team and learned how to make the most out of our various skill sets to work effectively in a team environment. Overall, we progressed our learning and skills in this hackathon through technical development and teamwork. 
+ JS, Machine Learning, Live Scripting 
+ We gained experience in coding in Python,  using with the command line, using Github, deploying to Amazon Web Services, and working as a team under pressure. 
+ Coding is a team effort. In fact, we realized the idea generation phase is, just as, if not, more important than its implementation.  
+ We learned how to make a Google Action and use Google API for geolocation. 
+ It's worthwhile to dive deep into user research to find the best and most attainable solution for the time period. Prioritize time together on Day 1, come ready to finish work for Day 2. 
+ We learned how to use Android Studio to create a functioning mobile app with several functionalities, including some automated tasks. We learned how to manipulate the user interface and relate the structure of our code, including the user experience, to our function. 
+  
+  
+ Zabo, XPRING, Aave, and Kong cash are the sponsor products we have deep-dived into. We may not have time to integrate all of them to complete the product during hackathon, and we know this is something we can accomplish given time with these excellent tools. 
+ We learned how to test smart contracts, Smart contract best practices, how to design complex DeFi protocols, how to work with webhooks, building scalable react app, A lot of finance.  
+  
+ Some amount of QIT, and other things.  
+ We learned the fundamentals of React Native good code practice, and mastered version control with Git (merge conflicts).  
+  
+ Stats r cool. 
+  
+ We had done very little Javascript, working with API calls, or Chrome extensions, so basically everything we did was new. 
+ In-depth knowledge on working with APIsHow powerful AR has the potential to be 
+ How to host a bot, use an API, taxes and the corruption of the governmentBuilt WithgroupmeherokupythonTry it outgroupme.comgithub.com      Submitted to    HackPSU Fall 2019    Created by  I like stickers.Caden MartzStickers are okay.revemorieJosephine PrickettChris DeloPranjali Yadav 
+  
+ It is difficult to build cool stuff you imagine in an extreme narrow time frame.  
+ CosmosSDK as a framework 
+  
+ We learned how to use Flask and how to use a model on Flask. 
+ Rendering takes three hours, do it overnight. 
+ We learned how to develop a robust infrastructure using many different services and technologies cohesively. 
+  
+ We learned more about Android's Fragment life cycle and how to pass in the states of multiple views across all the other views.  
+  
+  
+  
+  
+ We learned a lot about javascript and react, how to use mongoDB and non-relational databases, and the ins and outs of Microsoft Azure. 
+  
+  
+  
+ ML-Agnet framework, flight simulation code 
+  
+  
+  
+ I learned (perhaps too much) JavaScript.  
+ We learned how to use Android Studio to develop mobile apps. 
+ We learned a lot about the functionality and flexibility of FirebaseImplementing ConnectWise APIImplement Google's Calendar APIHow to use vuetify to easily create a well designed front end 
+ We learned a TON about tying a social cause to a cryptocurrency.  
+  
+ We learned React as well as a plethora of backend tools with Azure 
+  
+  
+ We learned a great deal about backend programming in Unity and VR implementation, especially considering the sparse documentation that is available for the Quest.  
+  
+ How to use Game Maker Studio. 
+ We learned how to create arbitrary environments in Unity that can interact with reinforcement learning algorithms. 
+ JavaScript across the stack definitely made this easier.Agoric re-learned some Ethereum lessons about isolating wallet functionality from data access on their RPC servers.We learned a lot about each other's projects and how they work. 
+  
+ Learnt a new language (golang)  
+ The capabilities of a cosmos app chain in terms of general blockchain development. Looking deeper into the inner workings of payment channels. Improving the performance of generating payment proofs. Thinking about different products beyond perpetual swap contracts. 
+ We learned about many different aspects of machine learning and coding in this project. In particular the challenges we had, let us find the potential challenges in such works and also helped us learn how to deal with them.  
+ A new coding medium and how to customize our own Visual Novel. 
+  
+ For many members of our team, this was our first experience with web development. We learned how to build React components, style our webpages using CSS, and handle forms/navigation using JavaScript. Future ideas:Chat Bot: We would like to use a chat bot that handles frequently asked questions, connects mothers to healthcare professionals, and provides other physical/mental health support. Forums: We would like to provide a safe place for mothers to discuss their experiences with pregnancy. This community will help new mothers and mothers with low education feel included and in control of their health. It would also have a verified feature for professionals to post answers with marked credibility.This web app was written in ReactJS, JavaScript, and HTML for HackDuke: Code For Good 2019. Built WithcsshtmljavascriptreactTry it outgithub.com      Submitted to    HackDuke: Code for Good 2019    Created by  I worked on most of the react components (home screen, full-page sections, forms) as well as the CSS/layout of the web pages.William YuI mostly worked on front end side of things, such as home page and sign in/registration forms. Learned a lot about react, JS, html, CSS layouts and Web Dev in general! jsboss5I conceptualized the idea and worked mostly on design. I designed the mock-ups for the timeline and collaborated in producing the logo.Herleen KaurI worked on the forms and how they interacted with the web pages. I learned so much about React and JS as it was my first time working with it. Justin WuI created the graphics in Photoshop and implemented them into project. I learned a lot about React and Web Dev.Jeffrey Luo 
+ We learned about the life of each subatomic particle once they reach our atmosphere. 
+ We learned how to develop mobile apps and connect them to work with a database. 
+ We learned the most about connecting the front-end to the back-end to gain experience working across an entire web tech stack to create a fully-functioning application. 
+  
+ We learned a lot about various coding languages from each other, as well as new opportunities for ethical hacking.Built WithpythontwilioTry it outcs.wellesley.edu      Submitted to    WHACK Fall 2019    Created by  andreeas98 Sabaugchavez1costello-bethanyDania-Abuhijleh 
+  
+ -How to work with Twilio's API-Time management-Working with a new language/framework-Working with a database 
+ We learned the importance of community efforts in tracking disasters, because the greater number of tweets we could find, the more accurate our prediction was. We were also exposed to cleaning up unstructured data, and how social media data not only connects us as well as protects us.  
+  
+ We all learned new technologies and languages. We learned Javascript, Flask, and how to use Azure Computer Vision along with Azure Maps!  
+ HTML basics, debugging HTML, using GitHub, making a domain, Javascript basics 
+  
+  
+ 2D FFT is hard to get rightn-body can be done in real time 
+ We learned all about Unity and how we don't want to use it again. (Also we learned about pseudo-random world generation.) 
+  
+  
+ A lot 
+ We learned how to work in a team, use apis, and delegate tasks 
+ We learned that querying various APIs was difficult, as well as server-client integration across a large number of users.  
+ A lot. We've learned new technologies and tools. We've learned how to be well disciplined under pressure. We've also learned how to collaborate and accomplish tasks with a short deadline. 
+ Working with React, MongoDB, and BeautifulSoup. 
+ We had two major takeaways from this project. First, the math and physics of Chladni plates is much more complicated than any of us expected, involving 4th-degree PDEs and eigenfunctions, both of which are way above our level of knowledge as cegep students. Second, it is very difficult to build real simulations of physical phenomena in a way that closely fits the theoretical predictions. There are so many variables to take into account in the real world that being able to create a theoretically consistent simulation is a very difficult and impressive feat.   
+ Teresa: How to work with Socket.ioKC: Interactions between Python and JS is complicated and that optimizing the code is not that easy but absolutely necessary.Stephen: How to work with p5.jsBastien: That making matrices was hard. A lot of the work was made on paper beforehand to understand how to get to what we wanted.  
+ First of all, through designing an application system, we learned to think as a product manager. At the same time, we dived into the social inequality of name discrimination. Discrimination in workspace started from an early stage in the process of recruitment, and we hope NoCeiling Recruiting System can solve this issue to some extent. However, an application can never truly solve the problem of name discrimination unless people recognized it and tried to make it a more equal world. 
+ We learned how to Create APIs in Stitch, Interact with databases, Scrape data from a website, Use the React library, Work with extensions in Chrome, and host our own web app.   
+ Particle physics concepts.JavaFXGit/Github 
+ Rendering is challenging and trying to approximated gravity doesn't always work well.Built WithopenaipygletpythontensorflowTry it outgithub.com      Submitted to    McGill Physics Hackathon 2019    Created by  Fynn Schmitt-Ulms 
+  
+  
+ How to tag images for machine learning, using the google vision API, more about the Dash library, how to debug python package bugs ( had a chromedriver issue with the google image downloader) 
+ We learned that trying to sort through data is hard and opensource coding is very helpful as a model.  
+  
+ How cards are issued to banks through the Marqeta APIReact states and components 
+ We learned git, AR and swift. 
+ Unity, Oculus. 
+ We learnt a lot about the way that Quantum Computers work, as well as the challenges involved in programming them. While the technology/hardware is slowly becoming available, it is still unclear what problems will be efficient to solve on quantum computers. By doing this project, we developed a further understanding of the way quantum computers act, and why they may be good for some problems, but not for others. 
+  
+ We were all pushed out of our comfort zones to learn more about full-stack development, design, and ways to utilize Azure. 
+ Teammates can be hard to deal with sometimes, they can destroy codebases, be unproductive for hours, but in the end, these altercations develop into ideas and propel the project onward. 
+ How to plot 3d spherical data into 2d projections, and correctly understand how to use the corresponding arrays.  Using classes in python to clarify some parts of the code.  And of course we learned a lot about the physics of tides, not only by attempting to solve them but also by trying to obtain an intuition for what their solutions should be. 
+ Using tkinter.  
+ Many members of our team were new to web development, so a lot had to be learned on the fly. Many new APIs were investigated and utilized, and we learned to register and host a website.  
+ We have learned how to import, store, and export geolocation data for our database. We also learnt about how to generate useful ideas to help those in need. 
+ We learned about the particle in a box model in quantum physics, the quantum tunneling phenomenon and how to solve PDEs numerically.  
+  
+  
+  
+ We learned a lot about Firebase and the power of Google cloud. We gained a ton of experience with the development of dynamic and interactive web pages. We learned a lot about how to collaborate as a team, being diligent with every step we took to make sure our 
+ We basically learned the format and basics for the HTML programming language from the ground up and tried to incorporate as much as we could into our website. 
+ How to pivot off of unsuccessful trails, building off the failures to slowly create something that worksTwitter and Google Maps API's in generalHow to efficiently clean datasets to gather significant insights.How to present out findings in a GUI.  
+ How machine learning works and some of its applications 
+ Some members of our team had never used React, JavaScript and even Git. So everybody learned something useful for years to come. We all enjoyed going out of our confort zones to learn and work in other languages and frameworks. 
+ We learned how to create cross platform mobile application using React Native. 
+  
+ After discovering Google's DialogFlow and putting ourselves through a crash course on managing conversation flow through intents and contexts, we learned how to apply our JavaScript knowledge in designing web service functionality for a Google Cloud project. 
+ We've learned about quantum entanglement, quantum superposition, as well as basic UE4 skills 
+ We learned about how to use APIs, how to send messages between different devices, new languages, and how to turn a a raspberry pi into a network. Most importantly, we learned how to create a functioning project in 24 hours and the nuances of competing at a hackathon. 
+ How backpropagation algorithm works. The threats our world is facing. How intense Hackathons are. 
+ We were able to learn the transition between both hardware and software. 
+ We all became more familiar with CSS, HTML, and Python Flask. 
+  
+ The type, variation, and source of data is incredibly important for machine learning. 
+ We learned how to do everything on this project; HTML, django and CSS. We learned to create a new idea and work together all night to achieve it. We learned how to properly use git push and git pull. Most importantly we learned if you eat too many awake bars you no longer feel their effects.Built WithcssdjangohtmlpythonTry it outdocs.google.com      Submitted to    HackDuke: Code for Good 2019    Created by  Cole DavisAli KazmiRachel Mittalallison6753 
+ Connecting backend to frontend is no easy task, and we should have allocated more time towards making these components work together properly. Additionally, APIs are quite powerful and accessible as long as we keep an open mind on how we can apply them to our project. 
+ How to use Unity as well as using it along with other development tools to create multi-user AR experience. 
+ We learned about how to see a project through from idea to finish (although we're not done yet). We also learned a lot about web development (CSS, JavaScript, HTML, React) and working as a team. 
+ Through this project, I gained a better understanding of the nuances of Javascript. I also have a great understanding of the inner workings of the Google Map API, from its strengths to its limitations. 
+ Asking what we didn't learn would be a smaller response. Even though 32 hours doesn't seem like a long time, one can definitely feel it. Practically every piece required to make our project work, meant a team member/members stopping what they were doing to do an hour or two of research to continue to stride forward towards the finish line. The most valuable thing we learned this weekend is that just because we know how to find exploit and vulnerabilities in things like apps and hardware components. It is a totally different prospective in building them that requires additional knowledge. 
+ We learned about socket programming and EC2 and Apache  
+  
+ We learned a lot about APIs, non-relational databases, and software engineering best practices. 
+ I am much more familiar with the emulation lifecycle, and think that I can apply what I learned in this project to further emulator development. I also have a much greater understanding of (and appreciation for) the work that the CPU does. 
+ We all learned the importance of good and effective communication, as well as asking others for help when needed. A lot of our members had experience in other fields that they weren't working in, so it was good to have someone to bounce ideas off of.  
+ Our team learned how to make a web server with Azure combined with both Node.js and Flask. Afterwards, we learned how to make a twitter bot using Tweepy and how to run a developer account. Additionally, we learned how to utilize Microsoft's CustomVision.AI website to build a image classifier and then integrating that with the twitter bot to offer an interesting interaction for people interfacing with our bot.  
+ This was our first hackathon for two of our members. We learned how to use an Arduino, and integrating it with python using the Serial port. None of us had ever used the Google Cloud before so we all learned a little about using mySQL. 
+  
+ I learned how to more effectively use apis 
+  
+ Using state-of-the-art NN image detection architecture. Working with PyTorch, deploying such algorithms in real-life. 
+  
+  
+ None of us had prior experience in Javascript coming into this project, so we had to familiarize ourselves with the language in order to create this Discord bot. We all had little to no experience with GitHub prior to this project as well, and had to learn how to use Git to transfer all our code between computers.Challenges we faced:In this project, we take user-input Python code and return whether or not the user is correct in solving the problem. In order to do this, we had to write their input message into a Python file, execute the file, and get the output back into our program- which is coded in Javascript. Needless to say we had a lot of trouble with this, especially since we didn't know any Javascript coming into this project, but after a lot of debugging we eventually got this to work.Built WithbatchfilediscordgitgithubjavascriptpythonTry it outgithub.com      Submitted to    HackRPI 2019Winner                Wolfram Award                  Created by  I worked on managing a user database to store progress, writing levels for the chatbot RPG, and testing/debugging.Andy BernhardtJaden BeckMaxwell Rothman 
+ We all improved our elementary programming skills in various languages, and learned how to use the Mongo API. 
+  
+ We learned to work as a team in collaborating in such a large project as well as analyzing voice. We did not have knowledge on voice analysis, but we decided to take on the challenge and learn through experience. 
+  
+ This hackathon exposed many of our team members to extensive work with API's. We had to quickly learn how to apply documentation from many different sources. Also, this was our team's first time creating a webapp for the hackathon, so we had to learn a lot about providing a sensible experience to anyone who visits our website. 
+  
+ As said before, we learned how to use several different new technologies. We also learned more about web development. 
+  
+ A lot about flask and dynamic websitesA lot about neural networks and classificationHow to create an efficient workflow when there are multiple team members 
+  
+ -The power and versatility of GCP-Usage of Socket IO and the Twitch API 
+ For an application like ours, our absolute focus is on the safety of the students. For this reason, other than maximizing the mitigation of risk in our application, we would also need to thoroughly talk to the schools to ensure that all safety measures are taken for drivers who are willing to provide transportation services. 
+ More Pandas stuff. Beautiful Soup, Requests, Selenium. 
+  
+  
+ We learned alot about the gcp, machine learning, and hardware we were using. 
+  
+ We learned about web scrapping, using React, Node.js, Azure, and Flask. 
+ The situation with the development environment definitely taught us to not underestimate the time something like set up can take. Even though it sounds like it'll be quick and easy, it can involve a lot of complex steps, especially if you're new to that sort of thing. It was also a lesson in knowing when to cut our losses and try something we know will be simpler to set up, even if it isn't the absolute best solution. It can be easy to get stubborn in these situations, but in a time crunch we have to let our ego go and do what will work the best. We both also learned new technical skills like working with React Native and the Google Maps api as well as location services in general. 
+ I learned Swift and how Storyboards work in XCode. I learned a bit of UI design as well.  
+  
+  
+  
+ IBM offers a large variety of cloud services that could be incredibly useful in the future. Some of us learned how to work with the Twilio API, some of us familiarized themselves with Python. 
+  
+ I learned so much about Flask now am eager to learn more about web development 
+  
+ We learned that vanilla js is hard! DOM manipulation is actually quite tedious without all those fancy libraries. 
+ We learned that planning is very important when it comes to making a project with a talented team. On the technical side, we all left with many new skills such as MongoDB, React, TypeScript, and being able to pitch a product . These are all skills that will be used in our future careers. 
+ We learned how to get data from APIs like google directions. 
+ 1) IBM Watson Studio's features2) More about machine learning 
+ The biggest struggle in a dynamic project with different pieces is putting all the code together. 
+  
+ We've learned a lot! Specifically, a lot of about how to keep ourselves safe in the occurrence of a natural disaster. We also learned to not procrastinate, the hard way, but we learned how to persevere and not give up on the code in the process. 
+ Our biggest takeaway from this project is learning how to do full-stack development using external APIs and background refreshing. Reading the API documentation and becoming more familiar with HTTP requests was super challenging and allowed us to practice using external libraries. On the other hand, learning how to have Apps refresh in the background is a valuable skill that many apps require for modern functionality, especially in the IoT field.  
+  
+  
+ Go Storm DBWriting an API in GoVue.jsZeroconf and service discovery 
+  
+ We as a team have done a splendid job with building a dashboard that is user interactive. Though it might look simple to the front it has a lot technical and software aspects that's running it. Nothing is easy to build we have made errors and we worked hard to resolve the errors and in that process we as a team learned a lot.  
+  
+ We gained experience building project with Uipath and learned how to deal with lots of if statements to make a decision. We know how to study independently and use the resources online to help us build the project. Also, we learned how to finish a project as a team. 
+ Importance of reading documentation 
+ learned more about API's 
+  
+  
+  
+  
+  
+  
+ basics of android studio  
+ We learned a log about how to create databases using MySQL and being able to create a website. Though proficiencies in both aspects are still low within the group, this sets up a good jumping-off point to be able to further the project and our skills in this area. We have also learned of the next areas we need to explore in our learning.  
+ How to build a variational autoencoder 
+  
+ Android studio, json, api 
+ Everything 
+ We gained experience in JFrame and became comfortable with game design. 
+ Shiny is harddata science is soooooooo interesting and useful!!! 
+ It was our first time to use android-studio. We learned a lot about how to make application with android-studio.  
+ To start small 
+ We learned a lot about Tkinter and python. We learned about Tkinter and how threading works with Tkinter: in a single fashion.  
+ Kotlin app Development, Pixel Analysis 
+ We learned to use various tools on the spot (like Javascript, HTML, CSS, API, Json). We are familiar with languages like Python and Java, but we decided to take on the challenge of learning these new programming tools. 
+ expanding on my frontend skills 
  

@@ -2,9 +2,10 @@ import csv
 
 # subdirectory for text
 genDir = "resource"
+dataDir = "../data/50-100.csv"
 
 # open csv 
-with open('../get-text/data.csv', 'r') as csvSampleFile, open(genDir+"/inspiration.txt", 'w') as inspirationFile, open(genDir+"/does.txt", 'w') as whatItDoesFile, open(genDir+"/built.txt", 'w') as builtFile, open(genDir+"/challenges.txt", 'w') as challengesFile, open(genDir+"/accomplishments.txt", 'w') as accomplishmentsFile, open(genDir+"/learned.txt", 'w') as learnedFile, open(genDir+"/next.txt", 'w') as nextFile, open(genDir+"/titles.txt", 'w') as titleFile:
+with open(dataDir, 'r') as csvSampleFile, open(genDir+"/inspiration.txt", 'w') as inspirationFile, open(genDir+"/does.txt", 'w') as whatItDoesFile, open(genDir+"/built.txt", 'w') as builtFile, open(genDir+"/challenges.txt", 'w') as challengesFile, open(genDir+"/accomplishments.txt", 'w') as accomplishmentsFile, open(genDir+"/learned.txt", 'w') as learnedFile, open(genDir+"/next.txt", 'w') as nextFile, open(genDir+"/titles.txt", 'w') as titleFile, open(genDir+"/subtitles.txt", 'w') as subTitleFile:
     reader = csv.reader(csvSampleFile)
     next(reader)
     # iterate through
@@ -20,4 +21,8 @@ with open('../get-text/data.csv', 'r') as csvSampleFile, open(genDir+"/inspirati
         learnedFile.write(doc[6]+ "\n ")
         nextFile.write(doc[7]+ "\n ")
         # get the title of the project
-#        title = 
+        title = row[0]
+        titleFile.write(title+ "\n")
+        # get the subtitle
+        subtitle = row[1]
+        subTitleFile.write(subtitle+ "\n")

@@ -1,0 +1,300 @@
+To help people who are not good at initiating conversation and get in touch with the people around them.
+Help stop fires and report public infrastructure problems
+An API and notification service for forecasting the safety of your daily commute.
+Although our network only represented cases of Racism/Sexism, we believe with the correct datasets that this neural network could be expanded to represent all cases of offensive language.
+Securing our school currency with cutting-edge blockchain technology
+Our idea involves creating a project where people can contact government authorities (or people in a position of power) to address local issues in the community
+Do you have elderly family members? Do they forget to take their medication? This is a novel Alexa/Web app to help people keep up with what pills they have to take, when.
+Instant Care When You Need It
+Peer-based personalized career education at a minimal cost
+Predicting disasters days prior rather than the normal 36 hours. Also helping government agencies or non-profit organizations by gathering information of people and best placement of relief camps
+A healthy environment can be critical to how you enjoy and live in your home. EME makes this job easy for you by selecting the healthiest and cleanest environment for you and your family!
+Sonification of stock data
+Get denture related advice from a google home mini
+Create a software to get weather of cities around the world and can give clothes suggestions
+Meet Penny, the AI powered chatbot to give you quick access to employment, housing, and financial resources in Durham
+Finding easier parking with smart tech 
+Tree permits done right!
+A realtime Agile project management tool and collaboration suite.
+Managing expiration dates to reduce food waste
+share a ride. save the planet.
+Convinient and secure medical record sharing.
+ Digitally Rare  eSports Collectible Game where users can play fantasy Basketball Cards with their NFT's and trade them for SneakrCred as Virtual Sneakrs.
+A program that can give you the current weather of any town by using the AccuWeather API, and gives you the option of receiving the information in a text by using the Twilio API.
+Redesigned the website to have a cleaner, sleeker look. Changed the navigation through the website as well for a better user experience.
+Citizens have rescuers. Who rescues the rescuers? Technological advancements bridge the communication gap in disaster management.
+An AR interactive portal that give you a peak into environmental crises
+On The Move aims to help people make moving easy! 
+Help the homeless through not just financial means, but empowerment. 
+Registered the domain name devmy.space
+Bringing the real-world to you
+Keeping score with the environment, one point at a time.
+Engaging the community by gamifying and crowdsourcing pollution cleanup promoting sustainability and humanitarianism.
+Visualizing Personal Carbon Emissions
+We are trying to develop one-button-click way to upload all information from Google Classroom to Salesforce for further analysis and demonstration.
+Eat good. Feel good.
+An easy to use analyzer for visualizing data from Google classrooms.
+Helping teens become sensible in finance management
+A simple beautiful coda explorer
+Higsians for Nobel
+The rise of social media has caused a decline in real social connection. ConnectMe provides a crucial opportunity for college students to talk seriously about mental health and wellness.
+Want a trip around the world or within a continent? We give you the best deals for your preferences.
+Reduce consumerism for financial wellbeing
+Our project intends to understand the progress and impact of a given geography, in US, using analysis through hashtags, tweets and multifaceted data sources, by enriching it through AI
+Your personal retirement advisor
+A lightweight flight tracking website.
+Get fresh food on demand in flight from your favorite restaurants
+How to Cook a Perfect Steak on Earth and Mars
+A decentralized messaging platform
+For when you want to see how fast your pitching speed is and how well you spin your throws
+AI Art Trading Cards
+A reDAOmint is a DeFi mechanism that encourages investors to invest in the future ecological health of the planet in a way that generates win-win scenarios for everyone involved
+Predict types of skin lesions
+The next generation Amazon Dash button
+Smart camera ensures your always dressed appropriately for any weather
+Ever worried about your Payroll? Blockchains got your back!
+For a better name
+My proposal includes virtual identification coupled with biometric trigger to create unambiguous and private identification system using blockchain. 
+We simulate the Ising Model and provide useful visuals to learn more about the model. We also train an AI which recognizes ordered/disordered states, by only looking at the present configuration.
+Squink is an automated market maker that enables extremely low cost swaps between USD stablecoins
+Helping soldiers with a simple and efficient way to store data
+Tool built to enable decentralised governance
+Collect spare change on purchases to donate to charity.
+wrapped XRP to use XRP on Ethereum
+An app to gamify recycling by offering rewards everytime you recycle.
+Fuel consumption made relatable 
+Find the exoplanet system in the NASA Exoplanet Database closest to the one you want to create!
+Riskless Arbitrage Infrastructure
+Multi-threading library for NodeJS.
+seamless and distraction-free study group formation platform
+Single transferable voting.
+Your Guide to Greening the Planet
+Letting your community know you're safe, even after you depart the nest
+a throw back to from disaster
+Interest rate swaps for good
+Lend &amp; Borrow Your Binance Chain Tokens
+Helping teens become knowledgeable in finance
+Digitized healthcare for an equitable future
+Based on the internet fad #TrashTag challenge, we created a website where users can mark locations as requiring cleanup and planning events to clean and even "show off" efforts in cleaning an area.
+Helping Amazon customers make more sustainable purchasing decisions
+We present a daily assistant to mental health powered by machine learning. By tracking mobile typed text via the companion app, we use ML to dynamically graph mood trends and encourage positivity.
+A platform allowing people to create AR web applications as easily as static HTML websites.
+Invest Responsibly
+Cryptocurrency exchange service that allows users to exchange their money to Ethereum-based cryptos using their bank account directly.
+Save your career and the world!
+Creating communities for natural disaster relief and support
+FIND is a web application that locates a FitBit user and returns their vitals in the event of a natural disaster. With FIND, first responders can locate victims who need the most immediate aid.
+This piece of hardware uses an ADC and a water level sensor to see how much actual flooding a house had. The residents can prove house flooded by saved data from the module and file insurance claims
+Think Piazza, but live!
+Helping communities respond immediately to a crisis
+Saving the Earth. One bat at a time
+Our project will aid those affected by natural disasters and other emergency scenarios. It's an app that sends your location and a voice message to emergency contacts that have been selected before.
+Customized Financial Advising App
+Ensuring teams capitalize on the rich diversity available to them
+Fusing Sentiment Analysis with other datasets can bring out interesting corellations and features otherwise not seen
+Important info for the bay, tweeted out automatically every four hours with useful tidbits about power outages, weather and traffic issues.
+Brownian Motion. Drip-Art. Stocks. A physics simulation that extends beyond itself. 
+Instant Carpooling
+Our mission is to match SF residents with local NPOs ASAP. By understanding their immediate needs, we find the right services and provide personalized, focused, and actionable next steps.
+A simple Android app to help elderly users during natural disasters.
+Disaster recovery tracking and awareness app
+A blockchain network for users and mobile carriers to swap unused mobile data for future usages 
+A crypto payment ecosystem
+insurance market to protect users against financial, systemic and technical risks
+Invest your spare change to make bigger change
+0+0=1
+Don't you just wish you had an app that showed you exactly what you needed to see at the right time. Meet Riize, a mobile application that displays media based on your feelings to help you smile.
+A program to simulate the image of a star being gravitationally lensed
+Based on the given Alito Index of a certain Congressional class, can we predict how the market will react?
+An android app aimed to bring the community together and volunteer to make the world a better place!
+A chrome extension to eliminate news bias by suggesting related news
+An AR space for visualization, interaction, and collaboration of data in your physical world
+A chatbot to help answer tax questions. Geared towards teens/first-time workers.
+Web portal for companies and students that gathers student resume information using NFC tags and scanners
+Re-Imagining Airdrops and Fair Distribution. 
+Opt out of Bitcoin's monetary supply with a 1-way peg. Stateless SPV Proof to mint Bitcoin in a Cosmos Zone. Proofs inflate the Bitcoin supply by paying those who already submitted proofs. (Table B2)
+Making presentations easier, one spoken word at a time.
+Find out if news is unreliable with a click of a button!
+After the first project idea I tried with a group failed to get off the ground, I decided to spend the rest of the time working with Blender, and seeing what I could do. The results were varied.
+Our app uses voice sentiment recognition and machine learning to enhance the current onboarding and training process for new hires. This will provide equal resources to all demographics.
+A calculator to determine the cost of repairing damages after a natural disaster has occurred in a different area.
+A New Market for Parking
+Crowdsourcing Security and Check-in Line Times for Airplane flights
+A grand exploration of stochastic processes, diffusion, flow, and feedback
+--
+Twitter Tracker/Projection Bot for #teamtrees
+A platform for local craftsmen and content creators to promote and sell their products and services.
+Think PoS is economically sound? Think again.
+Artificial Intelligence powered Lecture Engagement Enhancer
+Old Hamilton Learns AI. We generalized Hamiltonian Neural Networks to learn any time-dependent Hamiltonian and exemplify this with a qubit two-level system undergoing a state conversion.
+Using deep-learning and competitive algorithms, we can observe emergent behavior between two agent-based airplanes as they fight for survival against each other
+Crypto custody for everyone in the era of secure IoT!
+Reinterpreting cellular automata to include a messaging system that allows us to map an input space onto itself in a very unique way. 
+Looking for a place to view all current and popular memes? Can't remember the name of a meme you saw yesterday on Twitter? WikiMeme solves your problems by providing a database with all memes.
+Help the Pangolin dodge the bullets!
+Fitbit for energy conservation
+A Remote Tutoring Platform for Duke Students
+Probus is DAO built to reward smart flagging in crowdsourced web content regulation.
+Form, running along with Git promotes information sharing in a decentralized manner
+In this day and age, it can be hard to avoid biases. "About This" allows users to view data on how biased the news is on any phrase he or she searches for
+Collateralized Margins module for Digital Assets
+Experiments with emergent behaviour in 3D physics ecosystems
+A VR application to help people overcome phobias
+A phonon visualization tool
+Kids often have a hard time of getting into programming, with our games, they can learn basic computer science topics!
+Training an AI to Stop the Chaos
+MetaMask is a popular cryptocurrency wallet with a new plugin system (using Agoric's SecureJS), and we used it to allow MetaMask users to interact with Dapps on the Agoric blockchain.
+Tokenization
+Using blockchain to better your concert-going experience
+A privacy preserving decentralized exchange for derivatives, built on anonymous payment channels.
+Exoplanets analysis using AI !
+This is a Prologue for a Visual Novel we are creating.
+Help for date violence and sexual assault
+Bump is an educational website that guides pregnant mothers through comprehensive maternal health resources.
+A physically accurate simulation of cosmic ray showers, including phenomenons such as decay half life and special relativity.
+Can't decide what to wear in the morning?
+Wanna meet new people on your flight? Or just wanna be left alone? The choice is yours!
+Program a Machine Learning program that, from a trace of a body's movement, deduce the number of bodies that affected it's trajectory.
+Volunteering is a really important way for people to contribute positively to the world. Those who don't know where to start can text the number on our webpage to find out more!
+A pipeline for Furniture Inventory and Layout to help people transitioning out of homelessness
+SMS reminders for reliability. Never forget a thing again.
+In disasters like fire, are you at risk of being in the crossfire? We're crowd-sourcing information from our community to be safe today.
+Using image classification to detect concentrations of damaged houses after a hurricane
+A peer-to-peer platform for drones to help in disasters
+Sustainability Quiz! 
+Take a spiral galaxy, and put it in an oven!
+pangolin quiz
+Space invaders but with more chaos
+Competitive &amp; cooperative crossy road in VR
+Provide and connect users within an open and safe platform in order to better one’s mental health
+A quantum pseudo-telepathy game is a fun and simple idea to demonstrate the power of quantum entanglement. Mermin-GHZ can be won 100% with quantum strategy but the classical counterpart cannot.
+We all hate it, now we can identify it.
+Finding the number of crime routes on a google maps routing
+Bringing people together through music in the cloud. 
+Many patients lack reliable information on the qualities of medical services of medical institutions so we come up an App providing hospitals ratings to the them.
+Communal Inventory Management for Social Service Centers designed to reduce waste and give each community their specific needs.
+We built physical Chladni Plate setup, which is a way to visualize the creation of standing sound waves. We also programmed a simulated Chladni plate in order to see the differences between the two.
+An interactive simulation of the physical phenomenon known as "Anderson localization"
+Break the gender bias in the working field
+Crowdsourced waitlist sizes for UT Austin Registration
+Using concepts from classical and modern physics, this interactive simulation collides two protons to form clouds of jet particles if the energy of the collision permits.
+Create an openai gym environment for developing reinforcement learning models. The models must learn to navigate a spacecraft in orbit around a moving planet under the effects of gravity.
+Adding layers of security to RFID by controlling circuit closure and adding noise
+test test test
+Use Machine Learning to Analyze User Engagement with Company Products
+Making Costume Finding Easy for WBDT
+A full-stack web app that visualizes the supply chain of companies and encourage people to invest in socially responsible companies
+70% of U.S. houses use 1 or more subscriptions. Yet, there is no easy way to manage them all. Until Subscription Card:the revolutionary credit card that manages and cancels subscriptions in one place.
+We want drivers to do maintenance on their vehicle and our app will assist them in detecting car parts in realtime, thus promoting a sustainable way to maintain vehicles without driving everywhere.
+Be a Tree
+Be able to simulate a system of n-qubits without the need for expensive hardware.
+As the sea level increase, you'll have to change your vacation destination of choice or even your home city. Fortunately, this application will provide you with a map of all available cities for you.
+Making Journaling Quick and Social
+Inspired that adversity can be an opportunity for people to collaborate and help each other in time of need we provide a platform for the community to contribute to society.
+Simulating planetary tides with multiple moons
+Given a gravity field, what is optimal path between two points that minimizes time traveled. 
+To implement what Reality Ministries has been missing for the past 12 years, an efficient carpooling &amp; communications platform, connecting volunteers to opportunities to give back to their community.
+Every step counts.
+The Microsoft Paint of Quantum Simulations
+Test
+A mobile application that gently nudges you with ways you can contribute to our communities 
+ QuickReport is a streamlined, convenient and reliable app that enables a user to effortlessly report an environmental problem found on the Durham One Call Online Request Form. 
+An image-based recycling classifier
+To engage teens to better their finances through the use of information in a streamlined technology platform that would be fun for the user
+Data Analytics on general Twitter discourse sentiment and environmental disaster relief
+Use of Deep Learning to recommend songs based on playlist by Spotify's API
+A Tree Planting Social Network - Let's plant some trees together!
+Pinpoint post-disaster areas with a large victim density using the power of deep learning.
+Alcohol poisoning is a rampant problem across America. Our wearable aims to keep users safe by helping them pace drinks and water, by counting drinks, and by being able to contact emergency services.
+A chat bot that talks at your level.
+To introduce some concepts of quantum mechanisms, namely quantum superposition and quantum entanglement, in an educational yet fun manner through a video game
+In times where you're stranded with a lack of power, no communication, and in need of medical attention you activate Survival Mode.
+comparing predictions made by polynomial fit and trained AI
+Saving Lives with our Vision and your Decision
+A tool for researching weather conditions while planning your flights
+The heat flow through a material is visualized after collecting data using sensors.
+Our app acts as a speech therapist for people who stutter. Stutterless uses machine learning to distinguish between stuttered and non stuttered live audio and shows your progress over time. 
+Bringing Shodor's web presence to the 21st century.
+Navigation with suggestions based on weather conditions along the way
+AR Utility app that creates great customer service and builds a strong connection between employees and at-home customers by allowing communication between the two to be efficient and meaningful.
+Walk with us on the green path, reducing our carbon footprint one step at a time.
+Generates a safe running route for a given location and distance
+Worried about leaving your child with a sitter? You may have cameras, but can't they see everything. Teeter Toddler is a small device that takes real-time data capable of sensing if your child is safe
+A block pushing game
+Donate for your life and your love
+Anyone can help label complex datasets with our 20 questions like app and make money in the process.
+CHIP-8 Classic 8-Bit Game Emulator
+imagine diner dash but in a home depot
+Encourage people to get involved in their local community, providing opporunties to volunteer, serve, and protect the environment. 
+Creating a secure, accessible, scalable system to expand the population of people with medical records. 
+Get help when you need it, even if emergency services are offline
+quickly and succinctly get a rating of the level of natural disaster danger in your area
+Imagine waking up and then walking to your mirror to find not only find a reflection of yourself, but also an immersive display that incorporates all of your interests that update in real-time.
+We have created a human eye which can be deployed remotely to disaster affected areas for detecting survivors with the highest possible accuracy shown by State-of-the-art image detection algorithm.
+Simulate the Aharonov-Bohm effect
+A model to predict and alert users of imminent disasters using NFC Tech Stack
+A Python learning tool that you can invite to your Discord server!
+FiND gives those with loved ones a sense of security even in the midst of disaster.  We believe everyone throughout the world should be entitled to this insurance in times of trouble.
+Transcde is a code-to-code translation service that understands your code. We use a proprietary language-agnostic code-representation to provide the most accurate translation possible.  
+We plan to provide every child without an adult a supervisor a chance to get a second opinion on their oratorical ability.
+Make great returns on investments that will make the world a greater place. Find companies that show a passion to employ ESG strategies which will make your investment create a positive social change.
+DuckView is a website where you can practice your interview skills with a robot that analyzes your speech. Improve your speaking with our provided sentiment and word choice analysis.
+A forum for loan originators, individuals with debt and investors to post, price and exchange pools of loans
+We created Inline, a web app that can provide users with information about the closest hospitals to their location that address their specific issues, optimizing wait times and costs for users.
+A simple app for creating queues
+In the age of fake news, how can you be sure that what you see online is real? Introducing snoopy.xyz, a free web service that can detect whether a website contains AI generated content.
+A free, innovative community of sustainable swappers created to reduce waste and improve the environemnt
+Statistics and NLP-based automatic highlight generator for Twitch streams!
+Our EdVolRide is an Uber-like application catered to public school low-income students that miss their respective school bus (before and after school)
+Everytime you spend money, you're casting a vote for the kind of world you want. We make that easier.
+A Credit Union for Witches.
+Ever not able to find groceries at Wegmans? Use a Twilio App!
+We are trying to make a weather system that can alert individual and of incoming bad weather. It would also contact rescuers during a natural disaster of people the potential amount  of people in need
+Simulates flood patters for a given location and flood depth.
+Turn Zoomers into Boomers!
+An app to help people involved in search parties visualize which areas have been searched through a live map that updates as participants search new areas.
+This is an app to connect older folks with people around the community that want to do activities together. 
+Leveraging trust to simplify open-ended cryptocurrency transactions
+Build your confidence with Confidant! Our tool 
+A platform of forums where students can post their problems and queries, and student government can post surveys to specific problems. Students can vote for posts/forums they want and take surveys.
+We want people to know what they need in preparation for a natural disaster
+Therapose offers online video therapy in a pinch. College students on the brink of panic can log in and talk to a trained therapist.
+A web app that detects and translate texts in an image on the web. This image can be a meme, an image of a recipe, menu, billboard, or any text image at all! 
+Who will become the most legendary potato
+The healthiest, cheapest, and trendiest recipes at the click of a button.
+Building a community of do-gooders by providing resources for natural disaster victims.
+This project determines the driveability of a certain route.
+Have you ever come across a pretty mushroom gracefully sitting in the shade, and wondered if you can eat it? With Eat the FunGus, you can simply take a picture of the mushroom and you will know.
+Warning Shot is a network-based security system which aims to minimize the threat of mass shootings by using machine learning algorithms and audio recognization
+Automated usability testing
+Life Line is a crucial app that notifies you before and during a natural disaster with useful information, communication with first responders, a geolocation map to show others, and nearby shelters. 
+Automatically adding EV charging stations to drivers' routes!
+Visualize your face expressions in real-time
+RateMyTAs
+Peer to peer disaster information distribution system
+Students are overwhelmed with the increase of their student loans debt, our goal is to raise awareness for students to stat paying their debt early.
+Explainable &amp; Resilient AI for investment
+Quake Alert is an app that will provide the last location of the user to family members, in the event of a natural disaster via the Twillio API.
+Timebot will tell your optimal time for calling parents and friends when studying abroad or travelling and will not let you interrupt them by displaying you what they might be doing right now.
+A way to talk to people while playing Minecraft
+A Chatbot that you can talk and predicts the weather
+Platform to learn about the lives of orphans in third world countries and donate to help their lives.
+A fun arrangement of small games.
+A work of art that responds to your boimetrics,
+This is a game about a fox making his way home.
+Entertaining haunted house game
+a security alarm system that detects distances and produces results based on that
+It is a educational app that measures how much a student knows and gives them a level accordingly to their skill. They can improve on this skill by taking tests  in Math, English and Science.
+Connecting students to tutors 
+Using variational autoencoder to do style transfer on different font
+Repo for our teams Physics Hackathon 2019 project
+Use your camera as a dictionary!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+Alpacas are being awakened by spacial forces
+Like Flappy Bird, but better!
+Using R language and R shiny to visualize the correlation between diseases and genes
+Application to record availability of laundries. This application made to be convenient when using laundries in the dorm together with other people.
+A revolution
+A mindfulness app that the user navigates based on what the user feels they need at the moment of use.
+An app to practice writing skills on any language's characters. Characters that are not found can be created easily by the user.
+This website presents statistics to farmers, such as market prices for food, the weather of various locations, and defining which stores are the most popular in certain regions.
+Fun fourier drawing canvas to match vandy hacks art team

@@ -1,25 +1,301 @@
-We are going to further improve the code and hopefully the final product would let a user snap various photos and the program will detect the overall mood of the entire gallery.  
-     Created by  Michael  Hard 
+There's a lot more that needs to be completed. The UI requires a lot of work from tapping on an icon on the map to display more information to a detailed profile.    
+ The next steps would be to build out a more comprehensive map view, and a more comprehensive submission view. 
+ To further improve the usefulness of the drivability score, our algorithm could utilize machine learning to correlate crash reports with existing weather data to improve the weights of each datapoint.  This would require a subscription to a traffic condition API such as Google Roads API, which we could use to build a dataset for training. A multivariate linear regression can then be trained by gradient descent, minimizing an error term equal to the distance between predicted traffic fatalities and historic trends. The result would be a robust tool for predicting the weather-adjusted risk of driving in a given area.  
   
- Update to handle emotes. 
-  
-  
- We are going to further improve the code and hopefully the final product would let a user snap various photos and the program will detect the overall mood of the entire gallery.  
-     Created by  Michael  Hard 
-  
- Update to handle emotes. 
+ We will work on making sure the code compiles for NittanyChain, fixing the main Java class to eliminate compiling and runtime errors, and we will fix any issues between the blockchain code and the transaction code that triggers the addition of a new block to the blockchain. 
+ We plan on implementing a liking system to the website so that a certain number of likes on a post could send a message to a special user using a Twilio API. 
   
   
- More games 
+ Payment option, offline experience, guidebook for students seeking the first job and polls to help make a tough decision in career choices. 
+ Building into a proper application, such as a mobile app. We can use more data sets to make predictions better. 
   
-     Created by  Reece Berens 
- Many changes will come to Moneywhys in the future. There will be an interactive notes feature that will allow kids to track their spending habits and take notes on their saving strategies. There will be greater security features and more games for kids to do, that will be directly on the app and not on a website. 
- The next step for Beyond The Stars is to possibly turn it into an app in the future. 
+ Flushing out the front end 
   
- My main inspiration is the ability to create imaginative solutions for real world problems that can help make life more efficient and overall more synchronized.Helps detects open parking spots that are available w/o having to go from row to row to look for open parking.Using various things such as data from the internet, google cloud platform, and tensorflow to convert models to tensor lite modelsCreating a sufficient system that can help reduce pollution, congestion, and save timeLearned how to create and train machine learning modelsDeploying it to an edge device that has consistent confidence rate/value 
- The world 
+ Making it to mobile application (app) or web-based applicationMore features can be added, for example: enlarge our clothes library, activity recommendation.etc. 
+ We'd like to enable our app to be used offline to make it more accessible to individuals that lack somewhere to connect to wifi or don't have a data plan. Expanding to android would also make this more accessible because android smartphones are available at a much lower price range than iPhones.Currently our resources are Durham specific - ideally, we'd like to expand to more cities and resources.Adding more sophisticated feature interactions to facilitate an easier experience for the user. For example, if a user were to find a shelter to go to, it would be helpful if Penny could suggest a bus route for the user to take. Expanding the job search interaction also has a lot of potential - for example, the user could communicate to Penny their past work experiences through the chat and she could format it into a resume ready to submit. 
   
- I want to polish it up a bit - better graphics, more missions and a better leader board 
- Tmrw      Submitted to    Abbey Road Hack-Power Of Immersion  9/10 Nov    Created by  Kilian Schulze-ForsterOndřej Cífkariomoko 
+  
+ We will see! Hopefully the demo goes well, then it will be used for all of my personal projects!!! 
+ At Expirology, we're passionate about having as much accessibility within our platform as possible. In the future, we would like to include multilingual support as well as text-to-speech features to improve the outreach of the app and how easy it is for a person of any age or background to use. We would also like to gather a wider database of expiration dates and include dates for products that are not refrigerated since currently we only handle those, simply due to time constraints. We would also like to add features such as text recognition from receipts that could be scanned since this would streamline the process for the user even more! 
+  
+ In the future, we plan to display the MediQR project onto a server and link it with a domain name. Team Members:Ziyi Wang (ziyi.wang1@duke.edu)Mingkuan Xu(mingkuan.xu@duke.edu)Reference[1] Your Rights Under HIPAA. The U.S. Department of Health & Human Services (https://www.hhs.gov/hipaa/for-individuals/guidance-materials-for-consumers/index.html)[2] Medical Identity Theft. Working Nurse. (https://www.workingnurse.com/articles/Medical-Identity-Theft)[3] HTML Template. W3school. https://www.w3schools.com/w3css/w3css_templates.asp 
+  
+ Next, we may consider adding hourly weather updates for weather notifications, and more ways that a user can receive weather updates (email, phone call, etc.). We also may want to add more detailed weather reports and conditions for driving safety and outdoor comfort. Also, we may want to add more options for choosing the location (state, country, etc). 
+ Recreating the interactive software Shodor offers for students, including Interactivate and Master Tools, to make them more engaging and user-friendly. Interactive progress bars should be implemented into these software systems to attract and retain students.  
+ Use the data from other geospatial data sources and build a robust model for other calamities.Have a feedback system that works between the citizens and rescue organizations.Model to learn the address from the emergency appeals made by the citizens. 
+ Improve its narrative features; add audio and more interactive UI 
+  
+ Regulations: restrictions on OTC medications, similar to welfare guidelines (as per SNAP, WIC) Get corporate participation and matching  
+ Use this domain for some more crazy hacks 
+ My goal is to make the process of creating simulations faster through Ai prototyping.  
+ Connect with smart home APIs and utity companies. 
+ GreenUp hopes to expand its community reach by including more comprehensive solutions to pollution including local government and business involvement. 
+ Build a working user interface! 
+ We believe that we have finished the function that NPO wants and solve the problem successfully. However, there are a few features that we would like to have further development.Apex class enable on SalesforceSQL-like report generationTry it outgithub.comdocs.google.com      Submitted to    Opportunity Hack - San Jose 2019    Created by  I worked on processing data and consolidating data format to work with Salesforce. Also I helped with designing Salesforce database schema and generating reports and dashboards based on the data that we uploaded to Salesforce.Jing ZhaoI did the data receiving part. Including configuring Google Classroom API and making requests to get all the data we need as well as combining all the data from different requests. Also helped a bit on making Salesforce report.Han-Wei LinI designed the RESTful web service that allows our program to upload the data gathered from Google Classroom. Also, the web service server that is going to be used for Apex function on Salesforce. Lastly, the required settings in Salesforce, for example, configuring custom objects.Ching-Chan LeeRui Yang 
+  
+ From here, we wish to expand on our current knowledge base and play around with the MERN stack in our free time. We think that these technologies are really cool, and we want to learn more about how we could use them better. 
+  
+  
+  
+ With more time, features that would like ahead for ConnectMe include:A rule/admin/reporting system to keep order Create a framework for students to meet friends alongside a system for students to chat anonymously. 
+  
+ We will take it to market after some polishes of course.  
+ To include time progress, to show the growth of a given tweet. Include multilayer emotional analysis.Make it real-timeGET MORE DATA!!Include this product as a inter-industrial solution 
+ I will add resources once a result is given. Resources that help with all aspects of personal finances such as credit, all types of debt, real estate, and investing. 
+ Make more use of the API information 
+ Adding this feature to the American Airlines app to increase customer satisfaction with flights.  
+  
+  
+  
+ Testnet ASAP, production launch in the next month or two.Try it outnotrealcats.com      Submitted to    DeFi Hackathon    Created by  Not Real 
+ we would like to explore more deeply the crypto-economic implications of a reDAOmint and attempt to fully build out such DAO's including finding the necessary relationships with verifiers and land stewardsit would be worth exploring the abstractions of "shareholdere DAO's with dividends" and "fractional NFTs" more and possibly extract some of this functionality into more generic modules or potentially open standards within the Cosmos ecosystemwe would like to really integrate all of this with IBC and a DEX once those pieces are readywe intend to fully build out the ORM package 
+  
+ I will see how I can couple the device to actually order supplies directly- like the Amazon Dash button. I will also add more functionality to the buttons-- and will build more button devices! The device can also be used by consumers- put this device on your fridge so you get reminded to throw out that old milk, or to use your peppers before they go moldy! The platform is really versatile. 
+ To expand into more AI Smart Closet solutions; 
+ Customisation of payroll logic on Contracts 
+       Submitted to    HackRPI 2019    Created by  Xinhao Luo 
+ If the government hops in then all the identity proofs can be digitized. Also, instead of having all these different identities, we can have crypto identities or combination of both, the same as crypto currencies 
+  
+ We would like to configure Squink to hold the bulk of its stablecoin assets in a reserve composed of interest-bearing form, such as cDAI or cUSDC. This would enable Squink to offer some combination of better returns for liquidity providers and even lower prices.    
+ Hopefully the app will be further developed and have real world implications and applications. 
+ The plan is to take what we have today and implement that with the communities at school.K4 
+  
+ connect to ILP more robust loan collateralization, derivatives support. just have fun playing around w/ techunfortunately there is no UI for this.... 
+ We will explore ways to actually get this built using an actual codebase and try to make it reality. 
+  
+ Absolutely nothing. I'm retiring young from life. 
+ Allow for other use cases besides just arbitrage and support more decentralized exchanges.  
+  
+  
+ Private polls, a detailed break down of the votes, dropping of the detailed users to maintain anonymity and privacy. 
+ - Social networking and gamification- Full database integration- deployable app- Map of trees planted through Sprig-refine selection process... 
+  
+ Use data received from the drone to determine the priority of people in need by processing comments and looking for key words that would make a crisis more or less severe in order to help those in dire need first.  
+ Keep working on it after the hackathon. 
+ Finishing up the project, re-writing the codebase including writing another module for fee structures and governance. 
+  
+ Implementation of natural language processing to improve Google Cloud Vision accuracy. 
+ Allow people to create accounts for themselves and include badges, similar to what fitbit has, for attending a certain number of clean-ups, or filling 'x' many bags of trash. We could also use machine learning to try to confirm with the pictures people take that there is a lot of trash in the picture. 
+ We hope to expand this extension to have support in browsers such as Firefox as well as additional websites outside of Amazon. We also hope to expand the sources for our database so it can be more comprehensive.  
+ The machine learning model is on the right track but still requires refining. We hope to find better training data to have a model that more accurately reflects the context of the problem. We plan to implement security features like message encryption and user validation. We want to strengthen privacy by giving the user flexibility over which keystrokes are read. Finally, to better serve the needs of users, we want to better integrate psychological services into the experience of the app. 
+ If it receives interest it could be built up further and used in a wide array of applications both enterprise and commercial, ranging from disaster relief to allowing people to check their Twitter feed in AR. 
+ Next steps include acquiring a larger data set on the a larger variety of companies. Performace enhacement: using a database instead of reading from a csv. More publicity the more people use it the more the economy shifts to a human-centered capitalism model.  
+ We think that the next step after validating the proof of concept is to talk with the CapitalOne team to have access to their production API, so we can test more accurately our platform. 
+ In general, we hope this brings awareness to maintaining Earth. We hope to continue working on the application and gain company sponsors. 
+ The next step for Helping Hands is to create a fully functioning application that can have a user create an account, upload events and categorize them into different categories. Upon further research and development, there could be a feature that would send alerts or notifications about information about the natural disaster in the user’s area as well as which roads and highways are closed. This app would allow the user to enter their location and it should eventually spread to other cities other than Houston. It will also allow the user to make a difference in their community by helping out in locations nearby to their entered address. 
+ We hope to integrate Fitbit, and to be able to incorporate mobile so as to collect more pertinent location data that will allow first responders to track victims with more accuracy. The ability to incorporate mobile would allow us to track Fitbit users who are stuck in the homes in the event of an emergency. We also hope to eventually expand the customer base of FIND. The privacy of Fitbit users is one of our top priorities, and as of now only authorized government officials and emergency responders are planned to be permitted to access the Fitbit data. In the future, though, we will create an expansion of the FIND application that will be available to citizens. This sister application will allow friends and family members of a Fitbit user (and only them) to access the Fitbit data of the user. Before accessing FIND, said friends and family will have to receive authorization from the Fitbit user in question. The expansion is planned to allow family members to locate one another in case they get separated. 
+  
+ The original idea was to share the data between instances by utilizing a SQL server hosted in the cloud. However, because of time and other constraints, we are currently using data local to each app instead. Going forward, the first change we want to make is to create that SQL server, so that different instances of the app can connect to each other.We hope to eventually be able to implement this app with a connected web application side for the instructors to use. We already have the support of one professor who would be interested in seeing a tool like this, so we will likely keep developing this tool! 
+ There some things time to implement that would make the app much better and friendlier 
+ Gen 2 (Whales), adding more bats to gen 1, improving the ui, and getting a proper domain name. We also want to add features to make bats and environmental events more interactive. 
+ Live location tracking, Map out an emergency via user input and modelling heat mapping of affected areas 
+  
+ As of now, GroupYou is focused on maximizing diversity of education based teams. However, the importance of varied viewpoints stretches far beyond just the educational space and we would be interested in finding ways to expand this product into the workplace. In such an environment, the focus of GroupYou would become optimizing a team for performance, which would require more psychological studies, instead of promoting social mobility. 
+ Not really sure, perhaps the code can again be refactored and retrained for some other interesting use. Data analysis can always lead to some interesting observations when put to a new angle. 
+ We want our map to be more descriptive and also provide more relevant info about power outages such as those upcoming. 
+ With better skills in programming and a deeper understanding beyond first year physics, we could potentially apply this into aspects of river delta cleaning in our home countries, India and Malaysia! 
+ We can implement more features for this app in the future to make it more convenient to use and then use it in small communities like a university.Try it outgithub.comgithub.com      Submitted to    HackDuke: Code for Good 2019Winner                Uizard - Best Design                  Created by  I worked on the server-side of the project as well as the iOS client and the design.Shayan .ali ataiMark Mohades 
+ Sleep! We'd also like to reach out to local NPOs to discuss feasibility and gauge appetite towards building this type of website.  
+ There's a lot of ideas and improvements we are looking to make. We want to make the emergency contact feature more robust to support any number of friends or family members, include access to more emergency relief organizations, and enhance the community aspect of our emergency alert system. We also thought of implementing a rideshare service to pair evacuating drivers with elderly users who need help leaving a disaster area. In a similar vein, we also thought of including a delivery platform for emergency supplies -- similar to Doordash or Favor.  
+ Inspired yes 
+ White Paper 
+ We intend to complete and launch this payment app. 
+ We are actively working on launching this to the Ethereum mainnet once we have tested and audited the code! :)  
+  
+ Higher dimensions, more general alphabets.  
+ We plan on implementing several things starting with connecting our database to our front end. We wish to grow our community and improve our community aspect by crowdsourcing our media. We also hope to improve our front end by adding a swipe right and left model for media to help the user affirm what they liked and what they didn't. We wish to add computer vision, specifically emotion recognition using Microsoft Azure's API for emotion classification to rank our content in realtime based on user response. Finally, we hope to add machine learning algorithms to see what media would help each different kind of user the best.  
+  
+ The inclusion and correlation of the DW-Nominate scores! Are these scores statistically significant to market shifts as well? Do Congressmen/women with higher scores  tend to look more like Samuel Alito? The possibilities are endless. 
+  
+ We have lots of ideas for next steps. Currently our interface is a bit simple, but we could work on enhancing the experience by pulling in an image from the article links as well as a little blurb so that the user can get an idea of what the articles are about before clicking the links. We could also filter the sources of our results and intentionally display results that have different known biases than the original source. We considered adding an indicator about the political leanings of the source when results are displayed. 
+ Generalize the data display to view all kinds of image models and information: View news articles, Shop, Check the weatherIncreased amount of and more intuitive gestures for data view manipulationMore social aspects, saving lists, viewing with friends 
+  
+ More use control in the form of event creation, more scalability with Kubernetes, increased speed and accuracy of visualization libraries, and security improvements 
+ We are going to rollout our distribution strategy for UniBitX, and invite other blockchain projects to participate in our Raindrops.  We will campaign in West Africa through the Blockchain Foundation Africa, which has a presence in Ghana and Sierra Leone. We will also campaign with the Satoshi Center in Botswana.  
+ Make people aware that this may be a viable attack on cryptonetworks into the future. 
+  
+ For the future of Checc News, instead of using just an NLP model, we could combine it with a dataset of known unreliable sources and add it to the NLP model.  
+ Honestly? Trying to attach an animation rig to the monster after I'm done with the basic model. 
+ We hope to garner clientele and continue to further our initiative of enhancing and empowering the workforce through technological innovation.  
+ We plan to increase the scalability of our project.  We need to implement the different equations to calculate the different types of damaged with the different natural disasters.  Then we also need to calculate the different types and number of businesses operating in a given radius.  It currently operates on a macro-scale but we have created the tools to allow us to operate much more locally.  We also plan on using machine learning tools (such as Azure) to allow us to make even more accurate estimates and possibly even estimate vulnerability of a population with respect to aspects like age. 
+ For the future of ParkX, we plan on adding a live availability feature using sensors and a verification system for listers using their driver license. Incorporate app with airport garages with smart parking built-in already. We extend per-hour private parking for vehicles beyond cars (buses, trucks, etc). Implement authentication for listers using a driver license scanning system.Try it outgithub.com      Submitted to    HackTX 2019    Created by  Darshan BhattaRohith KarkalaMurtaza NeemuchwalaAshwanth 
+  
+  
+       Submitted to    DeFi Hackathon    Created by  -- -- 
+  
+ Next we'd add more and more functionality to our app like user creation, user authentication, native chat and payment methods, using geodata to influence feeds, and getting SSL certificates. 
+ More research about the potential vulnerabilities that can arise from allowing LSPs to be traded in NFT form. 
+ We are planning to further expand the capabilities of Ailee by implementing recommendations of other online resources which will help the struggling viewer to understand concepts from different resources. 
+  
+ Let it train for longer and watch! 
+  
+ Simple toy model application: Showing how pixels within an image could interact based on their HEX colour value and proximity to one another along a Hilbert curve. This would create some very beautiful and potentially freaky glitch artReinforcement learning paradigm: Given the expansive scale of the automata rules and the compounded interactions between them, there is a way to use this as a basis for reinforcement learning. This has been previously exhibited by embedding the patterns of the phonemes of English (all the phonemes of 135,000 words) in as little as a network of 13 rules interacting amongst themselves, and are currently being tested by us to learn the chaotic patterns generated within the logistic equation (bifurcation function). 
+  
+ I need to fix errors and add a scoring system.  
+ As mentioned above, we'd like to develop a messaging service within our app. Additionally, we'd like to use Google Firebase to store user data persistently. We'd also be interested in extending the idea of our product to buildings to drive innovation in the field of building energy efficiency.  
+ Fully implement Calendar API and correctly format date time.Develop teaching learning style analysis.Implement in classes at Duke. 
+ Hashing out the governing details of Probus. Coding Probus. ICO. Try it outgithub.com      Submitted to    DeFi Hackathon    Created by  I worked on research and ideation for Probus.Colleen NiJust a girl. Looking for her next hackathon. I integrated Probus with the Cosmos SDK, making use of Tendermint's Byzantine Fault Tolerance.Jaeson Booker 
+ Continue integrate with the cosmosTransfer knowledge across blockchainsExplore use cases in wikipedia or news 
+ I think there is a lot of potential with the data we have collected. Our main focus is on voters, so for the more data-savvy voters, we want to provide them the uncompressed sentiment data to allow users to view things like trends of sentiment over time, or variations of sentiments within articles of the same news source. Additionally, one thing we could do is sell access to our collected database of terms and sentiment for enterprise use since the terms are of phrases that voters have searched for and care about, and the sentiment data is always up to date thanks to hourly regathering of articles. 
+  
+  
+ We want to continue to add more levels of intensity to this application, and expand the subject material that we have to work with (dogs, public speaking, bugs, etc.). We also want to implement AR technologies as part of this app at the higher intensity ranges, to allow users to experience more intense simulations of their phobias.  
+  
+ Better functioning games with a more lessons. 
+ Porting our environment to an open-source "gym" so that researchers and enthusiasts can test out their RL ideas. We also want to do some further hyperparameter and reward tuning to create a strong baseline for others to compare against. 
+ Probably a total rewrite. The plugin system, along with much of Agoric's blockchain, are fairly early in development, but this early experiment has really helped us frame our future efforts around how to secure and optimize for this kind of interaction. 
+       Submitted to    WHACK Fall 2019    Created by  Olivia Grace ReblandoHannah Whellan 
+ Any industry facing trust issues when transaction of digital assets are being facilitated (rental leases, paperless contracts, etc.)Allow flexibility over other platforms (Mix and match pre-defined rules in contracts to suit each blockchain’s use case) 
+ The potential for multi-asset payment channels by leveraging IBC to integrate with coins like Terra and Agoric. Improving upon the on-chain privacy guarantees. Creating a friendly GUI.Even building on other blockchain platforms like Polkadot/Substrate and Near protocol. 
+ We have many plans!! First of all, we believe we can increase the number of features our AI Exo-plorer predicts. For example, we can add the other physical properties of the host star and see if our algorithm can find a correlation between the data and these newly added features.We also are planning to apply the AI Exo-plorer on a wider range of real light-curves from the TESS mission. 
+ We want to finish the story and make it complete with two different paths the reader can take to see different perspectives of the story and develop our characters. 
+  
+  
+ We would like to get our CosmicPi detector working in order to collect data and compare it to our simulated results. 
+ Integrate a weather checker for better cloth picking options. Also have a better cloth picking algorithm to have a better choice of color. 
+ We hope to see this idea implemented with a robust back-end and database that accepts multiple user inputs. In addition to this, we'd like to further improve on scalability with the hopes of having the program be integrated within the functionality of a large scale airline. 
+  
+  
+  
+ -Finding a free way to schedule when reminders are sent-Enhancing appearance while maintaining a simple interface for accessibility 
+ We will use our website to help evacuated people find housing through partnership with Airbnb and other housing platforms. Second, we will provide the Fire Department with information. Lastly, we will connect donation services for victims and have partnership with UBER and other ride-share platforms to help in evacuation efforts. 
+  
+ We hope to be ready for the next disaster. In order for this to happen, we hope to improve the Computer Vision to detect children/infants, and our model should be able to asses situations well. For example, it should be able to see a situation and determine what supplies are needed. Additionally, it would be good if we could provide a mapping of flood zones using Drone data along with elevation. 
+ Hmmm 
+  
+ more questions and pop up images 
+ Add collisions between particlesMake them merge in a way that conserves momentumMake their size relate to their massAdd a slider to modify gravitational constantAdd a versus mode and a score systemOptimize the code using GPU computingImprove accuracy in force calculation (possible, but necessary?) 
+ More levels, more cars, more everything! 
+  
+  
+ Use Neural Networks to label the thumbnails as clickbait or not.  
+ Make the route the shortest and least with crimes 
+ The next step for JukeCloud is to allow for cross-platform integration between various devices, such as iPhone, Android, and other mobile devices. After moving JukeCloud to a dedicated server, thousands of users online would be able to utilize it to enjoy music together. Furthermore, we can create public rooms as well so that people online can share their discoveries in music together.There is lots to be desired for the future of JukeCloud, and we will make it happen! 
+ We would like further improve our UI design, offering more information on hospitals and medical centers. Another useful feature we consider to implement is to cache the search history of user locally in user's device. Then next time when he enters the app he can just check out the past search results if he wants instead of locating and searching again. Also adding features like making appointments to visit the hospital or medical center in the app, rating for the hospital the user has visited in our app will be part of the future work. 
+ Moving forwards, we would like to make Full House public facing, so donors could be more informed about the supplies that shelters need. This could encourage people to make smarter donation decisions, that could both help underserved communities and reduce waste.  
+ With some more research, we hope to be able to find the relationship between the driving frequency and the patterns produced by the plate so that the simulation can be adapted to accept frequency inputs. Once we have a better understanding of the physics, we hope we can also simulate non-square plates, eventually arriving at simulations for arbitrary plate shapes. However, given that the math is complicated enough for square plates, we recognize that the second goal would require extensive research and significant dedication to complete. 
+ -Simulate for higher dimensions-Finding a way to estimate more precisely k_c-Make it more interactive as if it was a game 
+ Right now, Break the glass ceiling only consists of basic features for a recruitment management system. In the future, more features will be added including in-site messaging and advanced searching. 
+ Publication on Chrome Web Store in the next few days pending approval!Coming Soon: Integration with Twilio - See waitlist size by sending a text 
+ This simplified model could be used for educational purposes and, if improved significantly, it could be used in academia. 
+  
+  
+       Submitted to    McGill Physics Hackathon 2019    Created by  Lisa Dang 
+ Really build it out, its all about connecting the different pieces and adding more images and tags for the model.I would also love to see text being used as a part of this as well, maybe gather twitter posts and sentiment toward the products. 
+ We hope to add a My Costume function to allow users to "check out" and request a copy digitally and update a living spreadsheet with each check out to move costumes into the unavailable section We also hope to move our data to API instead of having as a string in the code (whoops).  
+ The next sequence for Moral Investment is to expand to different industries and not just focus on the electronics market. When we first started, we discussed using data from clothing companies, an industry known for harmful labor practices. Documenting the clothing industry is an interesting movement for Moral Investment.  
+ In the future, we want to expand Subscription Card to function as an actual credit card. We also want easier forms of accessibility for all users and potential integration with existing credit cards. We would also like to improve the U.I to enhance the user experience. Additionally, we would like send automated text messages to notify users that a monthly subscription fee was upcoming. 
+ Next step for cAR is expanding support for different services. Such as changing wiper fluid. Also optimizing our image recognition for multiple cars. 
+ Upload consciousness to a real tree for full immersion. 
+ We plan to allow the circuit builder to allow for more complex systems, by adding more operations per qubit, more qubits, and more quantum gates. We would also like to compare our test results to actual runs on Quantum computers (e.g. IBM Q) in order to further test the effectiveness of our simulation. 
+  
+ We plan to enhance the diversity of metrics used for mood detection and create a more seamless UX. 
+ Implement adverse conditions such as weather, terrain, and roads in suggesting paths to rescue operators.Specialties assignment to rescue operators. 
+ We'll try to find workaround for the coordinate singularity. It can be a problem in multiple systems. The data generated could then be used to train a neural net as we originally intended to do this hackathon. 
+ Finding a better algorithm that has some form of mathematical rigor to truly converge to better values. Use the foundation to optimize other practical questions about space travel like fuel consumption and how it can be optimized. Introduce better visualization method for trajectories.  
+ • Integration with external volunteers• Live updates about driver location• Planning and marketing events on the platform• Scaling and sharing the product with fellow non-profits• Developing internal sponsorship channels to accept donations 
+ We are going to integrate this feature as part of Google Maps app. In this way, not only routes for regular transporation but also routes for people in wheelchair or people having other kinds of difficulty are displayed in the app. More importantly, in order to improve the efficiency of data collection, we are going to implement a real-time system to automatically record the routes users have taken into the database. We will then specify the types of disabilities for which the routes are available so that the recommended route options are more personalized. Also, we will provide estimated time for the selected routes.  
+ We're looking to create a dataset of pairs of frames so that we create a neural network using Keras to predict the next state given the current one. Then, we would like to import that model back into the browser so that we can have a less computationally expensive simulation. 
+     Created by  David ChenSophomore ECE @ UT Austin 
+  
+  
+ We hope to make CycleIt mimic a social media platform, allowing users to share items that they have recycled or reused. Individuals would be able to keep track of their weekly sustainable practices, and informally compete with their friends. We also hope to expand the image classification information. For example right now the image classifier only outputs a binary-either an item is recyclable or not. We hope to adde more nuance to this discussion, potentially adding more cases for items such as batteries, which are able to be recycled if dropped off in specialized bins. 
+ If we were to continue working on this website we would better learn formatting and styling and figure out how to program games and generally create things within the actual website itself to execute our vision in a better way. 
+ A potential next step could be strengthening our understanding of this relationship by way of a much larger sample size of data. Due to time limitations, we were only able to scrap ~600 tweets per event, not nearly the amount we think is necessary to judge public opinion. We could also use these insights to potentially learn how to create a better structure for funding these disasters. 
+ Usage of tensorflow for a neater source code and use of more sophisticated networks for better predictions. 
+ Treeler could be a project that would continue going forward if popularity rises and people want the product. This would be something good since people would be motivated to be active and go around planting trees. 
+ The next thing for Flare is to get a larger data set, create more victim identification models, and enhance the UI/UX design by following material design. 
+  
+ We would like to train a natural language model, so that we can get more topics to chat about with the bot. We would like to add other readability scores, so that we can get more accurate information about the user in a variety of situations. 
+ Fix many bugs we've created(balls move together, walls, etc.) and add more levels 
+ We envision for Survival Mode an expansion of our website into cloud hosting so we can extend our services to volunteers and first responders. We plan on having the U.S. use our app during times of natural disasters.  
+ A more accurate model can be trained with more data. We should specify the constraints for the model. For example, landscape, location, human activity index. etc. There's a huge paper by NOAA about how to make climate predictions, please read if you are interested. 
+ The future of Storme Breaker will be a fully mobile app that can know you location and warm for any natural disaster happening and if you are in danger of that. Additionally, we are going to implement AI and machine learning to warn the user ahead of time for potential threats and disasters.  
+ The next step would be to integrate with the American Airlines website and mobile app. 
+  
+ We plan to collect more data to improve on the models and create a more comprehensive reward system for users using NLP anchoring. 
+  
+ Our top priority is to integrate our program into the website outlined in the prototype. Additionally, WeatherHere will examine the conditions of cities along the desired route, determining which route has the most ideal weather. Then, WeatherHere will suggest the user take that route and make a pit stop at a city along the way, since the weather will be nice there. 
+ Ability to send all material and products into an organized list so the customer can check out easily. 
+ We would like the website to have the ability to get the utility bill of the user through scrapers to automate the tracking of the users' utility bills.We would also like to explore how The Green Path could be turned into a widget that can connect to smart meters in people's homes and technologies like Google Home for a more detailed breakdown of how much is being used and where in order to use machine learning algorithms to provide more personalized suggestions for how to reduce utility consumption. 
+ I would like to also implement Google's Elevation API to create multiple routes based on elevation. This allow the web app to generate routes of varying difficulty, which also gives users more routes to choose from. 
+ Our team has decided to continue with this project after WHACK. We would like to find even more feasible applications for our project. We are already underway researching other alternatives in terms of hardware and would like to design a more durable and water proof case for our device. Thus making it washer and dyer friendly. Also making it difficult for unauthorized personal to remove or tamper with the device. Even though we collected a massive amount of data to design our projects baseline on readings, we would like to continue to do so in order to make our data even more accurate and effective. On the application side we would like to see more content for newer parents available. Links and resources to help them better look after their precious ones. 
+ We are going to put ads and become millionaires 
+  
+ We hope to integrate fault-tolerance into the product, as well as develop a fraud detection model. The fraud detection module would randomly ask the user to answer a binary classification problem for a prelabeled image as a test of user aptitude. In addition, it would remember players who consistently fail the aptitude test and/or give answers that turn out to be outliers. These players would receive a punishment that leads to their answers having less weight compared to other users. Likewise, players who consistently pass the aptitude test and give strong answers will receive a reward that increases their importance. Players could receive some indication of their importance and perhaps receive a monetary reward if they do particularly well.We could also attempt to gamify the experience by adding a player leaderboard, with players ranked by number of questions answered. Another idea is to add daily quests that lead to a monetary reward. Both of these ideas make the users feel more connected with one another. Furthermore, they provide a competitive push for them to classify more images. 
+ Sound would be the next step, which would require a few more hours perusing the SDL Wiki. Most of the opcode interpretation was done in a large switch case, so another step would be to procedurally generate interpretation through function pointers. 
+ A full game hopefully.  
+ Long-term, we seek to add more hashtag features to the bot, expand our bots' ability to recognize environmentally friendly/unfriendly objects, and finish our website by adding many ways for the consumer to volunteer and serve. In order to do so, we want to build a web-scraper to collect data from the web to offer a diverse collection of information to our users. Additionally, we plan to build a more automated bot that is able to reach out to more people and keep them engaged with their communities.  
+ Next we hope to fully integrate the Google Cloud database. We would like to add more security features, and users to the database. 
+ Further functionalities will be implemented including calling, a dashboard for emergency responders and much more! 
+ Adding the ability to see the previous dangers in your area 
+ Future versions of the smart mirror include adding a camera within the frame of the mirror so that when a certain user approaches the mirror a customizes smart layout can be displayed. 
+ This can be further extended to run a pre-trained low resource (less accuracy, kind of like the first pass) Neural net architecture on the drone itself and flagging the Relief teams faster, and then sending the feed to Center as the second pass.The Data-Center block can be used as a second pass to assure we have high accuracy in the entire system.The algorithm can be fine-tuned to run on low resources as a Raspberry Pi module attached to a drone. Drones can talk to each other and notify other drones about hot areas, such that those drones can automatically scan such areas which will increase the field of view.  
+  
+  
+  
+ We would love to complete this tool now that we know what steps need to be taken. 
+  
+ We plan to polish AudioAlpha more and add more features. Although we only had 24 hours, we got some of the core features done, and we feel that it serves well as a project. The interface could use some work, but we feel that the most important part as the core features.Try it outgithub.com      Submitted to    hackPHS 2019    Created by  Abhay Sheshadri 
+  
+ For our website, we have plans to add many useful features that will greatly extend the functionality of DuckView. These features will include the ability to upload your resume, where we will then generate questions based off the resume's content and check if the user properly talks about said content. Also, DuckView would be a fantastic way to connect with employers, so we plan to add features that allow companies to generate their own questions and provide application opportunities to users. These features would of course require the implementation of the previously mentioned user accounts. Overall, this project has definitely inspired us to continue adding more features to the website to create a very useful tool for people like us looking to develop their careers. 
+  
+ We're thinking about turning this into a mobile app! We feel there's a lot of potential in this idea and we want to spread this to as many people as possible. 
+ Automatic inform the next people in line to come 
+ Fixing minor bugs Get SSL/HTTPS working with flaskexpanding compatibility for videofixing the redirect issues with our domain name! 
+  
+ -Consider audio levels of the stream (in mp4 form) for even better highlights?You can try clipit at http://clipit.space ! If you don't have a VOD in mind, we recommend twitch.tv/videos/502873475 . It was a great match! 
+ We want to be able to add further functionality that we believe is essential to the application, and we hope to be able to find a school community to test our application. We believe that schools nationwide will be able to utilize our application and provide services to these students in need. 
+ Increasing scalability up our product by implementing a CDN, breaking up the database.  
+ Clean up the codebase so others can easily launch CovensFinish the AAVE liquidator python notebook 
+  
+ We would take in more data to better our program. We could even turn this into a charity to help insure  
+  
+ We are planning to incorporate Alexa(voice integration) and stock trading into our website.  
+ Since our hope is that this could make a difference in the way search parties work, it would be pretty great to launch it on the Play Store, but of course we have some more development to do before then. Another feature we'd really like to include is the ability to select an area you're going to start searching, so that other people can see that someone has that area covered, even if it hasn't been searched yet.  
+ I would hope to implement many features for Eldy including a complete user profile, an in-app messaging system, and a way to connect people who are interested in the same activities so that they can make plans together.  
+  
+ Confidant addresses pervasive issues with technologies that have far-reaching potential to make people's lives better by giving them confidence.In the future, we plan to integrate unconscious bias detection and training by allowing users to train on a diverse set of conversation companions (differing in skin color, gender, and age). We believe that respect for all people and equal treatment is a key aspect of a progressive society; Confidant is a significant facilitator to make that happen. 
+  
+ We want to give the model more time and data for more accurate results. We also want to expand the number of classes that the model can detect to give more specific results as to what is needed. 
+ In the future, I would like to build a text chat service between the patient and therapist using ActionCable. As of now, patients can request video chats and include a description of their issue to available therapists. Their page is dynamically re-rendered when the therapist accepts. However, a video chat would improve the process of communicating availability and reduce the stress already experienced so much by the patient. 
+ Next: I will need to deploy it to the web for everyone to use. Right now it runs on localhost (time not permitting to deploy this due to the hackathon's time constraint).Special thanksShoutout to Funing Yang who gave excellent ideas of how to design the cover page of this web app and also how to draft the motivation page. 
+  
+ We hope to turn our algorithm for finding the cheapest foods into a linear programming problem / optimization question in the future. In this manner it would be more efficient to find the cheapest foods. Perhaps in the future the app could be expanded into a "quick eats" delivery service or a monthly subscription where foods are delivered to your door. Another extension might be adding user account/profile and using AI algorithm to predict and recommend optimal nutrition facts based on user profile and nutritional needs.   
+ We want to be able to build out the organization and add more features. We also want to be able to create news feeds from media and create a powerful AI to search for new disasters. We also want to create more engagement with the community by implementing a forum where people can talk about the disaster and post pictures and allow them to create an account to provide a more personalized experience. 
+ We think this project will be more powerful if it can be connect with the user's personal record of traffic violation and accidents. 
+ 1) Mobile version2) Better UI3) More data for training 
+ Developing a stronger machine learning accuracy rating and building features that allow Warning Shot to be a fully implementable product for schools and common areas such as malls, concerts, and movie theaters. 
+  
+ We are really proud of our project, so we definitely think we will be actively developing it as the year goes on. We didn't have enough time to make the UI as perfect as we wanted, so we want to update that, and we want to add new features such as more tips for offline and group shelters.  
+ We plan to add functionality to tell how long it will take to Charge at a station, depending on the type of charger present, as well as the cost of charging. We have both of these delivered in a JSON, and only have to work on their presentation on the frontend. We also plan to work on the frontend some more, as we are currently unsure of whether to allow more user customizability or focus more on simplicity.  
+  
+  
+ Finish Mobile applicationData model refactorSupport bluetooth Gathering additional informationWho each peer came in contact withExtra meta fieldDecide where to send aid to most effectively help natural disaster victims 
+ To create a social impact and improve the lives of others. Our goal is to complete the app and have it available to a wide range of people. We hopethat through our app we can help combat and decrease the student loan debt and encourage and educate so that theycan be prepared from the future. We created a MeLoan web page using Javascript, CSS/HTML. For our mobile app, we used Swift. I am proud I was able to use Swift to create a large portion of the front-end app, even though it was my first time using Swift. I learned that whether even when I am a novice at something, that I should not be afraid to tackle it heads on.We hope to continue to work on the app and continue to learn and improve our skills.     Created by  Ilka Jean 
+ We have tons of cool ideas for Ploutos that our users are gonna love and we are 100% sure that we can accomplish it but, due to the time constraints we were unable to fit everything in though we have things ready.A novel method we want to implement is Spatio-Temporal Forecasting ie 3D Forecasts where we consider Spatial aspect with time. In future we want to implement all those ideas that we have and more over take users feedback and suggestions and improve towards the dashboard for their liking. 
+  
+ Since each person you call may have different time schedules. We will consider each schedule for each person you want to call and import it into database. Now you no longer enter the location; instead, you enter the person you want to call as the input. Timebot will automatically show the time and date at that location for that person, what they might be doing right now and whether you should make a phone call.   
+ Maybe designing video or audio calls 
+ More human like interaction 
+  
+  
+  
+  
+  
+  
+ math - English integration games more levels 
+ The next steps for TutorHive are to explore the areas of scripting, databases, website development and server management/development. We plan on continuing this project as we believe that an actual working prototype could be a worthwhile venture to seek. https://docs.google.com/presentation/d/1Ktml9f2TqzF9BiMHDCmwsf6UDR0dvKBXI4kVMot4aQU/edit?usp=sharing 
+ Building a larger network to train on larger datasets 
+  
+ Beautify 
+ A game that is playable 
+ We hope to add more levels to the game in the future. 
+ See the attached files 
+ We need to fix an error of changing screens. Also, we need to add various times to select such as 45 mins and 25 mins. 
+ To attempt making requests instead of locally to running on a server. 
+ To bring the project to completion 
+  
+  
   
  
