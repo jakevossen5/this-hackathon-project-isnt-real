@@ -298,11 +298,6 @@ the_site = '''
             <a class="active" href="/software/cookie-injection-but-with-real-cookies">Story</a>
           </h4>
         </li>
-        <li>
-          <h4>
-            <a href="/software/cookie-injection-but-with-real-cookies#updates">Updates <span class='side-count'>2</span></a>
-          </h4>
-        </li>
       </ul>
     </div>
   </div>
@@ -533,54 +528,6 @@ the_site = '''
 </div>
 
 
-      <article class="content-section software-update with-sidebar" data-commentable-id="166797">
-  <div class="row">
-    <div class="large-8 small-12 columns">
-      <div data-region="actions"></div>
-
-      <div class="media">
-        <div class="media-left">
-          <a class="update-user-avatar user-profile-link" href="https://devpost.com/jakevossen"><img alt="Jacob Vossen" class="user-avatar user-photo gravatar_image image-replacement" title="Jacob Vossen" onerror="this.onerror=null;this.src=&#39;https://devpost-challengepost.netdna-ssl.com/assets/defaults/no-avatar-100-17cf519ce6f8e4e0e83758ea09fc5eb3.png&#39;;" src="https://www.gravatar.com/avatar/b6cfd75473ae34088eaad669c442988e?d=https%3A%2F%2Fdevpost-challengepost.netdna-ssl.com%2Fassets%2Fdefaults%2Fno-avatar-180.png&amp;s=180" /></a>
-        </div>
-        <div class="media-content">
-          <p class="author small">
-            <a class="user-profile-link" href="https://devpost.com/jakevossen">Jacob Vossen</a>
-            posted an update
-            <span class="light-text">
-              &mdash;
-              <a class="timestamp light-text" href="/software/cookie-injection-but-with-real-cookies/updates/166797">
-                <time class="timeago" datetime="2019-02-26T12:13:20-05:00">
-                  Feb 26, 2019 12:13 PM EST
-                </time>
-</a>            </span>
-          </p>
-
-          <p>Made open source MIT license, put GitHub link</p>
-
-
-          <section class="software-update-comments" data-layout="comments">
-  <div data-region="load-more"></div>
-  <div data-region="comments"></div>
-
-    <form class="simple_form comment-form" data-single-submit="true" novalidate="novalidate" id="new_comment" action="/software_updates/166797/comments" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="0flClWKc0RSBOKoXO3zVBac57DTs6iJ/QK2NY++2jIOPRTSHGxN4kPq2DAdb1DOaOg49yPiWsV1DQaDnZfNTqw==" />
-    <h3>
-      <label for="comment_body">Comments</label>
-    </h3>
-
-    <div class="comment-column">
-      <div class="media">
-        <div class="media-left">
-          <a class="user-profile-link" href="https://devpost.com/jakevossen"><img alt="Jacob Vossen" class="user-avatar user-photo gravatar_image image-replacement" title="Jacob Vossen" onerror="this.onerror=null;this.src=&#39;https://devpost-challengepost.netdna-ssl.com/assets/defaults/no-avatar-100-17cf519ce6f8e4e0e83758ea09fc5eb3.png&#39;;" src="https://www.gravatar.com/avatar/b6cfd75473ae34088eaad669c442988e?d=https%3A%2F%2Fdevpost-challengepost.netdna-ssl.com%2Fassets%2Fdefaults%2Fno-avatar-180.png&amp;s=180" /></a>
-        </div>
-        <div class="media-content">
-          <div class="input text required comment_body"><textarea class="text required" placeholder="Write a comment" name="comment[body]" id="comment_body">
-</textarea></div>
-          <input type="hidden" name="comment[location]" id="comment_location" value="project detail page" />
-          <input type="submit" name="commit" value="Post comment" class="btn button radius small" />
-        </div>
-      </div>
-    </div>
-</form>
 </section>
 
         </div>
@@ -590,54 +537,13 @@ the_site = '''
     <div class="columns"></div>
   </div>
 </article>
-<article class="content-section software-update with-sidebar" data-commentable-id="166661">
-  <div class="row">
-    <div class="large-8 small-12 columns">
-      <div data-region="actions"></div>
-
-      <div class="media">
-        <div class="media-left">
-          <a class="update-user-avatar user-profile-link" href="https://devpost.com/jakevossen"><img alt="Jacob Vossen" class="user-avatar user-photo gravatar_image image-replacement" title="Jacob Vossen" onerror="this.onerror=null;this.src=&#39;https://devpost-challengepost.netdna-ssl.com/assets/defaults/no-avatar-100-17cf519ce6f8e4e0e83758ea09fc5eb3.png&#39;;" src="https://www.gravatar.com/avatar/b6cfd75473ae34088eaad669c442988e?d=https%3A%2F%2Fdevpost-challengepost.netdna-ssl.com%2Fassets%2Fdefaults%2Fno-avatar-180.png&amp;s=180" /></a>
-        </div>
-        <div class="media-content">
-          <p class="author small">
-            <a class="user-profile-link" href="https://devpost.com/jakevossen">Jacob Vossen</a>
-            posted an update
-            <span class="light-text">
-              &mdash;
-              <a class="timestamp light-text" href="/software/cookie-injection-but-with-real-cookies/updates/166661">
-                <time class="timeago" datetime="2019-02-24T14:47:51-05:00">
-                  Feb 24, 2019 02:47 PM EST
-                </time>
-</a>            </span>
-          </p>
-
-          <p>We are table 21 if you can't find us</p>
 
 
           <section class="software-update-comments" data-layout="comments">
   <div data-region="load-more"></div>
   <div data-region="comments"></div>
 
-    <form class="simple_form comment-form" data-single-submit="true" novalidate="novalidate" id="new_comment" action="/software_updates/166661/comments" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="wQjalm+ZFsk3eXfOGFlZjG6nf/SGxQppIzzLnZKzLlaftKyEFha/TUz30d548b8T85CuCJK5mUsg0OYZGPbxfg==" />
-    <h3>
-      <label for="comment_body">Comments</label>
-    </h3>
 
-    <div class="comment-column">
-      <div class="media">
-        <div class="media-left">
-          <a class="user-profile-link" href="https://devpost.com/jakevossen"><img alt="Jacob Vossen" class="user-avatar user-photo gravatar_image image-replacement" title="Jacob Vossen" onerror="this.onerror=null;this.src=&#39;https://devpost-challengepost.netdna-ssl.com/assets/defaults/no-avatar-100-17cf519ce6f8e4e0e83758ea09fc5eb3.png&#39;;" src="https://www.gravatar.com/avatar/b6cfd75473ae34088eaad669c442988e?d=https%3A%2F%2Fdevpost-challengepost.netdna-ssl.com%2Fassets%2Fdefaults%2Fno-avatar-180.png&amp;s=180" /></a>
-        </div>
-        <div class="media-content">
-          <div class="input text required comment_body"><textarea class="text required" placeholder="Write a comment" name="comment[body]" id="comment_body">
-</textarea></div>
-          <input type="hidden" name="comment[location]" id="comment_location" value="project detail page" />
-          <input type="submit" name="commit" value="Post comment" class="btn button radius small" />
-        </div>
-      </div>
-    </div>
-</form>
 </section>
 
         </div>
