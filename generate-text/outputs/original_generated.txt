@@ -1,0 +1,50 @@
+I had been looking to build a simple and scalable web application to help people to save money without having to spend time on their email inboxes, but that wasn't anywhere near where I wanted to be at any of the time in my life. So I decided to try it out.
+
+Why?
+
+Because of the lack of unified interface and the use of single-page, I was looking for a way to add some simplicity to the application without having to have to deal with multiple pages.
+
+What's next?
+
+I worked on writing a prototype of the application and I wanted to get better at generating the output of the front-end. So I put together an Arduino-based panel to control the output of the front-end; I also had to keep the Arduino running on my laptop.
+
+What's next?
+
+I will be building a new version of the application from scratch for people to use. I will be using Python, and I'll be using other libraries to help me develop.
+
+What's next?
+
+I will be using Python for the front-end and Arduino for the Arduino-based front-end. I'll be using another library to help me develop the application.
+
+What's next?
+
+I'll be using Python and OpenCV to manipulate the output from the front-end. I will be using OpenCV to manipulate the output from the front-end. I'll be using another library to help me develop the application.
+
+What's next?
+
+I will be using Python and OpenCV for the front-end. I will be using another library to help me develop the application.
+
+What's next?
+
+I'll be using Python and OpenCV for the front-end. I will be using another library to help me develop the application.
+
+What's next?
+
+I plan to use OpenCV for the backend. I plan to use Python to manipulate the output.
+
+What's next?
+
+I plan to use OpenCV for the front-end. I plan to use Python for the backend. I plan to use OpenCV for the backend. I plan to use OpenCV for the backend. I plan to use OpenCV for the backend. I plan to use OpenCV for the backend. I will be using OpenCV for the backend.
+
+What's next?
+
+I plan to use OpenCV for the front-end. I plan to use Python. I will be using vim to work with the front-end. I will be using OpenCV for the backend.
+.
+
+What's next?
+
+I'm inspired by the rise of the Internet and I wanted to create a tool that would help people who are living with a serious illness to live more easily. I use e-mail too and a lot of people are at the same time. I want to help people to live more easily. I also want to help people to live better. I'd like to help people to live better. I want to help people to live better. I'd like to help people to live better. I want to help people to live better.
+
+What's next?
+
+I plan to use Git and Git to create a public github repository for the project. I plan to use the Lime Repository to create a public GitHub repository for the project. I'll also use the existing GitHub repository for the project. I will be using the existing GitHub repository for the project. I plan to use the existing GitHub repository for the project. I will be using the existing GitHub repository for the project. I will be using the existing GitHub repository for the project. I will be using the existing GitHub repository for the project. I will be using the existing GitHub repository for the project. I will be using the existing GitHub repository for the project. I will be using the existing GitHub repository for the project. I will be using the existing GitHub repository for the project. I will be using the existing GitHub repository for the project. I will be using the existing GitHub repository for the project. I will be using the existing GitHub repository for the project. I will be using the existing GitHub repository for the project. I will be using the existing GitHub repository for the project. I will be using the existing GitHub repository for the project. I will be using the existing GitHub repository for the project. I will be using the existing GitHub repository for the project. I will be using the existing GitHub repository for the project. I will be using the existing GitHub repository for the project. I will be using the existing GitHub repository for the project. I will be using the existing GitHub repository for the project. I will be using the existing GitHub repository for the project. I will be using the existing GitHub repository for the project. I will be using the existing GitHub repository for the project. I will be using the existing GitHub repository for the project. I will be using the existing GitHub repository for the project. I will be using the existing GitHub
