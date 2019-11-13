@@ -23,10 +23,10 @@ will be a winner, and also generate new fake hackathon projects.
 Running is just running the `site.py` file in `generate-text`
 directory with Python 3. That will start a local server on port 80 in
 dev mode. You will need some Python dependencies which can be
-installed with `pip3`, such as `beautifulsoup4`, `flask`,
-`wtforms`, `numpy`, `scikit-learn`, and `matplotlib`. You can then navigate to `localhost` for the randomly
-generated posts, and `localhost/predict` to enter the title of a
-devpost to predict the title.
+installed with `pip3`, such as `beautifulsoup4`, `flask`, `wtforms`,
+`numpy`, `scikit-learn`, and `matplotlib`. You can then navigate to
+`localhost` for the randomly generated posts, and `localhost/predict`
+to enter the title of a devpost to predict if that project will win.
 
 ### Brief Technical Description
 
@@ -61,7 +61,8 @@ correlation between any quantitative data that can be pulled from a
 devpost and the project's success. So that is a fat our bad. The
 prediction algorithm will classify a project with the same accuracy as
 that of a slightly more insightful coin. Someone kept moving things
-around in the git repo and Jake forgot his glasses. Also our bot got waaaaay too political.
+around in the git repo and Jake forgot his glasses. Also our bot got
+waaaaay too political.
 
 #### Accomplishments that I'm proud of
 - Successfully implemented k-nearest neighbors
@@ -74,4 +75,6 @@ around in the git repo and Jake forgot his glasses. Also our bot got waaaaay too
 - Jeb Bush was in prison for 30 years
 
 ### What's next for This Hackathon Project is Not Real
-- We plan to continue by creating random manifesto generators and exploring writing our own novels by training our bot on individual author’s styles.
+- We plan to continue by creating random manifesto generators and
+  exploring writing our own novels by training our bot on individual
+  author’s styles.
