@@ -3,7 +3,8 @@
 ## About
 
 This is a [hackathon](https://en.wikipedia.org/wiki/Hackathon) project
-for [Hack UTD VI](https://hackutd-vi.devpost.com).
+for [Hack UTD VI](https://hackutd-vi.devpost.com). It is no longer
+maintained.
 
 At hackathons, you submit what is called a devpost at the end. it is
 basically a short blog post about what you did, why you did it, what
